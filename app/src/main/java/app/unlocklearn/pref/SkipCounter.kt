@@ -50,6 +50,3 @@ class SkipCounter(private val context: Context) {
         private val KEY_DATE = stringPreferencesKey("skip_date")
     }
 }
-
-/** 顶层 DataStore 委托，整个应用共享一个 */
-private val Context.dataStore: DataStore<Preferences> by preferencesDataStore(name = "unlocklearn_settings")
