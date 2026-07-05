@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "bank_id": "english.primary.pep3",
+    "subject": "english",
+    "category": "primary",
+    "name": "人教PEP小学三年级",
+    "name_en": "PEP Primary English Grade 3",
+    "cefr_level": "preA1",
+    "total_items": 5,
+    "source": "人教PEP教材",
+    "license": "CC-BY-SA 4.0",
+    "updated_at": "2026-07-05"
+  },
+  "items": [
+    {
+      "id": "pep3_wc_0001",
+      "type": "word_choice",
+      "difficulty": 1,
+      "tags": ["noun", "animal"],
+      "payload": {
+        "word": "cat",
+        "phonetic": "/kæt/",
+        "pos": "n.",
+        "definitions": ["猫"],
+        "options": ["猫", "狗", "鸟", "鱼"],
+        "answer_index": 0,
+        "example": "I have a cat.",
+        "example_translation": "我有一只猫。"
+      }
+    },
+    {
+      "id": "pep3_wc_0002",
+      "type": "word_choice",
+      "difficulty": 1,
+      "tags": ["noun", "color"],
+      "payload": {
+        "word": "red",
+        "phonetic": "/red/",
+        "pos": "adj.",
+        "definitions": ["红色的"],
+        "options": ["红色", "蓝色", "绿色", "黄色"],
+        "answer_index": 0,
+        "example": "The apple is red.",
+        "example_translation": "苹果是红色的。"
+      }
+    },
+    {
+      "id": "pep3_wc_0003",
+      "type": "word_choice",
+      "difficulty": 1,
+      "tags": ["noun", "food"],
+      "payload": {
+        "word": "apple",
+        "phonetic": "/ˈæpl/",
+        "pos": "n.",
+        "definitions": ["苹果"],
+        "options": ["苹果", "香蕉", "橙子", "葡萄"],
+        "answer_index": 0,
+        "example": "I like apples.",
+        "example_translation": "我喜欢苹果。"
+      }
+    },
+    {
+      "id": "pep3_sp_0001",
+      "type": "spelling",
+      "difficulty": 1,
+      "tags": ["noun", "animal"],
+      "payload": {
+        "definition": "狗",
+        "answer": "dog",
+        "phonetic": "/dɒɡ/",
+        "pos": "n.",
+        "hint_letters": [0],
+        "example": "The dog is barking."
+      }
+    },
+    {
+      "id": "pep3_lc_0001",
+      "type": "listening_choice",
+      "difficulty": 1,
+      "tags": ["noun", "school"],
+      "payload": {
+        "word": "book",
+        "phonetic": "/bʊk/",
+        "definitions": ["书"],
+        "options": ["书", "笔", "桌子", "椅子"],
+        "answer_index": 0,
+        "use_tts": true
+      }
+    }
+  ]
+}

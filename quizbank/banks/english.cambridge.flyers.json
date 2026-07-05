@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "bank_id": "english.cambridge.flyers",
+    "subject": "english",
+    "category": "cambridge_flyers",
+    "name": "剑少 Flyers 核心词汇",
+    "name_en": "Cambridge English Flyers Vocabulary",
+    "cefr_level": "A2",
+    "total_items": 15,
+    "source": "ECDICT + 人工校验",
+    "license": "CC-BY-SA 4.0",
+    "updated_at": "2026-07-05"
+  },
+  "items": [
+    {
+      "id": "flyers_wc_0001",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["noun"],
+      "payload": {
+        "word": "adventure",
+        "phonetic": "/ədˈventʃə(r)/",
+        "pos": "n.",
+        "definitions": ["冒险", "奇遇"],
+        "options": ["冒险", "休息", "工作", "学习"],
+        "answer_index": 0,
+        "example": "Their trip was a great adventure.",
+        "example_translation": "他们的旅行是一次伟大的冒险。"
+      }
+    },
+    {
+      "id": "flyers_wc_0002",
+      "type": "word_choice",
+      "difficulty": 1,
+      "tags": ["noun", "travel"],
+      "payload": {
+        "word": "airport",
+        "phonetic": "/ˈeəpɔːt/",
+        "pos": "n.",
+        "definitions": ["机场", "航空港"],
+        "options": ["学校", "医院", "机场", "公园"],
+        "answer_index": 2,
+        "example": "We will meet at the airport.",
+        "example_translation": "我们将在机场见面。"
+      }
+    },
+    {
+      "id": "flyers_wc_0003",
+      "type": "word_choice",
+      "difficulty": 1,
+      "tags": ["adv"],
+      "payload": {
+        "word": "already",
+        "phonetic": "/ɔːlˈredi/",
+        "pos": "adv.",
+        "definitions": ["已经"],
+        "options": ["从未", "已经", "将来", "正在"],
+        "answer_index": 1,
+        "example": "I have already finished my homework.",
+        "example_translation": "我已经完成了作业。"
+      }
+    },
+    {
+      "id": "flyers_wc_0004",
+      "type": "word_choice",
+      "difficulty": 1,
+      "tags": ["noun"],
+      "payload": {
+        "word": "animal",
+        "phonetic": "/ˈænɪml/",
+        "pos": "n.",
+        "definitions": ["动物"],
+        "options": ["植物", "动物", "食物", "颜色"],
+        "answer_index": 1,
+        "example": "The zoo has many kinds of animals.",
+        "example_translation": "动物园里有很多种动物。"
+      }
+    },
+    {
+      "id": "flyers_wc_0005",
+      "type": "word_choice",
+      "difficulty": 1,
+      "tags": ["verb"],
+      "payload": {
+        "word": "arrive",
+        "phonetic": "/əˈraɪv/",
+        "pos": "v.",
+        "definitions": ["到达", "抵达"],
+        "options": ["离开", "到达", "返回", "停留"],
+        "answer_index": 1,
+        "example": "The train will arrive at noon.",
+        "example_translation": "火车将在中午到达。"
+      }
+    },
+    {
+      "id": "flyers_wc_0006",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["adj"],
+      "payload": {
+        "word": "asleep",
+        "phonetic": "/əˈsliːp/",
+        "pos": "adj.",
+        "definitions": ["睡着的"],
+        "options": ["醒着的", "睡着的", "饥饿的", "疲倦的"],
+        "answer_index": 1,
+        "example": "The baby fell asleep quickly.",
+        "example_translation": "婴儿很快就睡着了。"
+      }
+    },
+    {
+      "id": "flyers_dc_0001",
+      "type": "definition_choice",
+      "difficulty": 2,
+      "tags": ["noun"],
+      "payload": {
+        "definition": "艺术家",
+        "phonetic_hint": "/ˈɑːtɪst/",
+        "options": ["artist", "art", "arm", "army"],
+        "answer_index": 0,
+        "example": "She wants to be an artist."
+      }
+    },
+    {
+      "id": "flyers_dc_0002",
+      "type": "definition_choice",
+      "difficulty": 1,
+      "tags": ["noun"],
+      "payload": {
+        "definition": "秋天",
+        "phonetic_hint": "/ˈɔːtəm/",
+        "options": ["autumn", "august", "aunt", "artist"],
+        "answer_index": 0,
+        "example": "Leaves turn yellow in autumn."
+      }
+    },
+    {
+      "id": "flyers_dc_0003",
+      "type": "definition_choice",
+      "difficulty": 2,
+      "tags": ["noun"],
+      "payload": {
+        "definition": "双肩包，背包",
+        "phonetic_hint": "/ˈbækpæk/",
+        "options": ["backpack", "back", "basket", "backyard"],
+        "answer_index": 0,
+        "example": "He put his books in his backpack."
+      }
+    },
+    {
+      "id": "flyers_sp_0001",
+      "type": "spelling",
+      "difficulty": 2,
+      "tags": ["noun", "plant"],
+      "payload": {
+        "definition": "竹子",
+        "answer": "bamboo",
+        "phonetic": "/ˌbæmˈbuː/",
+        "pos": "n.",
+        "hint_letters": [0, 4],
+        "example": "Pandas eat bamboo."
+      }
+    },
+    {
+      "id": "flyers_sp_0002",
+      "type": "spelling",
+      "difficulty": 1,
+      "tags": ["noun", "sport"],
+      "payload": {
+        "definition": "棒球",
+        "answer": "baseball",
+        "phonetic": "/ˈbeɪsbɔːl/",
+        "pos": "n.",
+        "hint_letters": [0, 4],
+        "example": "They played baseball after school."
+      }
+    },
+    {
+      "id": "flyers_lc_0001",
+      "type": "listening_choice",
+      "difficulty": 1,
+      "tags": ["noun", "nature"],
+      "payload": {
+        "word": "beach",
+        "phonetic": "/biːtʃ/",
+        "definitions": ["海滩", "沙滩"],
+        "options": ["海滩", "森林", "山谷", "田野"],
+        "answer_index": 0,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "flyers_lc_0002",
+      "type": "listening_choice",
+      "difficulty": 2,
+      "tags": ["adj"],
+      "payload": {
+        "word": "brave",
+        "phonetic": "/breɪv/",
+        "definitions": ["勇敢的"],
+        "options": ["胆小的", "勇敢的", "懒惰的", "粗心的"],
+        "answer_index": 1,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "flyers_sf_0001",
+      "type": "sentence_fill",
+      "difficulty": 1,
+      "tags": ["noun"],
+      "payload": {
+        "sentence": "Happy ___ to you!",
+        "answer": "birthday",
+        "options": ["birthday", "holiday", "weekend", "weekday"],
+        "answer_index": 0,
+        "translation": "祝你生日快乐！"
+      }
+    },
+    {
+      "id": "flyers_sf_0002",
+      "type": "sentence_fill",
+      "difficulty": 1,
+      "tags": ["noun", "food"],
+      "payload": {
+        "sentence": "I usually have eggs for ___.",
+        "answer": "breakfast",
+        "options": ["breakfast", "lunch", "dinner", "supper"],
+        "answer_index": 0,
+        "translation": "我通常早餐吃鸡蛋。"
+      }
+    }
+  ]
+}

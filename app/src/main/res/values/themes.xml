@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.UnlockLearn" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.UnlockLearn.Overlay" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowShowWallpaper">false</item>
+    </style>
+</resources>

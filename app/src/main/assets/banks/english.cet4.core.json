@@ -1,0 +1,306 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "bank_id": "english.cet4.core",
+    "subject": "english",
+    "category": "cet4",
+    "name": "CET-4 核心词汇",
+    "name_en": "CET-4 Core Vocabulary",
+    "cefr_level": "B1",
+    "total_items": 20,
+    "source": "ECDICT + 人工校验",
+    "license": "CC-BY-SA 4.0",
+    "updated_at": "2026-07-05"
+  },
+  "items": [
+    {
+      "id": "cet4_wc_0001",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["high_freq", "verb"],
+      "payload": {
+        "word": "abandon",
+        "phonetic": "/əˈbændən/",
+        "pos": "v.",
+        "definitions": ["放弃", "遗弃", "抛弃"],
+        "options": ["放弃", "保护", "增加", "保持"],
+        "answer_index": 0,
+        "example": "He abandoned his car in the snow.",
+        "example_translation": "他把车丢在了雪地里。"
+      }
+    },
+    {
+      "id": "cet4_wc_0002",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["high_freq", "noun"],
+      "payload": {
+        "word": "benefit",
+        "phonetic": "/ˈbenɪfɪt/",
+        "pos": "n./v.",
+        "definitions": ["利益", "好处", "受益"],
+        "options": ["损害", "利益", "成本", "义务"],
+        "answer_index": 1,
+        "example": "Regular exercise benefits your health.",
+        "example_translation": "规律运动有益健康。"
+      }
+    },
+    {
+      "id": "cet4_wc_0003",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["high_freq", "noun"],
+      "payload": {
+        "word": "capacity",
+        "phonetic": "/kəˈpæsəti/",
+        "pos": "n.",
+        "definitions": ["能力", "容量", "资格"],
+        "options": ["能力", "机会", "理由", "方法"],
+        "answer_index": 0,
+        "example": "The hall has a capacity of 500 people.",
+        "example_translation": "这个大厅可容纳 500 人。"
+      }
+    },
+    {
+      "id": "cet4_wc_0004",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["verb", "formal"],
+      "payload": {
+        "word": "emphasize",
+        "phonetic": "/ˈemfəsaɪz/",
+        "pos": "v.",
+        "definitions": ["强调", "着重"],
+        "options": ["忽略", "否认", "强调", "推迟"],
+        "answer_index": 2,
+        "example": "She emphasized the importance of teamwork.",
+        "example_translation": "她强调了团队合作的重要性。"
+      }
+    },
+    {
+      "id": "cet4_wc_0005",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["verb"],
+      "payload": {
+        "word": "hesitate",
+        "phonetic": "/ˈhezɪteɪt/",
+        "pos": "v.",
+        "definitions": ["犹豫", "踌躇"],
+        "options": ["决定", "犹豫", "继续", "完成"],
+        "answer_index": 1,
+        "example": "Don't hesitate to call me if you need help.",
+        "example_translation": "需要帮助时别犹豫，打电话给我。"
+      }
+    },
+    {
+      "id": "cet4_wc_0006",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["verb"],
+      "payload": {
+        "word": "negotiate",
+        "phonetic": "/nɪˈɡəʊʃieɪt/",
+        "pos": "v.",
+        "definitions": ["谈判", "协商"],
+        "options": ["争吵", "谈判", "放弃", "服从"],
+        "answer_index": 1,
+        "example": "They negotiated a peaceful settlement.",
+        "example_translation": "他们通过谈判达成和平解决。"
+      }
+    },
+    {
+      "id": "cet4_wc_0007",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["noun"],
+      "payload": {
+        "word": "obstacle",
+        "phonetic": "/ˈɒbstəkl/",
+        "pos": "n.",
+        "definitions": ["障碍", "阻碍"],
+        "options": ["帮助", "障碍", "机会", "工具"],
+        "answer_index": 1,
+        "example": "Lack of money is the main obstacle.",
+        "example_translation": "缺钱是主要障碍。"
+      }
+    },
+    {
+      "id": "cet4_wc_0008",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["adj"],
+      "payload": {
+        "word": "sufficient",
+        "phonetic": "/səˈfɪʃnt/",
+        "pos": "adj.",
+        "definitions": ["足够的", "充分的"],
+        "options": ["不足的", "足够的", "多余的", "无关的"],
+        "answer_index": 1,
+        "example": "We have sufficient food for the trip.",
+        "example_translation": "我们有足够的食物供旅行用。"
+      }
+    },
+    {
+      "id": "cet4_dc_0001",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": ["verb"],
+      "payload": {
+        "definition": "维持，保养",
+        "phonetic_hint": "/meɪnˈteɪn/",
+        "options": ["maintain", "obtain", "contain", "sustain"],
+        "answer_index": 0,
+        "example": "He maintains his car regularly."
+      }
+    },
+    {
+      "id": "cet4_dc_0002",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": ["verb"],
+      "payload": {
+        "definition": "察觉，理解",
+        "phonetic_hint": "/pəˈsiːv/",
+        "options": ["deceive", "perceive", "receive", "conceive"],
+        "answer_index": 1,
+        "example": "She perceived a change in his tone."
+      }
+    },
+    {
+      "id": "cet4_dc_0003",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": ["adj"],
+      "payload": {
+        "definition": "不情愿的",
+        "phonetic_hint": "/rɪˈlʌktənt/",
+        "options": ["reluctant", "relevant", "redundant", "resident"],
+        "answer_index": 0,
+        "example": "He was reluctant to leave."
+      }
+    },
+    {
+      "id": "cet4_dc_0004",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": ["verb"],
+      "payload": {
+        "definition": "容忍，忍受",
+        "phonetic_hint": "/ˈtɒləreɪt/",
+        "options": ["celebrate", "tolerate", "generate", "validate"],
+        "answer_index": 1,
+        "example": "I won't tolerate rudeness."
+      }
+    },
+    {
+      "id": "cet4_sp_0001",
+      "type": "spelling",
+      "difficulty": 3,
+      "tags": ["noun"],
+      "payload": {
+        "definition": "利益，好处",
+        "answer": "benefit",
+        "phonetic": "/ˈbenɪfɪt/",
+        "pos": "n.",
+        "hint_letters": [0, 3],
+        "example": "For your own benefit."
+      }
+    },
+    {
+      "id": "cet4_sp_0002",
+      "type": "spelling",
+      "difficulty": 4,
+      "tags": ["verb"],
+      "payload": {
+        "definition": "消失，突然不见",
+        "answer": "vanish",
+        "phonetic": "/ˈvænɪʃ/",
+        "pos": "v.",
+        "hint_letters": [0, 4],
+        "example": "The ship vanished into the fog."
+      }
+    },
+    {
+      "id": "cet4_sp_0003",
+      "type": "spelling",
+      "difficulty": 4,
+      "tags": ["adj"],
+      "payload": {
+        "definition": "广泛的，普遍的",
+        "answer": "widespread",
+        "phonetic": "/ˈwaɪdspred/",
+        "pos": "adj.",
+        "hint_letters": [0, 4],
+        "example": "The disease became widespread."
+      }
+    },
+    {
+      "id": "cet4_lc_0001",
+      "type": "listening_choice",
+      "difficulty": 3,
+      "tags": ["verb"],
+      "payload": {
+        "word": "frustrate",
+        "phonetic": "/frʌˈstreɪt/",
+        "definitions": ["使沮丧", "挫败"],
+        "options": ["使沮丧", "使兴奋", "使放松", "使惊讶"],
+        "answer_index": 0,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "cet4_lc_0002",
+      "type": "listening_choice",
+      "difficulty": 4,
+      "tags": ["verb"],
+      "payload": {
+        "word": "undermine",
+        "phonetic": "/ˌʌndəˈmaɪn/",
+        "definitions": ["破坏", "削弱"],
+        "options": ["加强", "破坏", "修复", "建设"],
+        "answer_index": 1,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "cet4_sf_0001",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": ["noun"],
+      "payload": {
+        "sentence": "Lack of money is the main ___ to our plan.",
+        "answer": "obstacle",
+        "options": ["obstacle", "object", "objective", "obstruction"],
+        "answer_index": 0,
+        "translation": "缺钱是我们计划的主要障碍。"
+      }
+    },
+    {
+      "id": "cet4_sf_0002",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": ["verb"],
+      "payload": {
+        "sentence": "Don't ___ to call me if you need help.",
+        "answer": "hesitate",
+        "options": ["hesitate", "hate", "hasten", "hover"],
+        "answer_index": 0,
+        "translation": "需要帮助时别犹豫打电话给我。"
+      }
+    },
+    {
+      "id": "cet4_sf_0003",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": ["verb"],
+      "payload": {
+        "sentence": "The ship ___ into the fog.",
+        "answer": "vanished",
+        "options": ["vanished", "varnished", "valued", "vented"],
+        "answer_index": 0,
+        "translation": "船消失在雾中。"
+      }
+    }
+  ]
+}

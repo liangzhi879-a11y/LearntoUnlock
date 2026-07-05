@@ -1,0 +1,301 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "bank_id": "english.kaoyan.core",
+    "subject": "english",
+    "category": "kaoyan",
+    "name": "考研英语核心词汇",
+    "name_en": "Kaoyan English Core Vocabulary",
+    "cefr_level": "B2",
+    "total_items": 20,
+    "source": "ECDICT + 人工校验",
+    "license": "CC-BY-SA 4.0",
+    "updated_at": "2026-07-05"
+  },
+  "items": [
+    {
+      "id": "ky_wc_0001",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["high_freq", "adj"],
+      "payload": {
+        "word": "abundant",
+        "phonetic": "/əˈbʌndənt/",
+        "pos": "adj.",
+        "definitions": ["丰富的", "充裕的"],
+        "options": ["稀少的", "丰富的", "便宜的", "古老的"],
+        "answer_index": 1,
+        "example": "The region has abundant natural resources.",
+        "example_translation": "该地区拥有丰富的自然资源。"
+      }
+    },
+    {
+      "id": "ky_wc_0002",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["high_freq", "verb"],
+      "payload": {
+        "word": "accelerate",
+        "phonetic": "/əkˈseləreɪt/",
+        "pos": "v.",
+        "definitions": ["加速", "促进"],
+        "options": ["减速", "加速", "停止", "继续"],
+        "answer_index": 1,
+        "example": "The car accelerated to overtake the truck.",
+        "example_translation": "汽车加速以超过卡车。"
+      }
+    },
+    {
+      "id": "ky_wc_0003",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["verb", "formal"],
+      "payload": {
+        "word": "accumulate",
+        "phonetic": "/əˈkjuːmjəleɪt/",
+        "pos": "v.",
+        "definitions": ["积累", "积聚"],
+        "options": ["消耗", "积累", "丢弃", "分配"],
+        "answer_index": 1,
+        "example": "Dust had accumulated on the shelf over the years.",
+        "example_translation": "多年来架子上积满了灰尘。"
+      }
+    },
+    {
+      "id": "ky_wc_0004",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["adj"],
+      "payload": {
+        "word": "acute",
+        "phonetic": "/əˈkjuːt/",
+        "pos": "adj.",
+        "definitions": ["敏锐的", "急性的"],
+        "options": ["迟钝的", "敏锐的", "缓慢的", "微弱的"],
+        "answer_index": 1,
+        "example": "Dogs have an acute sense of smell.",
+        "example_translation": "狗有敏锐的嗅觉。"
+      }
+    },
+    {
+      "id": "ky_wc_0005",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["high_freq", "adj"],
+      "payload": {
+        "word": "adequate",
+        "phonetic": "/ˈædɪkwət/",
+        "pos": "adj.",
+        "definitions": ["充足的", "适当的"],
+        "options": ["充足的", "缺乏的", "过剩的", "无关的"],
+        "answer_index": 0,
+        "example": "His income is adequate to support the family.",
+        "example_translation": "他的收入足以养家。"
+      }
+    },
+    {
+      "id": "ky_wc_0006",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["adj", "formal"],
+      "payload": {
+        "word": "adjacent",
+        "phonetic": "/əˈdʒeɪsnt/",
+        "pos": "adj.",
+        "definitions": ["邻近的", "毗连的"],
+        "options": ["遥远的", "邻近的", "相反的", "相似的"],
+        "answer_index": 1,
+        "example": "The adjacent building is a hospital.",
+        "example_translation": "相邻的建筑是一家医院。"
+      }
+    },
+    {
+      "id": "ky_dc_0001",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": ["verb", "formal"],
+      "payload": {
+        "definition": "管理，执行",
+        "phonetic_hint": "/ədˈmɪnɪstə(r)/",
+        "options": ["administer", "monitor", "mentor", "master"],
+        "answer_index": 0,
+        "example": "She administers a large department."
+      }
+    },
+    {
+      "id": "ky_dc_0002",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": ["verb", "high_freq"],
+      "payload": {
+        "definition": "提倡，主张",
+        "phonetic_hint": "/ˈædvəkeɪt/",
+        "options": ["advocate", "advance", "adventure", "advertise"],
+        "answer_index": 0,
+        "example": "They advocate equal pay for women."
+      }
+    },
+    {
+      "id": "ky_dc_0003",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": ["adj"],
+      "payload": {
+        "definition": "美学的，审美的",
+        "phonetic_hint": "/iːsˈθetɪk/",
+        "options": ["aesthetic", "athletic", "authentic", "arithmetic"],
+        "answer_index": 0,
+        "example": "The building has great aesthetic value."
+      }
+    },
+    {
+      "id": "ky_dc_0004",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": ["verb"],
+      "payload": {
+        "definition": "使附属，使并入",
+        "phonetic_hint": "/əˈfɪlieɪt/",
+        "options": ["affiliate", "afflict", "affirm", "afford"],
+        "answer_index": 0,
+        "example": "The college is affiliated with the university."
+      }
+    },
+    {
+      "id": "ky_sp_0001",
+      "type": "spelling",
+      "difficulty": 4,
+      "tags": ["verb"],
+      "payload": {
+        "definition": "减轻，缓和",
+        "answer": "alleviate",
+        "phonetic": "/əˈliːvieɪt/",
+        "pos": "v.",
+        "hint_letters": [0, 4],
+        "example": "The medicine alleviated his pain."
+      }
+    },
+    {
+      "id": "ky_sp_0002",
+      "type": "spelling",
+      "difficulty": 4,
+      "tags": ["adj"],
+      "payload": {
+        "definition": "匿名的，无名的",
+        "answer": "anonymous",
+        "phonetic": "/əˈnɒnɪməs/",
+        "pos": "adj.",
+        "hint_letters": [0, 4],
+        "example": "An anonymous donor gave a million dollars."
+      }
+    },
+    {
+      "id": "ky_sp_0003",
+      "type": "spelling",
+      "difficulty": 4,
+      "tags": ["verb", "formal"],
+      "payload": {
+        "definition": "查明，确定",
+        "answer": "ascertain",
+        "phonetic": "/ˌæsəˈteɪn/",
+        "pos": "v.",
+        "hint_letters": [0, 4],
+        "example": "We must ascertain the truth of the matter."
+      }
+    },
+    {
+      "id": "ky_lc_0001",
+      "type": "listening_choice",
+      "difficulty": 4,
+      "tags": ["adj"],
+      "payload": {
+        "word": "arbitrary",
+        "phonetic": "/ˈɑːbɪtrəri/",
+        "definitions": ["任意的", "武断的"],
+        "options": ["任意的", "合理的", "客观的", "公正的"],
+        "answer_index": 0,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "ky_lc_0002",
+      "type": "listening_choice",
+      "difficulty": 4,
+      "tags": ["adj"],
+      "payload": {
+        "word": "coherent",
+        "phonetic": "/kəʊˈhɪərənt/",
+        "definitions": ["连贯的", "条理清楚的"],
+        "options": ["混乱的", "连贯的", "分散的", "矛盾的"],
+        "answer_index": 1,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "ky_lc_0003",
+      "type": "listening_choice",
+      "difficulty": 4,
+      "tags": ["noun"],
+      "payload": {
+        "word": "consensus",
+        "phonetic": "/kənˈsensəs/",
+        "definitions": ["一致", "共识"],
+        "options": ["分歧", "争议", "共识", "对立"],
+        "answer_index": 2,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "ky_sf_0001",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": ["verb"],
+      "payload": {
+        "sentence": "His health began to ___ rapidly after the surgery.",
+        "answer": "deteriorate",
+        "options": ["deteriorate", "determine", "decorate", "dedicate"],
+        "answer_index": 0,
+        "translation": "手术后他的健康开始迅速恶化。"
+      }
+    },
+    {
+      "id": "ky_sf_0002",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": ["noun"],
+      "payload": {
+        "sentence": "The new law was a ___ for social change.",
+        "answer": "catalyst",
+        "options": ["catalyst", "category", "calamity", "casualty"],
+        "answer_index": 0,
+        "translation": "新法律是社会变革的催化剂。"
+      }
+    },
+    {
+      "id": "ky_sf_0003",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": ["verb"],
+      "payload": {
+        "sentence": "They plan to ___ a new dictionary this year.",
+        "answer": "compile",
+        "options": ["compile", "compose", "compare", "compete"],
+        "answer_index": 0,
+        "translation": "他们计划今年编纂一本新词典。"
+      }
+    },
+    {
+      "id": "ky_sf_0004",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": ["verb", "formal"],
+      "payload": {
+        "sentence": "Students must ___ to the school rules.",
+        "answer": "conform",
+        "options": ["conform", "confirm", "confine", "conflict"],
+        "answer_index": 0,
+        "translation": "学生必须遵守学校的规定。"
+      }
+    }
+  ]
+}

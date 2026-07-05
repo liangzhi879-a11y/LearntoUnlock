@@ -1,0 +1,301 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "bank_id": "english.toefl.core",
+    "subject": "english",
+    "category": "toefl",
+    "name": "托福核心学术词汇",
+    "name_en": "TOEFL Core Academic Vocabulary",
+    "cefr_level": "B2",
+    "total_items": 20,
+    "source": "ECDICT + 人工校验",
+    "license": "CC-BY-SA 4.0",
+    "updated_at": "2026-07-05"
+  },
+  "items": [
+    {
+      "id": "toefl_wc_0001",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["academic", "adj"],
+      "payload": {
+        "word": "abstract",
+        "phonetic": "/ˈæbstrækt/",
+        "pos": "adj.",
+        "definitions": ["抽象的", "理论上的"],
+        "options": ["抽象的", "具体的", "实际的", "明显的"],
+        "answer_index": 0,
+        "example": "The concept of justice is rather abstract.",
+        "example_translation": "正义的概念相当抽象。"
+      }
+    },
+    {
+      "id": "toefl_wc_0002",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["academic", "verb"],
+      "payload": {
+        "word": "aggregate",
+        "phonetic": "/ˈæɡrɪɡət/",
+        "pos": "v./n.",
+        "definitions": ["聚集", "总计"],
+        "options": ["分散", "聚集", "消耗", "减少"],
+        "answer_index": 1,
+        "example": "The aggregate of all data is shown in this chart.",
+        "example_translation": "所有数据的总量显示在这张图表中。"
+      }
+    },
+    {
+      "id": "toefl_wc_0003",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["academic", "noun"],
+      "payload": {
+        "word": "anomaly",
+        "phonetic": "/əˈnɒməli/",
+        "pos": "n.",
+        "definitions": ["异常", "反常"],
+        "options": ["规律", "异常", "常态", "相似"],
+        "answer_index": 1,
+        "example": "Scientists detected an anomaly in the data.",
+        "example_translation": "科学家在数据中发现了异常。"
+      }
+    },
+    {
+      "id": "toefl_wc_0004",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["academic", "adj"],
+      "payload": {
+        "word": "arbitrary",
+        "phonetic": "/ˈɑːbɪtrəri/",
+        "pos": "adj.",
+        "definitions": ["任意的", "武断的"],
+        "options": ["系统的", "任意的", "合理的", "必要的"],
+        "answer_index": 1,
+        "example": "The selection process seemed arbitrary.",
+        "example_translation": "选择过程看起来很随意。"
+      }
+    },
+    {
+      "id": "toefl_wc_0005",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["academic", "noun"],
+      "payload": {
+        "word": "assertion",
+        "phonetic": "/əˈsɜːʃn/",
+        "pos": "n.",
+        "definitions": ["断言", "主张"],
+        "options": ["怀疑", "断言", "否认", "推测"],
+        "answer_index": 1,
+        "example": "His assertion was unsupported by evidence.",
+        "example_translation": "他的断言没有证据支持。"
+      }
+    },
+    {
+      "id": "toefl_wc_0006",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["academic", "noun"],
+      "payload": {
+        "word": "assessment",
+        "phonetic": "/əˈsesmənt/",
+        "pos": "n.",
+        "definitions": ["评估", "评价"],
+        "options": ["评估", "忽视", "避免", "推迟"],
+        "answer_index": 0,
+        "example": "The teacher gave a fair assessment of the project.",
+        "example_translation": "老师对这个项目做出了公正的评估。"
+      }
+    },
+    {
+      "id": "toefl_dc_0001",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": ["verb", "academic"],
+      "payload": {
+        "definition": "提倡，主张",
+        "phonetic_hint": "/ˈædvəkeɪt/",
+        "options": ["advocate", "allocate", "alleviate", "anticipate"],
+        "answer_index": 0,
+        "example": "Many advocate protecting the environment."
+      }
+    },
+    {
+      "id": "toefl_dc_0002",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": ["adj", "academic"],
+      "payload": {
+        "definition": "自治的，自主的",
+        "phonetic_hint": "/ɔːˈtɒnəməs/",
+        "options": ["autonomous", "automatic", "anonymous", "ambitious"],
+        "answer_index": 0,
+        "example": "The region became autonomous in 1990."
+      }
+    },
+    {
+      "id": "toefl_dc_0003",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": ["noun", "academic"],
+      "payload": {
+        "definition": "催化剂，促成因素",
+        "phonetic_hint": "/ˈkætəlɪst/",
+        "options": ["catalyst", "category", "calamity", "casualty"],
+        "answer_index": 0,
+        "example": "It acted as a catalyst for reform."
+      }
+    },
+    {
+      "id": "toefl_dc_0004",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": ["adj", "academic"],
+      "payload": {
+        "definition": "连贯的，条理清楚的",
+        "phonetic_hint": "/kəʊˈhɪərənt/",
+        "options": ["coherent", "inherent", "consistent", "apparent"],
+        "answer_index": 0,
+        "example": "She gave a coherent explanation of the theory."
+      }
+    },
+    {
+      "id": "toefl_sp_0001",
+      "type": "spelling",
+      "difficulty": 4,
+      "tags": ["adj", "academic"],
+      "payload": {
+        "definition": "全面的，综合的",
+        "answer": "comprehensive",
+        "phonetic": "/ˌkɒmprɪˈhensɪv/",
+        "pos": "adj.",
+        "hint_letters": [0, 5],
+        "example": "The report provides a comprehensive review."
+      }
+    },
+    {
+      "id": "toefl_sp_0002",
+      "type": "spelling",
+      "difficulty": 4,
+      "tags": ["adj", "academic"],
+      "payload": {
+        "definition": "简明的，简洁的",
+        "answer": "concise",
+        "phonetic": "/kənˈsaɪs/",
+        "pos": "adj.",
+        "hint_letters": [0, 4],
+        "example": "His answer was concise and clear."
+      }
+    },
+    {
+      "id": "toefl_sp_0003",
+      "type": "spelling",
+      "difficulty": 4,
+      "tags": ["adj", "academic"],
+      "payload": {
+        "definition": "决定性的，明确的",
+        "answer": "definitive",
+        "phonetic": "/dɪˈfɪnətɪv/",
+        "pos": "adj.",
+        "hint_letters": [0, 4],
+        "example": "There is no definitive answer to this question."
+      }
+    },
+    {
+      "id": "toefl_lc_0001",
+      "type": "listening_choice",
+      "difficulty": 4,
+      "tags": ["verb", "academic"],
+      "payload": {
+        "word": "constitute",
+        "phonetic": "/ˈkɒnstɪtjuːt/",
+        "definitions": ["构成", "组成"],
+        "options": ["构成", "破坏", "减少", "排除"],
+        "answer_index": 0,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "toefl_lc_0002",
+      "type": "listening_choice",
+      "difficulty": 4,
+      "tags": ["verb", "academic"],
+      "payload": {
+        "word": "deduce",
+        "phonetic": "/dɪˈdjuːs/",
+        "definitions": ["推断", "演绎"],
+        "options": ["归纳", "推断", "猜测", "假设"],
+        "answer_index": 1,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "toefl_lc_0003",
+      "type": "listening_choice",
+      "difficulty": 4,
+      "tags": ["verb", "academic"],
+      "payload": {
+        "word": "distinguish",
+        "phonetic": "/dɪˈstɪŋɡwɪʃ/",
+        "definitions": ["区分", "辨别"],
+        "options": ["混淆", "忽略", "区分", "合并"],
+        "answer_index": 2,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "toefl_sf_0001",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": ["noun", "academic"],
+      "payload": {
+        "sentence": "The committee finally reached a ___.",
+        "answer": "consensus",
+        "options": ["consensus", "census", "sense", "consent"],
+        "answer_index": 0,
+        "translation": "委员会最终达成了共识。"
+      }
+    },
+    {
+      "id": "toefl_sf_0002",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": ["verb", "academic"],
+      "payload": {
+        "sentence": "The word ___ from Latin.",
+        "answer": "derives",
+        "options": ["derives", "deprives", "describes", "declines"],
+        "answer_index": 0,
+        "translation": "这个词源自拉丁语。"
+      }
+    },
+    {
+      "id": "toefl_sf_0003",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": ["verb", "academic"],
+      "payload": {
+        "sentence": "New problems will ___ as the project continues.",
+        "answer": "emerge",
+        "options": ["emerge", "merge", "immerge", "energize"],
+        "answer_index": 0,
+        "translation": "随着项目推进，新问题将会出现。"
+      }
+    },
+    {
+      "id": "toefl_sf_0004",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": ["noun", "academic"],
+      "payload": {
+        "sentence": "Time is often considered a fourth ___.",
+        "answer": "dimension",
+        "options": ["dimension", "mention", "tension", "mansion"],
+        "answer_index": 0,
+        "translation": "时间常被视为第四维度。"
+      }
+    }
+  ]
+}

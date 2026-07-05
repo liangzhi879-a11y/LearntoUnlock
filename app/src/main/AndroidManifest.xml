@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 覆盖答题层（解锁后覆盖屏幕，需用户手动授权） -->
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+
+    <!-- 前台 Service：解锁监听保活 + 触发答题 -->
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_SPECIAL_USE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <!-- 应急呼叫：直接拨号（可选，也可仅用 ACTION_DIAL 免权限） -->
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <!-- 振动反馈 -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:name=".UnlockLearnApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.UnlockLearn">
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.UnlockLearn">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- 解锁后覆盖答题层 -->
+        <activity
+            android:name=".overlay.OverlayActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:launchMode="singleTask"
+            android:showOnLockScreen="true"
+            android:taskAffinity=""
+            android:theme="@style/Theme.UnlockLearn.Overlay"
+            android:turnScreenOn="true" />
+
+        <!-- 解锁监听 + 触发策略前台 Service -->
+        <service
+            android:name=".unlock.UnlockWatchService"
+            android:exported="false"
+            android:foregroundServiceType="specialUse">
+            <property
+                android:name="android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE"
+                android:value="Unlock-triggered learning quiz overlay" />
+        </service>
+
+        <!-- 开机自启 -->
+        <receiver
+            android:name=".unlock.BootReceiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <!-- 用户解锁事件监听 -->
+        <receiver
+            android:name=".unlock.UnlockReceiver"
+            android:enabled="true"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.intent.action.USER_PRESENT" />
+            </intent-filter>
+        </receiver>
+
+    </application>
+
+</manifest>

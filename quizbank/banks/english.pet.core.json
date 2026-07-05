@@ -1,0 +1,304 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "bank_id": "english.pet.core",
+    "subject": "english",
+    "category": "pet",
+    "name": "PET 核心词汇",
+    "name_en": "PET Core Vocabulary",
+    "cefr_level": "B1",
+    "total_items": 20,
+    "source": "ECDICT + 人工校验",
+    "license": "CC-BY-SA 4.0",
+    "updated_at": "2026-07-05"
+  },
+  "items": [
+    {
+      "id": "pet_wc_0001",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["noun", "abstract"],
+      "payload": {
+        "word": "achievement",
+        "phonetic": "/əˈtʃiːvmənt/",
+        "pos": "n.",
+        "definitions": ["成就", "成绩"],
+        "options": ["成就", "失败", "借口", "理由"],
+        "answer_index": 0,
+        "example": "Winning the prize was his greatest achievement.",
+        "example_translation": "获奖是他最大的成就。"
+      }
+    },
+    {
+      "id": "pet_wc_0002",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["noun", "abstract"],
+      "payload": {
+        "word": "advantage",
+        "phonetic": "/ədˈvɑːntɪdʒ/",
+        "pos": "n.",
+        "definitions": ["优势", "有利条件"],
+        "options": ["劣势", "优势", "缺点", "威胁"],
+        "answer_index": 1,
+        "example": "Speaking English is a great advantage in finding a job.",
+        "example_translation": "会说英语在求职时是一大优势。"
+      }
+    },
+    {
+      "id": "pet_wc_0003",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["noun", "abstract"],
+      "payload": {
+        "word": "ambition",
+        "phonetic": "/æmˈbɪʃn/",
+        "pos": "n.",
+        "definitions": ["雄心", "抱负"],
+        "options": ["愤怒", "勇气", "抱负", "恐惧"],
+        "answer_index": 2,
+        "example": "Her ambition is to become a doctor.",
+        "example_translation": "她的抱负是成为一名医生。"
+      }
+    },
+    {
+      "id": "pet_wc_0004",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["verb"],
+      "payload": {
+        "word": "apologize",
+        "phonetic": "/əˈpɒlədʒaɪz/",
+        "pos": "v.",
+        "definitions": ["道歉", "认错"],
+        "options": ["道歉", "感谢", "邀请", "祝贺"],
+        "answer_index": 0,
+        "example": "He apologized for being late.",
+        "example_translation": "他为迟到道了歉。"
+      }
+    },
+    {
+      "id": "pet_wc_0005",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["noun", "abstract"],
+      "payload": {
+        "word": "atmosphere",
+        "phonetic": "/ˈætməsfɪə(r)/",
+        "pos": "n.",
+        "definitions": ["气氛", "氛围"],
+        "options": ["天气", "气氛", "温度", "湿度"],
+        "answer_index": 1,
+        "example": "The restaurant has a warm atmosphere.",
+        "example_translation": "这家餐厅气氛温馨。"
+      }
+    },
+    {
+      "id": "pet_wc_0006",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["adj"],
+      "payload": {
+        "word": "available",
+        "phonetic": "/əˈveɪləbl/",
+        "pos": "adj.",
+        "definitions": ["可获得的", "有空的"],
+        "options": ["忙碌的", "可获得的", "关闭的", "过期的"],
+        "answer_index": 1,
+        "example": "Are you available this weekend?",
+        "example_translation": "你这周末有空吗？"
+      }
+    },
+    {
+      "id": "pet_wc_0007",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["noun", "verb"],
+      "payload": {
+        "word": "challenge",
+        "phonetic": "/ˈtʃælɪndʒ/",
+        "pos": "n./v.",
+        "definitions": ["挑战", "向…挑战"],
+        "options": ["机会", "挑战", "奖励", "礼物"],
+        "answer_index": 1,
+        "example": "Learning a new language is a challenge.",
+        "example_translation": "学习一门新语言是一项挑战。"
+      }
+    },
+    {
+      "id": "pet_dc_0001",
+      "type": "definition_choice",
+      "difficulty": 2,
+      "tags": ["adj"],
+      "payload": {
+        "definition": "古老的，古代的",
+        "phonetic_hint": "/ˈeɪnʃənt/",
+        "options": ["ancient", "active", "anxious", "absent"],
+        "answer_index": 0,
+        "example": "They visited an ancient temple."
+      }
+    },
+    {
+      "id": "pet_dc_0002",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": ["noun"],
+      "payload": {
+        "definition": "预约，约会",
+        "phonetic_hint": "/əˈpɔɪntmənt/",
+        "options": ["appointment", "agreement", "arrangement", "achievement"],
+        "answer_index": 0,
+        "example": "I have a doctor's appointment tomorrow."
+      }
+    },
+    {
+      "id": "pet_dc_0003",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": ["noun"],
+      "payload": {
+        "definition": "行为，举止",
+        "phonetic_hint": "/bɪˈheɪvjə(r)/",
+        "options": ["behavior", "belief", "benefit", "balance"],
+        "answer_index": 0,
+        "example": "His behavior was very polite."
+      }
+    },
+    {
+      "id": "pet_sp_0001",
+      "type": "spelling",
+      "difficulty": 3,
+      "tags": ["verb"],
+      "payload": {
+        "definition": "庆祝",
+        "answer": "celebrate",
+        "phonetic": "/ˈselɪbreɪt/",
+        "pos": "v.",
+        "hint_letters": [0, 4],
+        "example": "We celebrate the New Year together."
+      }
+    },
+    {
+      "id": "pet_sp_0002",
+      "type": "spelling",
+      "difficulty": 3,
+      "tags": ["verb"],
+      "payload": {
+        "definition": "沟通，交流",
+        "answer": "communicate",
+        "phonetic": "/kəˈmjuːnɪkeɪt/",
+        "pos": "v.",
+        "hint_letters": [0, 5],
+        "example": "We communicate by email every day."
+      }
+    },
+    {
+      "id": "pet_sp_0003",
+      "type": "spelling",
+      "difficulty": 2,
+      "tags": ["noun"],
+      "payload": {
+        "definition": "信心，自信",
+        "answer": "confidence",
+        "phonetic": "/ˈkɒnfɪdəns/",
+        "pos": "n.",
+        "hint_letters": [0, 4],
+        "example": "She speaks with great confidence."
+      }
+    },
+    {
+      "id": "pet_lc_0001",
+      "type": "listening_choice",
+      "difficulty": 2,
+      "tags": ["verb"],
+      "payload": {
+        "word": "approach",
+        "phonetic": "/əˈprəʊtʃ/",
+        "definitions": ["接近", "方法"],
+        "options": ["离开", "接近", "躲避", "放弃"],
+        "answer_index": 1,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "pet_lc_0002",
+      "type": "listening_choice",
+      "difficulty": 3,
+      "tags": ["verb"],
+      "payload": {
+        "word": "announce",
+        "phonetic": "/əˈnaʊns/",
+        "definitions": ["宣布", "通告"],
+        "options": ["宣布", "隐藏", "取消", "否认"],
+        "answer_index": 0,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "pet_lc_0003",
+      "type": "listening_choice",
+      "difficulty": 3,
+      "tags": ["noun"],
+      "payload": {
+        "word": "campaign",
+        "phonetic": "/kæmˈpeɪn/",
+        "definitions": ["运动", "战役"],
+        "options": ["运动", "假期", "会议", "旅行"],
+        "answer_index": 0,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "pet_sf_0001",
+      "type": "sentence_fill",
+      "difficulty": 2,
+      "tags": ["noun"],
+      "payload": {
+        "sentence": "It's important to keep a ___ between work and rest.",
+        "answer": "balance",
+        "options": ["balance", "barrier", "background", "behavior"],
+        "answer_index": 0,
+        "translation": "保持工作与休息的平衡很重要。"
+      }
+    },
+    {
+      "id": "pet_sf_0002",
+      "type": "sentence_fill",
+      "difficulty": 2,
+      "tags": ["verb"],
+      "payload": {
+        "sentence": "Eating vegetables will ___ your health.",
+        "answer": "benefit",
+        "options": ["benefit", "broadcast", "bother", "borrow"],
+        "answer_index": 0,
+        "translation": "吃蔬菜对你的健康有益。"
+      }
+    },
+    {
+      "id": "pet_sf_0003",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": ["verb"],
+      "payload": {
+        "sentence": "They often ___ about money.",
+        "answer": "argue",
+        "options": ["argue", "agree", "arrive", "ask"],
+        "answer_index": 0,
+        "translation": "他们经常因为钱争吵。"
+      }
+    },
+    {
+      "id": "pet_sf_0004",
+      "type": "sentence_fill",
+      "difficulty": 2,
+      "tags": ["noun", "verb"],
+      "payload": {
+        "sentence": "Her kind words brought me great ___.",
+        "answer": "comfort",
+        "options": ["comfort", "comment", "complaint", "campaign"],
+        "answer_index": 0,
+        "translation": "她友善的话给我带来极大的安慰。"
+      }
+    }
+  ]
+}

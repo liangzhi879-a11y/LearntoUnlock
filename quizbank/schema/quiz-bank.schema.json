@@ -1,0 +1,181 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://unlock-learn.app/schema/quiz-bank.schema.json",
+  "title": "Quiz Bank",
+  "description": "通用题库 Schema，支持英语及其他学科扩展",
+  "type": "object",
+  "required": ["metadata", "items"],
+  "additionalProperties": false,
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "required": ["schema_version", "bank_id", "subject", "category", "name", "total_items", "updated_at"],
+      "additionalProperties": false,
+      "properties": {
+        "schema_version": { "type": "string", "pattern": "^\\d+\\.\\d+$" },
+        "bank_id": { "type": "string", "pattern": "^[a-z0-9.]+$" },
+        "subject": { "enum": ["english", "math", "chinese", "history", "geography", "physics", "chemistry", "biology", "general"] },
+        "category": { "type": "string" },
+        "name": { "type": "string" },
+        "name_en": { "type": "string" },
+        "cefr_level": { "enum": ["preA1", "A1", "A2", "B1", "B2", "C1", "C2", null] },
+        "total_items": { "type": "integer", "minimum": 0 },
+        "source": { "type": "string" },
+        "license": { "type": "string" },
+        "updated_at": { "type": "string", "format": "date" }
+      }
+    },
+    "items": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/Item" }
+    }
+  },
+  "$defs": {
+    "Item": {
+      "type": "object",
+      "required": ["id", "type", "payload"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-zA-Z0-9_]+$" },
+        "type": {
+          "enum": [
+            "word_choice",
+            "definition_choice",
+            "spelling",
+            "listening_choice",
+            "sentence_fill",
+            "single_choice",
+            "multi_choice",
+            "true_false",
+            "formula_choice"
+          ]
+        },
+        "difficulty": { "type": "integer", "minimum": 1, "maximum": 5 },
+        "tags": { "type": "array", "items": { "type": "string" } },
+        "payload": {
+          "oneOf": [
+            { "$ref": "#/$defs/WordChoicePayload" },
+            { "$ref": "#/$defs/DefinitionChoicePayload" },
+            { "$ref": "#/$defs/SpellingPayload" },
+            { "$ref": "#/$defs/ListeningChoicePayload" },
+            { "$ref": "#/$defs/SentenceFillPayload" },
+            { "$ref": "#/$defs/SingleChoicePayload" },
+            { "$ref": "#/$defs/MultiChoicePayload" },
+            { "$ref": "#/$defs/TrueFalsePayload" },
+            { "$ref": "#/$defs/FormulaChoicePayload" }
+          ]
+        }
+      }
+    },
+    "WordChoicePayload": {
+      "type": "object",
+      "required": ["word", "definitions", "options", "answer_index"],
+      "additionalProperties": false,
+      "properties": {
+        "word": { "type": "string" },
+        "phonetic": { "type": "string" },
+        "pos": { "type": "string" },
+        "definitions": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+        "options": { "type": "array", "items": { "type": "string" }, "minItems": 2, "maxItems": 6 },
+        "answer_index": { "type": "integer", "minimum": 0 },
+        "example": { "type": "string" },
+        "example_translation": { "type": "string" },
+        "audio_url": { "type": "string" }
+      }
+    },
+    "DefinitionChoicePayload": {
+      "type": "object",
+      "required": ["definition", "options", "answer_index"],
+      "additionalProperties": false,
+      "properties": {
+        "definition": { "type": "string" },
+        "phonetic_hint": { "type": "string" },
+        "options": { "type": "array", "items": { "type": "string" }, "minItems": 2, "maxItems": 6 },
+        "answer_index": { "type": "integer", "minimum": 0 },
+        "example": { "type": "string" }
+      }
+    },
+    "SpellingPayload": {
+      "type": "object",
+      "required": ["definition", "answer"],
+      "additionalProperties": false,
+      "properties": {
+        "definition": { "type": "string" },
+        "answer": { "type": "string" },
+        "phonetic": { "type": "string" },
+        "pos": { "type": "string" },
+        "hint_letters": { "type": "array", "items": { "type": "integer" } },
+        "example": { "type": "string" }
+      }
+    },
+    "ListeningChoicePayload": {
+      "type": "object",
+      "required": ["word", "definitions", "options", "answer_index"],
+      "additionalProperties": false,
+      "properties": {
+        "word": { "type": "string" },
+        "phonetic": { "type": "string" },
+        "definitions": { "type": "array", "items": { "type": "string" } },
+        "options": { "type": "array", "items": { "type": "string" } },
+        "answer_index": { "type": "integer", "minimum": 0 },
+        "audio_url": { "type": "string" },
+        "use_tts": { "type": "boolean", "default": true }
+      }
+    },
+    "SentenceFillPayload": {
+      "type": "object",
+      "required": ["sentence", "answer", "options"],
+      "additionalProperties": false,
+      "properties": {
+        "sentence": { "type": "string", "description": "用 ___ 表示空位" },
+        "answer": { "type": "string" },
+        "options": { "type": "array", "items": { "type": "string" } },
+        "answer_index": { "type": "integer" },
+        "translation": { "type": "string" }
+      }
+    },
+    "SingleChoicePayload": {
+      "type": "object",
+      "required": ["question", "options", "answer_index"],
+      "additionalProperties": false,
+      "properties": {
+        "question": { "type": "string" },
+        "options": { "type": "array", "items": { "type": "string" }, "minItems": 2, "maxItems": 6 },
+        "answer_index": { "type": "integer", "minimum": 0 },
+        "explanation": { "type": "string" }
+      }
+    },
+    "MultiChoicePayload": {
+      "type": "object",
+      "required": ["question", "options", "answer_indices"],
+      "additionalProperties": false,
+      "properties": {
+        "question": { "type": "string" },
+        "options": { "type": "array", "items": { "type": "string" } },
+        "answer_indices": { "type": "array", "items": { "type": "integer" }, "minItems": 1 },
+        "explanation": { "type": "string" }
+      }
+    },
+    "TrueFalsePayload": {
+      "type": "object",
+      "required": ["statement", "answer"],
+      "additionalProperties": false,
+      "properties": {
+        "statement": { "type": "string" },
+        "answer": { "type": "boolean" },
+        "explanation": { "type": "string" }
+      }
+    },
+    "FormulaChoicePayload": {
+      "type": "object",
+      "required": ["question", "options", "answer_index"],
+      "additionalProperties": false,
+      "properties": {
+        "question": { "type": "string", "description": "LaTeX 公式题干" },
+        "options": { "type": "array", "items": { "type": "string" }, "description": "LaTeX 选项" },
+        "answer_index": { "type": "integer", "minimum": 0 },
+        "explanation": { "type": "string" }
+      }
+    }
+  }
+}

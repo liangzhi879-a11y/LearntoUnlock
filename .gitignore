@@ -1,0 +1,41 @@
+# Gradle / Android 构建产物
+build/
+.gradle/
+*/build/
+**/build/
+out/
+captures/
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.swp
+
+# Android SDK 路径（环境特定）
+local.properties
+
+# 构建产物
+*.apk
+*.aab
+*.ap_
+*.dex
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# Kotlin 缓存
+*.kotlin_metadata
+.kotlin/
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 日志 / 临时
+*.log
+tmp/
+
+# 分发产物（APK 副本，应走 GitHub Releases）
+dist/

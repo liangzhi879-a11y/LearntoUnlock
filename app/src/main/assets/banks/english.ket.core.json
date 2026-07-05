@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "bank_id": "english.ket.core",
+    "subject": "english",
+    "category": "ket",
+    "name": "KET 核心词汇",
+    "name_en": "KET Core Vocabulary",
+    "cefr_level": "A2",
+    "total_items": 15,
+    "source": "ECDICT + 人工校验",
+    "license": "CC-BY-SA 4.0",
+    "updated_at": "2026-07-05"
+  },
+  "items": [
+    {
+      "id": "ket_wc_0001",
+      "type": "word_choice",
+      "difficulty": 1,
+      "tags": ["noun", "travel"],
+      "payload": {
+        "word": "airport",
+        "phonetic": "/ˈeəpɔːt/",
+        "pos": "n.",
+        "definitions": ["机场", "航空港"],
+        "options": ["机场", "港口", "车站", "码头"],
+        "answer_index": 0,
+        "example": "We arrived at the airport two hours early.",
+        "example_translation": "我们提前两小时到达机场。"
+      }
+    },
+    {
+      "id": "ket_wc_0002",
+      "type": "word_choice",
+      "difficulty": 1,
+      "tags": ["noun", "food"],
+      "payload": {
+        "word": "breakfast",
+        "phonetic": "/ˈbrekfəst/",
+        "pos": "n.",
+        "definitions": ["早餐", "早饭"],
+        "options": ["午餐", "晚餐", "早餐", "甜点"],
+        "answer_index": 2,
+        "example": "I had eggs and toast for breakfast.",
+        "example_translation": "我早餐吃了鸡蛋和吐司。"
+      }
+    },
+    {
+      "id": "ket_wc_0003",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["noun", "school"],
+      "payload": {
+        "word": "dictionary",
+        "phonetic": "/ˈdɪkʃənri/",
+        "pos": "n.",
+        "definitions": ["字典", "词典"],
+        "options": ["日历", "字典", "笔记本", "地图"],
+        "answer_index": 1,
+        "example": "I looked up the word in a dictionary.",
+        "example_translation": "我在字典里查了这个词。"
+      }
+    },
+    {
+      "id": "ket_wc_0004",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["adj", "shopping"],
+      "payload": {
+        "word": "expensive",
+        "phonetic": "/ɪkˈspensɪv/",
+        "pos": "adj.",
+        "definitions": ["昂贵的", "花钱多的"],
+        "options": ["便宜的", "免费的", "昂贵的", "普通的"],
+        "answer_index": 2,
+        "example": "This watch is too expensive for me.",
+        "example_translation": "这块表对我来说太贵了。"
+      }
+    },
+    {
+      "id": "ket_wc_0005",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["noun", "place"],
+      "payload": {
+        "word": "countryside",
+        "phonetic": "/ˈkʌntrisaɪd/",
+        "pos": "n.",
+        "definitions": ["乡村", "农村"],
+        "options": ["城市", "乡村", "海边", "山区"],
+        "answer_index": 1,
+        "example": "They live in the countryside.",
+        "example_translation": "他们住在乡下。"
+      }
+    },
+    {
+      "id": "ket_wc_0006",
+      "type": "word_choice",
+      "difficulty": 1,
+      "tags": ["noun", "family"],
+      "payload": {
+        "word": "grandfather",
+        "phonetic": "/ˈɡrænfɑːðə(r)/",
+        "pos": "n.",
+        "definitions": ["祖父", "爷爷"],
+        "options": ["祖父", "叔叔", "表兄", "邻居"],
+        "answer_index": 0,
+        "example": "My grandfather is 80 years old.",
+        "example_translation": "我爷爷 80 岁了。"
+      }
+    },
+    {
+      "id": "ket_dc_0001",
+      "type": "definition_choice",
+      "difficulty": 2,
+      "tags": ["noun", "object"],
+      "payload": {
+        "definition": "气球",
+        "phonetic_hint": "/bəˈluːn/",
+        "options": ["balloon", "ballon", "bamboo", "barrel"],
+        "answer_index": 0,
+        "example": "The child held a red balloon."
+      }
+    },
+    {
+      "id": "ket_dc_0002",
+      "type": "definition_choice",
+      "difficulty": 2,
+      "tags": ["noun", "furniture"],
+      "payload": {
+        "definition": "抽屉",
+        "phonetic_hint": "/drɔː(r)/",
+        "options": ["drawer", "draw", "drawing", "drama"],
+        "answer_index": 0,
+        "example": "She kept the letters in the top drawer."
+      }
+    },
+    {
+      "id": "ket_dc_0003",
+      "type": "definition_choice",
+      "difficulty": 2,
+      "tags": ["noun", "building"],
+      "payload": {
+        "definition": "城堡",
+        "phonetic_hint": "/ˈkɑːsl/",
+        "options": ["castle", "candle", "cattle", "cancel"],
+        "answer_index": 0,
+        "example": "The old castle stands on the hill."
+      }
+    },
+    {
+      "id": "ket_sp_0001",
+      "type": "spelling",
+      "difficulty": 2,
+      "tags": ["noun", "object"],
+      "payload": {
+        "definition": "照相机",
+        "answer": "camera",
+        "phonetic": "/ˈkæmərə/",
+        "pos": "n.",
+        "hint_letters": [0, 3],
+        "example": "He bought a new camera for the trip."
+      }
+    },
+    {
+      "id": "ket_sp_0002",
+      "type": "spelling",
+      "difficulty": 1,
+      "tags": ["noun", "food"],
+      "payload": {
+        "definition": "巧克力",
+        "answer": "chocolate",
+        "phonetic": "/ˈtʃɒklət/",
+        "pos": "n.",
+        "hint_letters": [0, 5],
+        "example": "She gave me a box of chocolate."
+      }
+    },
+    {
+      "id": "ket_lc_0001",
+      "type": "listening_choice",
+      "difficulty": 1,
+      "tags": ["noun", "building"],
+      "payload": {
+        "word": "bridge",
+        "phonetic": "/brɪdʒ/",
+        "definitions": ["桥", "桥梁"],
+        "options": ["桥", "门", "墙", "路"],
+        "answer_index": 0,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "ket_lc_0002",
+      "type": "listening_choice",
+      "difficulty": 2,
+      "tags": ["noun", "nature"],
+      "payload": {
+        "word": "forest",
+        "phonetic": "/ˈfɒrɪst/",
+        "definitions": ["森林"],
+        "options": ["田野", "花园", "森林", "草地"],
+        "answer_index": 2,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "ket_sf_0001",
+      "type": "sentence_fill",
+      "difficulty": 1,
+      "tags": ["noun", "house"],
+      "payload": {
+        "sentence": "I need to use the ___. Where is it?",
+        "answer": "bathroom",
+        "options": ["bathroom", "bedroom", "kitchen", "classroom"],
+        "answer_index": 0,
+        "translation": "我需要用洗手间，在哪里？"
+      }
+    },
+    {
+      "id": "ket_sf_0002",
+      "type": "sentence_fill",
+      "difficulty": 1,
+      "tags": ["noun", "school"],
+      "payload": {
+        "sentence": "There are twenty desks in our ___.",
+        "answer": "classroom",
+        "options": ["classroom", "bedroom", "bathroom", "dining room"],
+        "answer_index": 0,
+        "translation": "我们教室里有二十张课桌。"
+      }
+    }
+  ]
+}

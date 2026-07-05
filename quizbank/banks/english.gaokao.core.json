@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "bank_id": "english.gaokao.core",
+    "subject": "english",
+    "category": "gaokao",
+    "name": "高考英语核心词汇",
+    "name_en": "Gaokao English Core Vocabulary",
+    "cefr_level": "B1",
+    "total_items": 5,
+    "source": "高考大纲 + ECDICT",
+    "license": "CC-BY-SA 4.0",
+    "updated_at": "2026-07-05"
+  },
+  "items": [
+    {
+      "id": "gk_wc_0001",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["verb", "high_freq"],
+      "payload": {
+        "word": "comprehensive",
+        "phonetic": "/ˌkɒmprɪˈhensɪv/",
+        "pos": "adj.",
+        "definitions": ["全面的", "综合的"],
+        "options": ["全面的", "局部的", "简单的", "次要的"],
+        "answer_index": 0,
+        "example": "We need a comprehensive plan.",
+        "example_translation": "我们需要一个综合的计划。"
+      }
+    },
+    {
+      "id": "gk_wc_0002",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["verb"],
+      "payload": {
+        "word": "acknowledge",
+        "phonetic": "/əkˈnɒlɪdʒ/",
+        "pos": "v.",
+        "definitions": ["承认", "确认"],
+        "options": ["否认", "承认", "忽略", "拒绝"],
+        "answer_index": 1,
+        "example": "He acknowledged his mistake.",
+        "example_translation": "他承认了自己的错误。"
+      }
+    },
+    {
+      "id": "gk_dc_0001",
+      "type": "definition_choice",
+      "difficulty": 5,
+      "tags": ["verb"],
+      "payload": {
+        "definition": "阐明，解释",
+        "phonetic_hint": "/ɪˈlæsɪdeɪt/",
+        "options": ["elaborate", "eliminate", "elapse", "elevate"],
+        "answer_index": 0,
+        "example": "Could you elaborate on your idea?"
+      }
+    },
+    {
+      "id": "gk_sf_0001",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": ["verb"],
+      "payload": {
+        "sentence": "He ___ his mistake and apologized.",
+        "answer": "acknowledged",
+        "options": ["acknowledged", "denied", "ignored", "rejected"],
+        "answer_index": 0,
+        "translation": "他承认了错误并道歉。"
+      }
+    },
+    {
+      "id": "gk_sp_0001",
+      "type": "spelling",
+      "difficulty": 5,
+      "tags": ["adj"],
+      "payload": {
+        "definition": "不可避免的",
+        "answer": "inevitable",
+        "phonetic": "/ɪnˈevɪtəbl/",
+        "pos": "adj.",
+        "hint_letters": [0, 2, 5],
+        "example": "Change is inevitable."
+      }
+    }
+  ]
+}

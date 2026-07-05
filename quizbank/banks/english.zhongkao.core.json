@@ -1,0 +1,304 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "bank_id": "english.zhongkao.core",
+    "subject": "english",
+    "category": "zhongkao",
+    "name": "中考核心词汇",
+    "name_en": "Zhongkao Core Vocabulary",
+    "cefr_level": "A2",
+    "total_items": 20,
+    "source": "ECDICT + 人工校验",
+    "license": "CC-BY-SA 4.0",
+    "updated_at": "2026-07-05"
+  },
+  "items": [
+    {
+      "id": "zk_wc_0001",
+      "type": "word_choice",
+      "difficulty": 1,
+      "tags": ["noun", "abstract"],
+      "payload": {
+        "word": "ability",
+        "phonetic": "/əˈbɪləti/",
+        "pos": "n.",
+        "definitions": ["能力", "才能"],
+        "options": ["能力", "态度", "兴趣", "经历"],
+        "answer_index": 0,
+        "example": "He has the ability to learn quickly.",
+        "example_translation": "他有快速学习的能力。"
+      }
+    },
+    {
+      "id": "zk_wc_0002",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["adv"],
+      "payload": {
+        "word": "abroad",
+        "phonetic": "/əˈbrɔːd/",
+        "pos": "adv.",
+        "definitions": ["在国外", "到国外"],
+        "options": ["在家", "在国外", "在路上", "在学校"],
+        "answer_index": 1,
+        "example": "She plans to study abroad next year.",
+        "example_translation": "她计划明年出国留学。"
+      }
+    },
+    {
+      "id": "zk_wc_0003",
+      "type": "word_choice",
+      "difficulty": 1,
+      "tags": ["verb"],
+      "payload": {
+        "word": "accept",
+        "phonetic": "/əkˈsept/",
+        "pos": "v.",
+        "definitions": ["接受", "同意"],
+        "options": ["拒绝", "接受", "归还", "取消"],
+        "answer_index": 1,
+        "example": "Please accept my sincere thanks.",
+        "example_translation": "请接受我真诚的感谢。"
+      }
+    },
+    {
+      "id": "zk_wc_0004",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["noun"],
+      "payload": {
+        "word": "accident",
+        "phonetic": "/ˈæksɪdənt/",
+        "pos": "n.",
+        "definitions": ["事故", "意外"],
+        "options": ["事故", "会议", "聚会", "节日"],
+        "answer_index": 0,
+        "example": "He was hurt in a car accident.",
+        "example_translation": "他在一次车祸中受伤了。"
+      }
+    },
+    {
+      "id": "zk_wc_0005",
+      "type": "word_choice",
+      "difficulty": 1,
+      "tags": ["adj"],
+      "payload": {
+        "word": "active",
+        "phonetic": "/ˈæktɪv/",
+        "pos": "adj.",
+        "definitions": ["活跃的", "积极的"],
+        "options": ["懒惰的", "活跃的", "疲倦的", "害羞的"],
+        "answer_index": 1,
+        "example": "She is an active member of the club.",
+        "example_translation": "她是俱乐部的活跃成员。"
+      }
+    },
+    {
+      "id": "zk_wc_0006",
+      "type": "word_choice",
+      "difficulty": 1,
+      "tags": ["noun"],
+      "payload": {
+        "word": "advice",
+        "phonetic": "/ədˈvaɪs/",
+        "pos": "n.",
+        "definitions": ["建议", "忠告"],
+        "options": ["问题", "建议", "答案", "原因"],
+        "answer_index": 1,
+        "example": "Can you give me some advice?",
+        "example_translation": "你能给我一些建议吗？"
+      }
+    },
+    {
+      "id": "zk_wc_0007",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["adj"],
+      "payload": {
+        "word": "amazing",
+        "phonetic": "/əˈmeɪzɪŋ/",
+        "pos": "adj.",
+        "definitions": ["令人惊讶的", "惊人的"],
+        "options": ["普通的", "令人惊讶的", "无聊的", "容易的"],
+        "answer_index": 1,
+        "example": "The view from the mountain is amazing.",
+        "example_translation": "山上的景色令人惊叹。"
+      }
+    },
+    {
+      "id": "zk_dc_0001",
+      "type": "definition_choice",
+      "difficulty": 1,
+      "tags": ["noun"],
+      "payload": {
+        "definition": "地址",
+        "phonetic_hint": "/əˈdres/",
+        "options": ["address", "agree", "admit", "adopt"],
+        "answer_index": 0,
+        "example": "Please write your address here."
+      }
+    },
+    {
+      "id": "zk_dc_0002",
+      "type": "definition_choice",
+      "difficulty": 2,
+      "tags": ["verb"],
+      "payload": {
+        "definition": "钦佩，欣赏",
+        "phonetic_hint": "/ədˈmaɪə(r)/",
+        "options": ["admire", "admit", "advise", "adopt"],
+        "answer_index": 0,
+        "example": "I admire her courage."
+      }
+    },
+    {
+      "id": "zk_dc_0003",
+      "type": "definition_choice",
+      "difficulty": 1,
+      "tags": ["adj"],
+      "payload": {
+        "definition": "害怕的",
+        "phonetic_hint": "/əˈfreɪd/",
+        "options": ["afraid", "alone", "ahead", "alive"],
+        "answer_index": 0,
+        "example": "She is afraid of dogs."
+      }
+    },
+    {
+      "id": "zk_sp_0001",
+      "type": "spelling",
+      "difficulty": 2,
+      "tags": ["verb"],
+      "payload": {
+        "definition": "达到，实现",
+        "answer": "achieve",
+        "phonetic": "/əˈtʃiːv/",
+        "pos": "v.",
+        "hint_letters": [0, 4],
+        "example": "He achieved his dream of becoming a doctor."
+      }
+    },
+    {
+      "id": "zk_sp_0002",
+      "type": "spelling",
+      "difficulty": 1,
+      "tags": ["verb"],
+      "payload": {
+        "definition": "同意",
+        "answer": "agree",
+        "phonetic": "/əˈɡriː/",
+        "pos": "v.",
+        "hint_letters": [0, 3],
+        "example": "I agree with you on this matter."
+      }
+    },
+    {
+      "id": "zk_sp_0003",
+      "type": "spelling",
+      "difficulty": 1,
+      "tags": ["noun"],
+      "payload": {
+        "definition": "机场",
+        "answer": "airport",
+        "phonetic": "/ˈeəpɔːt/",
+        "pos": "n.",
+        "hint_letters": [0, 3],
+        "example": "We met at the airport."
+      }
+    },
+    {
+      "id": "zk_lc_0001",
+      "type": "listening_choice",
+      "difficulty": 2,
+      "tags": ["conj"],
+      "payload": {
+        "word": "although",
+        "phonetic": "/ɔːlˈðəʊ/",
+        "definitions": ["虽然", "尽管"],
+        "options": ["因为", "虽然", "如果", "除非"],
+        "answer_index": 1,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "zk_lc_0002",
+      "type": "listening_choice",
+      "difficulty": 1,
+      "tags": ["adv"],
+      "payload": {
+        "word": "always",
+        "phonetic": "/ˈɔːlweɪz/",
+        "definitions": ["总是", "一直"],
+        "options": ["从不", "总是", "有时", "很少"],
+        "answer_index": 1,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "zk_lc_0003",
+      "type": "listening_choice",
+      "difficulty": 1,
+      "tags": ["adv", "adj"],
+      "payload": {
+        "word": "alone",
+        "phonetic": "/əˈləʊn/",
+        "definitions": ["独自", "单独"],
+        "options": ["一起", "独自", "快速", "慢慢"],
+        "answer_index": 1,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "zk_sf_0001",
+      "type": "sentence_fill",
+      "difficulty": 1,
+      "tags": ["noun"],
+      "payload": {
+        "sentence": "Swimming is my favorite ___.",
+        "answer": "activity",
+        "options": ["activity", "accident", "address", "advice"],
+        "answer_index": 0,
+        "translation": "游泳是我最喜欢的活动。"
+      }
+    },
+    {
+      "id": "zk_sf_0002",
+      "type": "sentence_fill",
+      "difficulty": 2,
+      "tags": ["adj"],
+      "payload": {
+        "sentence": "The ___ cost was higher than expected.",
+        "answer": "actual",
+        "options": ["actual", "active", "afraid", "amazing"],
+        "answer_index": 0,
+        "translation": "实际成本比预期的高。"
+      }
+    },
+    {
+      "id": "zk_sf_0003",
+      "type": "sentence_fill",
+      "difficulty": 1,
+      "tags": ["prep"],
+      "payload": {
+        "sentence": "She leaned ___ the wall.",
+        "answer": "against",
+        "options": ["against", "ahead", "along", "among"],
+        "answer_index": 0,
+        "translation": "她靠在墙上。"
+      }
+    },
+    {
+      "id": "zk_sf_0004",
+      "type": "sentence_fill",
+      "difficulty": 1,
+      "tags": ["prep"],
+      "payload": {
+        "sentence": "He is popular ___ his classmates.",
+        "answer": "among",
+        "options": ["among", "against", "along", "ahead"],
+        "answer_index": 0,
+        "translation": "他在同学中很受欢迎。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "bank_id": "english.ielts.core",
+    "subject": "english",
+    "category": "ielts",
+    "name": "雅思核心词汇",
+    "name_en": "IELTS Core Vocabulary",
+    "cefr_level": "B2",
+    "total_items": 20,
+    "source": "ECDICT + 人工校验",
+    "license": "CC-BY-SA 4.0",
+    "updated_at": "2026-07-05"
+  },
+  "items": [
+    {
+      "id": "ielts_wc_0001",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["high_freq", "verb"],
+      "payload": {
+        "word": "accommodate",
+        "phonetic": "/əˈkɒmədeɪt/",
+        "pos": "v.",
+        "definitions": ["容纳", "提供住宿"],
+        "options": ["容纳", "拒绝", "排除", "驱逐"],
+        "answer_index": 0,
+        "example": "The room can accommodate 50 people.",
+        "example_translation": "这个房间可容纳 50 人。"
+      }
+    },
+    {
+      "id": "ielts_wc_0002",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["high_freq", "adj"],
+      "payload": {
+        "word": "adequate",
+        "phonetic": "/ˈædɪkwət/",
+        "pos": "adj.",
+        "definitions": ["充足的", "适当的"],
+        "options": ["充足的", "缺乏的", "过时的", "无关的"],
+        "answer_index": 0,
+        "example": "We need adequate sleep every night.",
+        "example_translation": "我们每晚需要充足的睡眠。"
+      }
+    },
+    {
+      "id": "ielts_wc_0003",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["high_freq", "verb"],
+      "payload": {
+        "word": "allocate",
+        "phonetic": "/ˈæləkeɪt/",
+        "pos": "v.",
+        "definitions": ["分配", "拨给"],
+        "options": ["分配", "保存", "消耗", "浪费"],
+        "answer_index": 0,
+        "example": "The government allocated funds for education.",
+        "example_translation": "政府为教育拨付了资金。"
+      }
+    },
+    {
+      "id": "ielts_wc_0004",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["adj", "academic"],
+      "payload": {
+        "word": "ambiguous",
+        "phonetic": "/æmˈbɪɡjuəs/",
+        "pos": "adj.",
+        "definitions": ["模糊的", "引起歧义的"],
+        "options": ["清晰的", "模糊的", "完整的", "精确的"],
+        "answer_index": 1,
+        "example": "The instructions were ambiguous and confusing.",
+        "example_translation": "这些说明含糊不清，令人困惑。"
+      }
+    },
+    {
+      "id": "ielts_wc_0005",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["high_freq", "verb"],
+      "payload": {
+        "word": "analyze",
+        "phonetic": "/ˈænəlaɪz/",
+        "pos": "v.",
+        "definitions": ["分析", "解析"],
+        "options": ["忽略", "分析", "隐藏", "破坏"],
+        "answer_index": 1,
+        "example": "We need to analyze the data carefully.",
+        "example_translation": "我们需要仔细分析这些数据。"
+      }
+    },
+    {
+      "id": "ielts_wc_0006",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["high_freq", "noun"],
+      "payload": {
+        "word": "approach",
+        "phonetic": "/əˈprəʊtʃ/",
+        "pos": "n./v.",
+        "definitions": ["方法", "接近"],
+        "options": ["方法", "结果", "原因", "影响"],
+        "answer_index": 0,
+        "example": "We need a new approach to the problem.",
+        "example_translation": "我们需要用新方法解决这个问题。"
+      }
+    },
+    {
+      "id": "ielts_dc_0001",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": ["adj"],
+      "payload": {
+        "definition": "适当的，合适的",
+        "phonetic_hint": "/əˈprəʊpriət/",
+        "options": ["appropriate", "approximate", "appreciate", "appoint"],
+        "answer_index": 0,
+        "example": "Wear appropriate clothes for the interview."
+      }
+    },
+    {
+      "id": "ielts_dc_0002",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": ["verb", "formal"],
+      "payload": {
+        "definition": "清楚地表达",
+        "phonetic_hint": "/ɑːˈtɪkjuleɪt/",
+        "options": ["articulate", "calculate", "accumulate", "simulate"],
+        "answer_index": 0,
+        "example": "He articulated his views clearly."
+      }
+    },
+    {
+      "id": "ielts_dc_0003",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": ["verb"],
+      "payload": {
+        "definition": "评估，评价",
+        "phonetic_hint": "/əˈses/",
+        "options": ["assess", "access", "asset", "assert"],
+        "answer_index": 0,
+        "example": "We need to assess the risks before acting."
+      }
+    },
+    {
+      "id": "ielts_dc_0004",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": ["verb"],
+      "payload": {
+        "definition": "分配，指派",
+        "phonetic_hint": "/əˈsaɪn/",
+        "options": ["assign", "align", "sign", "design"],
+        "answer_index": 0,
+        "example": "The teacher assigned homework to the class."
+      }
+    },
+    {
+      "id": "ielts_sp_0001",
+      "type": "spelling",
+      "difficulty": 4,
+      "tags": ["verb", "academic"],
+      "payload": {
+        "definition": "归因于，归属于",
+        "answer": "attribute",
+        "phonetic": "/əˈtrɪbjuːt/",
+        "pos": "v.",
+        "hint_letters": [0, 4],
+        "example": "He attributed his success to hard work."
+      }
+    },
+    {
+      "id": "ielts_sp_0002",
+      "type": "spelling",
+      "difficulty": 4,
+      "tags": ["adj", "academic"],
+      "payload": {
+        "definition": "连贯的，条理清楚的",
+        "answer": "coherent",
+        "phonetic": "/kəʊˈhɪərənt/",
+        "pos": "adj.",
+        "hint_letters": [0, 4],
+        "example": "Her essay is coherent and well-structured."
+      }
+    },
+    {
+      "id": "ielts_sp_0003",
+      "type": "spelling",
+      "difficulty": 4,
+      "tags": ["noun"],
+      "payload": {
+        "definition": "情况，环境",
+        "answer": "circumstance",
+        "phonetic": "/ˈsɜːkəmstəns/",
+        "pos": "n.",
+        "hint_letters": [0, 5],
+        "example": "Under no circumstances should you give up."
+      }
+    },
+    {
+      "id": "ielts_lc_0001",
+      "type": "listening_choice",
+      "difficulty": 3,
+      "tags": ["verb"],
+      "payload": {
+        "word": "boost",
+        "phonetic": "/buːst/",
+        "definitions": ["促进", "提升"],
+        "options": ["促进", "阻碍", "降低", "维持"],
+        "answer_index": 0,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "ielts_lc_0002",
+      "type": "listening_choice",
+      "difficulty": 3,
+      "tags": ["noun"],
+      "payload": {
+        "word": "candidate",
+        "phonetic": "/ˈkændɪdət/",
+        "definitions": ["候选人", "应聘者"],
+        "options": ["候选人", "选民", "主席", "观众"],
+        "answer_index": 0,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "ielts_lc_0003",
+      "type": "listening_choice",
+      "difficulty": 4,
+      "tags": ["noun"],
+      "payload": {
+        "word": "capacity",
+        "phonetic": "/kəˈpæsəti/",
+        "definitions": ["能力", "容量"],
+        "options": ["能力", "机会", "缺陷", "限制"],
+        "answer_index": 0,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "ielts_sf_0001",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": ["verb"],
+      "payload": {
+        "sentence": "She ___ herself to helping the poor.",
+        "answer": "committed",
+        "options": ["committed", "submitted", "permitted", "admitted"],
+        "answer_index": 0,
+        "translation": "她致力于帮助穷人。"
+      }
+    },
+    {
+      "id": "ielts_sf_0002",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": ["noun", "academic"],
+      "payload": {
+        "sentence": "Oil is an important ___ in the global market.",
+        "answer": "commodity",
+        "options": ["commodity", "community", "comment", "commute"],
+        "answer_index": 0,
+        "translation": "石油是全球市场上重要的商品。"
+      }
+    },
+    {
+      "id": "ielts_sf_0003",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": ["verb"],
+      "payload": {
+        "sentence": "The firm will ___ for the loss.",
+        "answer": "compensate",
+        "options": ["compensate", "comprehend", "compose", "compete"],
+        "answer_index": 0,
+        "translation": "公司将赔偿损失。"
+      }
+    },
+    {
+      "id": "ielts_sf_0004",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": ["verb"],
+      "payload": {
+        "sentence": "We ___ that the theory is correct.",
+        "answer": "conclude",
+        "options": ["conclude", "exclude", "include", "preclude"],
+        "answer_index": 0,
+        "translation": "我们得出结论：该理论是正确的。"
+      }
+    }
+  ]
+}

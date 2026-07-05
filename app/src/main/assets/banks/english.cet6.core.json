@@ -1,0 +1,301 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "bank_id": "english.cet6.core",
+    "subject": "english",
+    "category": "cet6",
+    "name": "CET-6 核心词汇",
+    "name_en": "CET-6 Core Vocabulary",
+    "cefr_level": "B2",
+    "total_items": 20,
+    "source": "ECDICT + 人工校验",
+    "license": "CC-BY-SA 4.0",
+    "updated_at": "2026-07-05"
+  },
+  "items": [
+    {
+      "id": "cet6_wc_0001",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["high_freq", "adj"],
+      "payload": {
+        "word": "abstract",
+        "phonetic": "/ˈæbstrækt/",
+        "pos": "adj.",
+        "definitions": ["抽象的", "理论上的"],
+        "options": ["抽象的", "具体的", "简单的", "实用的"],
+        "answer_index": 0,
+        "example": "Beauty is an abstract concept.",
+        "example_translation": "美是一个抽象的概念。"
+      }
+    },
+    {
+      "id": "cet6_wc_0002",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["high_freq", "verb"],
+      "payload": {
+        "word": "accommodate",
+        "phonetic": "/əˈkɒmədeɪt/",
+        "pos": "v.",
+        "definitions": ["容纳", "提供住宿"],
+        "options": ["拒绝", "容纳", "排除", "减少"],
+        "answer_index": 1,
+        "example": "The hotel can accommodate 200 guests.",
+        "example_translation": "这家酒店可容纳 200 位客人。"
+      }
+    },
+    {
+      "id": "cet6_wc_0003",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["high_freq", "verb"],
+      "payload": {
+        "word": "allocate",
+        "phonetic": "/ˈæləkeɪt/",
+        "pos": "v.",
+        "definitions": ["分配", "拨给"],
+        "options": ["分配", "保留", "收集", "浪费"],
+        "answer_index": 0,
+        "example": "We allocated funds for the new project.",
+        "example_translation": "我们为新项目拨付了资金。"
+      }
+    },
+    {
+      "id": "cet6_wc_0004",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["high_freq", "adj"],
+      "payload": {
+        "word": "ambiguous",
+        "phonetic": "/æmˈbɪɡjuəs/",
+        "pos": "adj.",
+        "definitions": ["模糊的", "引起歧义的"],
+        "options": ["明确的", "模糊的", "完整的", "精确的"],
+        "answer_index": 1,
+        "example": "His answer was ambiguous and confusing.",
+        "example_translation": "他的回答含糊不清，让人困惑。"
+      }
+    },
+    {
+      "id": "cet6_wc_0005",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["high_freq", "verb"],
+      "payload": {
+        "word": "anticipate",
+        "phonetic": "/ænˈtɪsɪpeɪt/",
+        "pos": "v.",
+        "definitions": ["预期", "预料"],
+        "options": ["回忆", "预料", "忽略", "推迟"],
+        "answer_index": 1,
+        "example": "We anticipate a steady growth in sales.",
+        "example_translation": "我们预计销售额会稳步增长。"
+      }
+    },
+    {
+      "id": "cet6_wc_0006",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["verb", "formal"],
+      "payload": {
+        "word": "articulate",
+        "phonetic": "/ɑːˈtɪkjuleɪt/",
+        "pos": "v.",
+        "definitions": ["清楚地表达"],
+        "options": ["隐藏", "清楚表达", "拒绝", "破坏"],
+        "answer_index": 1,
+        "example": "She articulated her ideas clearly to the audience.",
+        "example_translation": "她向听众清晰地表达了她的想法。"
+      }
+    },
+    {
+      "id": "cet6_dc_0001",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": ["adj"],
+      "payload": {
+        "definition": "真正的，可靠的",
+        "phonetic_hint": "/ɔːˈθentɪk/",
+        "options": ["authentic", "automatic", "artistic", "arithmetic"],
+        "answer_index": 0,
+        "example": "This is an authentic Picasso painting."
+      }
+    },
+    {
+      "id": "cet6_dc_0002",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": ["noun"],
+      "payload": {
+        "definition": "偏见，偏袒",
+        "phonetic_hint": "/ˈbaɪəs/",
+        "options": ["basis", "bias", "bonus", "budget"],
+        "answer_index": 1,
+        "example": "The judge showed no bias in the trial."
+      }
+    },
+    {
+      "id": "cet6_dc_0003",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": ["verb"],
+      "payload": {
+        "definition": "补偿，赔偿",
+        "phonetic_hint": "/ˈkɒmpenseɪt/",
+        "options": ["compensate", "comprehend", "compose", "comply"],
+        "answer_index": 0,
+        "example": "The company compensated him for the injury."
+      }
+    },
+    {
+      "id": "cet6_dc_0004",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": ["verb", "formal"],
+      "payload": {
+        "definition": "遵从，服从",
+        "phonetic_hint": "/kəmˈplaɪ/",
+        "options": ["reply", "comply", "imply", "supply"],
+        "answer_index": 1,
+        "example": "You must comply with the safety regulations."
+      }
+    },
+    {
+      "id": "cet6_sp_0001",
+      "type": "spelling",
+      "difficulty": 4,
+      "tags": ["noun"],
+      "payload": {
+        "definition": "裁决，定论",
+        "answer": "verdict",
+        "phonetic": "/ˈvɜːdɪkt/",
+        "pos": "n.",
+        "hint_letters": [0, 3],
+        "example": "The jury reached a verdict of guilty."
+      }
+    },
+    {
+      "id": "cet6_sp_0002",
+      "type": "spelling",
+      "difficulty": 4,
+      "tags": ["adj"],
+      "payload": {
+        "definition": "短暂的，转瞬即逝的",
+        "answer": "transient",
+        "phonetic": "/ˈtrænziənt/",
+        "pos": "adj.",
+        "hint_letters": [0, 4],
+        "example": "Her happiness was transient."
+      }
+    },
+    {
+      "id": "cet6_sp_0003",
+      "type": "spelling",
+      "difficulty": 4,
+      "tags": ["verb"],
+      "payload": {
+        "definition": "破坏，削弱",
+        "answer": "undermine",
+        "phonetic": "/ˌʌndəˈmaɪn/",
+        "pos": "v.",
+        "hint_letters": [0, 5],
+        "example": "Gossip can undermine a person's reputation."
+      }
+    },
+    {
+      "id": "cet6_lc_0001",
+      "type": "listening_choice",
+      "difficulty": 3,
+      "tags": ["verb"],
+      "payload": {
+        "word": "boost",
+        "phonetic": "/buːst/",
+        "definitions": ["促进", "增加"],
+        "options": ["促进", "减少", "维持", "阻碍"],
+        "answer_index": 0,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "cet6_lc_0002",
+      "type": "listening_choice",
+      "difficulty": 4,
+      "tags": ["verb", "formal"],
+      "payload": {
+        "word": "compel",
+        "phonetic": "/kəmˈpel/",
+        "definitions": ["强迫", "迫使"],
+        "options": ["劝阻", "协助", "强迫", "邀请"],
+        "answer_index": 2,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "cet6_lc_0003",
+      "type": "listening_choice",
+      "difficulty": 4,
+      "tags": ["adj"],
+      "payload": {
+        "word": "subsequent",
+        "phonetic": "/ˈsʌbsɪkwənt/",
+        "definitions": ["随后的", "后来的"],
+        "options": ["先前的", "随后的", "同时的", "永久的"],
+        "answer_index": 1,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "cet6_sf_0001",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": ["adj"],
+      "payload": {
+        "sentence": "The ___ position attracted many applicants.",
+        "answer": "vacant",
+        "options": ["vacant", "vague", "vain", "valid"],
+        "answer_index": 0,
+        "translation": "空缺的职位吸引了许多申请者。"
+      }
+    },
+    {
+      "id": "cet6_sf_0002",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": ["verb"],
+      "payload": {
+        "sentence": "The company will not ___ the contract.",
+        "answer": "violate",
+        "options": ["violate", "validate", "value", "vary"],
+        "answer_index": 0,
+        "translation": "公司不会违反合同。"
+      }
+    },
+    {
+      "id": "cet6_sf_0003",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": ["adj"],
+      "payload": {
+        "sentence": "Sleep is ___ to good health.",
+        "answer": "vital",
+        "options": ["vital", "vocal", "verbal", "visual"],
+        "answer_index": 0,
+        "translation": "睡眠对健康至关重要。"
+      }
+    },
+    {
+      "id": "cet6_sf_0004",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": ["noun"],
+      "payload": {
+        "sentence": "The country exported its grain ___.",
+        "answer": "surplus",
+        "options": ["surplus", "shortage", "deficit", "minimum"],
+        "answer_index": 0,
+        "translation": "该国出口了剩余的粮食。"
+      }
+    }
+  ]
+}
