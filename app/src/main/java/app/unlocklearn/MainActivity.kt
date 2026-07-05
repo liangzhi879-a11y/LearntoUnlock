@@ -129,10 +129,19 @@ private fun HomeScreen() {
             }
             if (appMode && !PermissionHelper.hasUsageStatsPermission(context)) {
                 item {
-                    PermissionHint(
-                        text = "娱乐 App 模式需要「使用情况访问权限」，点击前往授权",
-                        onClick = { PermissionHelper.openUsageAccessSettings(context) }
-                    )
+                    val rom = remember { PermissionHelper.detectRom() }
+                    Column(modifier = Modifier.padding(vertical = 8.dp)) {
+                        PermissionHint(
+                            text = "娱乐 App 模式需要「使用情况访问权限」，点击前往授权",
+                            onClick = { PermissionHelper.openUsageAccessSettings(context) }
+                        )
+                        Text(
+                            text = "当前机型：${rom.displayName}\n路径：${rom.usageAccessGuide}",
+                            fontSize = 12.sp,
+                            color = MaterialTheme.colorScheme.secondary,
+                            modifier = Modifier.padding(top = 4.dp, start = 4.dp)
+                        )
+                    }
                 }
             }
 
