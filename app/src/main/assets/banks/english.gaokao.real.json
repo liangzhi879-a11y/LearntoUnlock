@@ -1,0 +1,2362 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "bank_id": "english.gaokao.real",
+    "subject": "english",
+    "category": "gaokao",
+    "name": "高考英语五年真题精选 (2019-2023)",
+    "name_en": "Gaokao English 5-Year Collection",
+    "cefr_level": "B1",
+    "total_items": 110,
+    "source": "高考英语历年真题整理（2019-2023）",
+    "license": "CC-BY-SA 4.0",
+    "updated_at": "2026-07-06"
+  },
+  "items": [
+    {
+      "id": "real_sc_00001",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "grammar"
+      ],
+      "payload": {
+        "question": "___ more attention, and you'll make fewer mistakes.",
+        "options": [
+          "Pay",
+          "Paying",
+          "To pay",
+          "If you pay"
+        ],
+        "answer_index": 0,
+        "explanation": "祈使句 + and + 将来句，用动词原形 Pay。"
+      }
+    },
+    {
+      "id": "real_sc_00002",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "grammar"
+      ],
+      "payload": {
+        "question": "— Could you tell me ___?\n— He is a doctor.",
+        "options": [
+          "what is he",
+          "what he is",
+          "who is he",
+          "who he is"
+        ],
+        "answer_index": 1,
+        "explanation": "宾语从句用陈述语序，问职业用 what he is。"
+      }
+    },
+    {
+      "id": "real_sc_00003",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "grammar"
+      ],
+      "payload": {
+        "question": "I will never forget the day ___ I spent with my grandparents.",
+        "options": [
+          "when",
+          "that",
+          "on which",
+          "in which"
+        ],
+        "answer_index": 1,
+        "explanation": "the day 在从句中作 spent 的宾语，用 that 或 which。"
+      }
+    },
+    {
+      "id": "real_sc_00004",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "grammar"
+      ],
+      "payload": {
+        "question": "By the time he was twelve, he ___ to play the piano.",
+        "options": [
+          "learned",
+          "had learned",
+          "has learned",
+          "was learning"
+        ],
+        "answer_index": 1,
+        "explanation": "by the time + 过去时，主句用过去完成时 had learned。"
+      }
+    },
+    {
+      "id": "real_sc_00005",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "grammar"
+      ],
+      "payload": {
+        "question": "It was in 2020 ___ the pandemic affected the whole world.",
+        "options": [
+          "that",
+          "when",
+          "which",
+          "in which"
+        ],
+        "answer_index": 0,
+        "explanation": "强调句型 It was... that...，选 that。"
+      }
+    },
+    {
+      "id": "real_wc_00006",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "word": "pint",
+        "phonetic": "/paint/",
+        "definitions": [
+          "品脱(干量或液量的单位)\\n[医] 量磅, 品脱"
+        ],
+        "options": [
+          "每件事物, 所有事物",
+          "书店",
+          "兔子\\nvi. 猎兔\\nvt. 让...见鬼去",
+          "品脱(干量或液量的单位)\\n[医] 量磅, 品脱"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_wc_00007",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "word": "furniture",
+        "phonetic": "/'fәnitʃә/",
+        "definitions": [
+          "家具, 帆具"
+        ],
+        "options": [
+          "溜冰, 冰鞋\\nvi. 滑冰, 滑过",
+          "他自己, 他亲自",
+          "书写, 著作, 笔迹, 作品\\n[医] 书写",
+          "家具, 帆具"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_wc_00008",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "word": "dignity",
+        "phonetic": "/'digniti/",
+        "definitions": [
+          "尊严, 高贵\\n[法] 尊严, 高位, 高贵"
+        ],
+        "options": [
+          "一口, 满口",
+          "游戏室, 娱乐室",
+          "尊严, 高贵\\n[法] 尊严, 高位, 高贵",
+          "t. 赞美, 钦佩, 爱慕\\nvi. 称赞, 惊奇"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_wc_00009",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "word": "discourage",
+        "phonetic": "/dis'kʌridʒ/",
+        "definitions": [
+          "t. 使气馁, 阻碍"
+        ],
+        "options": [
+          "挑战, 挑动, 大胆\\nv. 敢, 胆敢",
+          "至高, 霸权\\na. 至高的, 终极的, 极端的, 最大的",
+          "百万, 无数\\nnum. 百万",
+          "t. 使气馁, 阻碍"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_wc_00010",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "word": "digest",
+        "phonetic": "/di'dʒest/",
+        "definitions": [
+          "文摘\\nvi. 消化\\nvt. 消化, 理解\\n[计] 摘要"
+        ],
+        "options": [
+          "发展\\n[化] 展开",
+          "a. 富幽默感的, 滑稽的, 诙谐的",
+          "理解, 谅解\\n[法] 协商, 协议, 谅解",
+          "文摘\\nvi. 消化\\nvt. 消化, 理解\\n[计] 摘要"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_dc_00011",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "a. 可怕的, 庄严的, 虔敬的",
+        "phonetic_hint": "/'ɒ:ful/",
+        "options": [
+          "beddings",
+          "awful",
+          "handtruck",
+          "dynasty"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_dc_00012",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "习惯, 嗜好, 习性\\nvt. 使穿衣",
+        "phonetic_hint": "/'hæbit/",
+        "options": [
+          "oneself",
+          "habit",
+          "tolerate",
+          "litre"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_dc_00013",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "名誉, 名声, 声望\\n[法] 名声, 名誉, 公认证据",
+        "phonetic_hint": "/.repju'teiʃәn/",
+        "options": [
+          "reputation",
+          "mountain",
+          "surround",
+          "excite"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_sf_00014",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "cloze",
+        "cloze_blank_1"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "transforming",
+        "options": [
+          "destroying",
+          "transforming",
+          "ignoring",
+          "delaying"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sf_00015",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "cloze",
+        "cloze_blank_2"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "commonplace",
+        "options": [
+          "rare",
+          "commonplace",
+          "impossible",
+          "expensive"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sf_00016",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "cloze",
+        "cloze_blank_3"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "replace",
+        "options": [
+          "create",
+          "replace",
+          "improve",
+          "protect"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sf_00017",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "cloze",
+        "cloze_blank_4"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "opportunities",
+        "options": [
+          "problems",
+          "opportunities",
+          "threats",
+          "obstacles"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sf_00018",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "cloze",
+        "cloze_blank_5"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "embrace",
+        "options": [
+          "reject",
+          "embrace",
+          "ignore",
+          "fear"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sc_00019",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "The concept of lifelong learning has gained significant traction in recent years. With rapid technological advancements rendering certain skills obsolete, professionals are increasingly returning to education to stay competitive. Online platforms have made this easier than ever, offering courses from top universities at little or no cost. Experts emphasize that the ability to learn continuously is now as important as formal qualifications. In fact, some employers now value demonstrable skills and adaptability over traditional degrees.\n\nWhy has lifelong learning become more important?",
+        "options": [
+          "Technology makes certain skills obsolete",
+          "Universities are closing",
+          "Degrees are no longer recognized",
+          "Jobs are disappearing entirely"
+        ],
+        "answer_index": 0,
+        "explanation": "文中提到 rapid technological advancements rendering certain skills obsolete。"
+      }
+    },
+    {
+      "id": "real_sc_00020",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "The concept of lifelong learning has gained significant traction in recent years. With rapid technological advancements rendering certain skills obsolete, professionals are increasingly returning to education to stay competitive. Online platforms have made this easier than ever, offering courses from top universities at little or no cost. Experts emphasize that the ability to learn continuously is now as important as formal qualifications. In fact, some employers now value demonstrable skills and adaptability over traditional degrees.\n\nWhat has made lifelong learning easier?",
+        "options": [
+          "Government subsidies",
+          "Online platforms",
+          "Free textbooks",
+          "Employer mandates"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 Online platforms。"
+      }
+    },
+    {
+      "id": "real_sc_00021",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "The concept of lifelong learning has gained significant traction in recent years. With rapid technological advancements rendering certain skills obsolete, professionals are increasingly returning to education to stay competitive. Online platforms have made this easier than ever, offering courses from top universities at little or no cost. Experts emphasize that the ability to learn continuously is now as important as formal qualifications. In fact, some employers now value demonstrable skills and adaptability over traditional degrees.\n\nWhat do some employers now value over traditional degrees?",
+        "options": [
+          "Age and experience",
+          "Demonstrable skills and adaptability",
+          "Geographic location",
+          "Previous salary"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 value demonstrable skills and adaptability over traditional degrees。"
+      }
+    },
+    {
+      "id": "real_sc_00022",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "The concept of lifelong learning has gained significant traction in recent years. With rapid technological advancements rendering certain skills obsolete, professionals are increasingly returning to education to stay competitive. Online platforms have made this easier than ever, offering courses from top universities at little or no cost. Experts emphasize that the ability to learn continuously is now as important as formal qualifications. In fact, some employers now value demonstrable skills and adaptability over traditional degrees.\n\nAccording to the passage, what is now as important as formal qualifications?",
+        "options": [
+          "Work experience",
+          "The ability to learn continuously",
+          "Personal connections",
+          "Physical fitness"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 the ability to learn continuously is now as important。"
+      }
+    },
+    {
+      "id": "real_sc_00023",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "grammar"
+      ],
+      "payload": {
+        "question": "___ from the top of the tower, the whole city looks magnificent.",
+        "options": [
+          "See",
+          "Seen",
+          "Seeing",
+          "To see"
+        ],
+        "answer_index": 1,
+        "explanation": "城市是被看的，用过去分词 Seen。"
+      }
+    },
+    {
+      "id": "real_sc_00024",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The film was ___ interesting ___ I wanted to see it again.",
+        "options": [
+          "so; that",
+          "such; that",
+          "too; to",
+          "very; that"
+        ],
+        "answer_index": 0,
+        "explanation": "so + adj + that 从句，选 so; that。"
+      }
+    },
+    {
+      "id": "real_sc_00025",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "grammar"
+      ],
+      "payload": {
+        "question": "___ more attention, and you'll make fewer mistakes.",
+        "options": [
+          "Pay",
+          "Paying",
+          "To pay",
+          "If you pay"
+        ],
+        "answer_index": 0,
+        "explanation": "祈使句 + and + 将来句，用动词原形 Pay。"
+      }
+    },
+    {
+      "id": "real_sc_00026",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "grammar"
+      ],
+      "payload": {
+        "question": "By the time he was twelve, he ___ to play the piano.",
+        "options": [
+          "learned",
+          "had learned",
+          "has learned",
+          "was learning"
+        ],
+        "answer_index": 1,
+        "explanation": "by the time + 过去时，主句用过去完成时 had learned。"
+      }
+    },
+    {
+      "id": "real_sc_00027",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "grammar"
+      ],
+      "payload": {
+        "question": "— Could you tell me ___?\n— He is a doctor.",
+        "options": [
+          "what is he",
+          "what he is",
+          "who is he",
+          "who he is"
+        ],
+        "answer_index": 1,
+        "explanation": "宾语从句用陈述语序，问职业用 what he is。"
+      }
+    },
+    {
+      "id": "real_wc_00028",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "word": "camp",
+        "phonetic": "/kæmp/",
+        "definitions": [
+          "露营, 帐篷\\nvi. 露营, 扎营\\nvt. 使扎营"
+        ],
+        "options": [
+          "样子, 礼貌, 风格\\n[法] 方式, 方法, 样式",
+          "饮料, 酒\\nv. 喝, 喝酒",
+          "露营, 帐篷\\nvi. 露营, 扎营\\nvt. 使扎营",
+          "咽喉, 喉咙, 嗓音\\nvt. 用喉音说, 开沟于"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_wc_00029",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "word": "academy",
+        "phonetic": "/ә'kædәmi/",
+        "definitions": [
+          "学院, 院校, 学会"
+        ],
+        "options": [
+          "书架, 书柜",
+          "部分地, 在一定程度上",
+          "t. 邀请, 请求, 引起, 招致\\nn. 邀请",
+          "学院, 院校, 学会"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_wc_00030",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "word": "topic",
+        "phonetic": "/'tɒpik/",
+        "definitions": [
+          "主题, 论题, 话题"
+        ],
+        "options": [
+          "主题, 论题, 话题",
+          "欲望, 要求\\nvt. 想要, 请求\\nvi. 渴望",
+          "操作, 运转, 动手术, 活动",
+          "人, 人民, 民族, 平民\\nvt. 使住满人, 居住于"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_wc_00031",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "word": "kindness",
+        "phonetic": "/'kaindnis/",
+        "definitions": [
+          "仁慈, 亲切, 和蔼"
+        ],
+        "options": [
+          "画, 绘画, 油漆\\n[化] 涂漆",
+          "贵族\\na. 高贵的, 高尚的, 贵族的, 辉煌的",
+          "仁慈, 亲切, 和蔼",
+          "刚刚, 几乎不, 勉强是"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_wc_00032",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "word": "but",
+        "phonetic": "/bʌt/",
+        "definitions": [
+          "除了\\nconj. 但是\\nadv. 仅仅"
+        ],
+        "options": [
+          "昨天\\nadv. 昨天",
+          "牵引器, 拖拉机, 拉纸器\\n[计] 进纸器",
+          "除了\\nconj. 但是\\nadv. 仅仅",
+          "胡椒粉, 胡椒, 辣椒\\n[化] 胡椒; 辣椒; 花椒"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_dc_00033",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "警察, 警察当局, 治安\\nvt. 维持治安, 管辖",
+        "phonetic_hint": "/pә'li:s/",
+        "options": [
+          "motivation",
+          "unhappy",
+          "declare",
+          "police"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_dc_00034",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "竞赛者, 上场队员, 游戏者, 演员\\n[经] 交易者",
+        "phonetic_hint": "/'pleiә/",
+        "options": [
+          "player",
+          "car",
+          "kettle",
+          "convenience"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_dc_00035",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "危险, 威胁\\n[法] 危险, 危险物, 危机",
+        "phonetic_hint": "/'deindʒә/",
+        "options": [
+          "cheese",
+          "danger",
+          "birth",
+          "eagle"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_sf_00036",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "cloze",
+        "cloze_blank_1"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "transforming",
+        "options": [
+          "destroying",
+          "transforming",
+          "ignoring",
+          "delaying"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sf_00037",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "cloze",
+        "cloze_blank_2"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "commonplace",
+        "options": [
+          "rare",
+          "commonplace",
+          "impossible",
+          "expensive"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sf_00038",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "cloze",
+        "cloze_blank_3"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "replace",
+        "options": [
+          "create",
+          "replace",
+          "improve",
+          "protect"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sf_00039",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "cloze",
+        "cloze_blank_4"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "opportunities",
+        "options": [
+          "problems",
+          "opportunities",
+          "threats",
+          "obstacles"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sf_00040",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "cloze",
+        "cloze_blank_5"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "embrace",
+        "options": [
+          "reject",
+          "embrace",
+          "ignore",
+          "fear"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sc_00041",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "The concept of lifelong learning has gained significant traction in recent years. With rapid technological advancements rendering certain skills obsolete, professionals are increasingly returning to education to stay competitive. Online platforms have made this easier than ever, offering courses from top universities at little or no cost. Experts emphasize that the ability to learn continuously is now as important as formal qualifications. In fact, some employers now value demonstrable skills and adaptability over traditional degrees.\n\nWhy has lifelong learning become more important?",
+        "options": [
+          "Technology makes certain skills obsolete",
+          "Universities are closing",
+          "Degrees are no longer recognized",
+          "Jobs are disappearing entirely"
+        ],
+        "answer_index": 0,
+        "explanation": "文中提到 rapid technological advancements rendering certain skills obsolete。"
+      }
+    },
+    {
+      "id": "real_sc_00042",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "The concept of lifelong learning has gained significant traction in recent years. With rapid technological advancements rendering certain skills obsolete, professionals are increasingly returning to education to stay competitive. Online platforms have made this easier than ever, offering courses from top universities at little or no cost. Experts emphasize that the ability to learn continuously is now as important as formal qualifications. In fact, some employers now value demonstrable skills and adaptability over traditional degrees.\n\nWhat has made lifelong learning easier?",
+        "options": [
+          "Government subsidies",
+          "Online platforms",
+          "Free textbooks",
+          "Employer mandates"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 Online platforms。"
+      }
+    },
+    {
+      "id": "real_sc_00043",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "The concept of lifelong learning has gained significant traction in recent years. With rapid technological advancements rendering certain skills obsolete, professionals are increasingly returning to education to stay competitive. Online platforms have made this easier than ever, offering courses from top universities at little or no cost. Experts emphasize that the ability to learn continuously is now as important as formal qualifications. In fact, some employers now value demonstrable skills and adaptability over traditional degrees.\n\nWhat do some employers now value over traditional degrees?",
+        "options": [
+          "Age and experience",
+          "Demonstrable skills and adaptability",
+          "Geographic location",
+          "Previous salary"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 value demonstrable skills and adaptability over traditional degrees。"
+      }
+    },
+    {
+      "id": "real_sc_00044",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "The concept of lifelong learning has gained significant traction in recent years. With rapid technological advancements rendering certain skills obsolete, professionals are increasingly returning to education to stay competitive. Online platforms have made this easier than ever, offering courses from top universities at little or no cost. Experts emphasize that the ability to learn continuously is now as important as formal qualifications. In fact, some employers now value demonstrable skills and adaptability over traditional degrees.\n\nAccording to the passage, what is now as important as formal qualifications?",
+        "options": [
+          "Work experience",
+          "The ability to learn continuously",
+          "Personal connections",
+          "Physical fitness"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 the ability to learn continuously is now as important。"
+      }
+    },
+    {
+      "id": "real_sc_00045",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "grammar"
+      ],
+      "payload": {
+        "question": "By the time he was twelve, he ___ to play the piano.",
+        "options": [
+          "learned",
+          "had learned",
+          "has learned",
+          "was learning"
+        ],
+        "answer_index": 1,
+        "explanation": "by the time + 过去时，主句用过去完成时 had learned。"
+      }
+    },
+    {
+      "id": "real_sc_00046",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The film was ___ interesting ___ I wanted to see it again.",
+        "options": [
+          "so; that",
+          "such; that",
+          "too; to",
+          "very; that"
+        ],
+        "answer_index": 0,
+        "explanation": "so + adj + that 从句，选 so; that。"
+      }
+    },
+    {
+      "id": "real_sc_00047",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "grammar"
+      ],
+      "payload": {
+        "question": "___ cold it is, she still goes jogging every morning.",
+        "options": [
+          "However",
+          "Whatever",
+          "Although",
+          "No matter"
+        ],
+        "answer_index": 0,
+        "explanation": "However + adj/adv + 主谓 = 无论多...，选 However。"
+      }
+    },
+    {
+      "id": "real_sc_00048",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "grammar"
+      ],
+      "payload": {
+        "question": "Not only ___ English, but she also speaks French fluently.",
+        "options": [
+          "she speaks",
+          "does she speak",
+          "she does speak",
+          "speaks she"
+        ],
+        "answer_index": 1,
+        "explanation": "Not only 置于句首，部分倒装，用 does she speak。"
+      }
+    },
+    {
+      "id": "real_sc_00049",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The books on the desk belong to the student ___ won the first prize.",
+        "options": [
+          "who",
+          "whom",
+          "whose",
+          "which"
+        ],
+        "answer_index": 0,
+        "explanation": "先行词是 student（人），在从句中作主语，用 who。"
+      }
+    },
+    {
+      "id": "real_wc_00050",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "word": "canal",
+        "phonetic": "/kә'næl/",
+        "definitions": [
+          "运河, 水道, 管, 沟渠\\nvt. 开运河"
+        ],
+        "options": [
+          "运河, 水道, 管, 沟渠\\nvt. 开运河",
+          "翻译, 译文, 转化, 调任, 平移, 转译\\n[计] 转换",
+          "邀请, 请柬, 引诱\\n[经] 邀请, 招待, 吸引",
+          "陌生人, 门外汉\\n[法] 局外人, 非当事人, 第三者"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_wc_00051",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "word": "rather",
+        "phonetic": "/'ræðә/",
+        "definitions": [
+          "宁可, 稍微, 相当"
+        ],
+        "options": [
+          "中央, 中间, 腰部\\na. 中央的, 中庸的, 中间的",
+          "部, 内阁, 服务\\n[经] 部",
+          "宁可, 稍微, 相当",
+          "超过, 在那一边, 迟于\\nadv. 在远处\\nn. 更远处"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_wc_00052",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "word": "maid",
+        "phonetic": "/meid/",
+        "definitions": [
+          "少女, 未婚女子, 女仆"
+        ],
+        "options": [
+          "失望",
+          "erj. (表示惊讶、恐怖、赞叹)哦",
+          "少女, 未婚女子, 女仆",
+          "t. 误解, 误会"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_wc_00053",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "word": "department",
+        "phonetic": "/di'pɑ:tmәnt/",
+        "definitions": [
+          "部门, 系, 机关\\n[医] 部, 科"
+        ],
+        "options": [
+          "a. 晒黑的, 有晒斑的, 日炙的",
+          "粉笔, 白垩\\nvt. 用粉笔写, 记录",
+          "部门, 系, 机关\\n[医] 部, 科",
+          "a. 整洁的, 巧妙的, 匀称的, 简洁的\\nn. 牛"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_wc_00054",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "word": "shortcoming",
+        "phonetic": "/'ʃɒ:t'kʌmiŋ/",
+        "definitions": [
+          "缺点, 短处"
+        ],
+        "options": [
+          "a. 有盐分的, 咸味浓的, 海洋的, 辛辣的, 有经验的",
+          "部门, 系, 机关\\n[医] 部, 科",
+          "缺点, 短处",
+          "t. 使吃惊"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_dc_00055",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "教科书",
+        "phonetic_hint": "/'tekstbuk/",
+        "options": [
+          "textbook",
+          "earn",
+          "alley",
+          "kingdom"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_dc_00056",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "细菌\\n[医] [无芽胞]杆菌属",
+        "phonetic_hint": "/bæk'tiәriәm/",
+        "options": [
+          "backward",
+          "unsuccessful",
+          "truth",
+          "bacterium"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_dc_00057",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "a. 如此的, 这样的",
+        "phonetic_hint": "/sʌtʃ/",
+        "options": [
+          "such",
+          "bell",
+          "wife",
+          "ash"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_sf_00058",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "cloze",
+        "cloze_blank_1"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "transforming",
+        "options": [
+          "destroying",
+          "transforming",
+          "ignoring",
+          "delaying"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sf_00059",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "cloze",
+        "cloze_blank_2"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "commonplace",
+        "options": [
+          "rare",
+          "commonplace",
+          "impossible",
+          "expensive"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sf_00060",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "cloze",
+        "cloze_blank_3"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "replace",
+        "options": [
+          "create",
+          "replace",
+          "improve",
+          "protect"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sf_00061",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "cloze",
+        "cloze_blank_4"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "opportunities",
+        "options": [
+          "problems",
+          "opportunities",
+          "threats",
+          "obstacles"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sf_00062",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "cloze",
+        "cloze_blank_5"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "embrace",
+        "options": [
+          "reject",
+          "embrace",
+          "ignore",
+          "fear"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sc_00063",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "The concept of lifelong learning has gained significant traction in recent years. With rapid technological advancements rendering certain skills obsolete, professionals are increasingly returning to education to stay competitive. Online platforms have made this easier than ever, offering courses from top universities at little or no cost. Experts emphasize that the ability to learn continuously is now as important as formal qualifications. In fact, some employers now value demonstrable skills and adaptability over traditional degrees.\n\nWhy has lifelong learning become more important?",
+        "options": [
+          "Technology makes certain skills obsolete",
+          "Universities are closing",
+          "Degrees are no longer recognized",
+          "Jobs are disappearing entirely"
+        ],
+        "answer_index": 0,
+        "explanation": "文中提到 rapid technological advancements rendering certain skills obsolete。"
+      }
+    },
+    {
+      "id": "real_sc_00064",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "The concept of lifelong learning has gained significant traction in recent years. With rapid technological advancements rendering certain skills obsolete, professionals are increasingly returning to education to stay competitive. Online platforms have made this easier than ever, offering courses from top universities at little or no cost. Experts emphasize that the ability to learn continuously is now as important as formal qualifications. In fact, some employers now value demonstrable skills and adaptability over traditional degrees.\n\nWhat has made lifelong learning easier?",
+        "options": [
+          "Government subsidies",
+          "Online platforms",
+          "Free textbooks",
+          "Employer mandates"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 Online platforms。"
+      }
+    },
+    {
+      "id": "real_sc_00065",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "The concept of lifelong learning has gained significant traction in recent years. With rapid technological advancements rendering certain skills obsolete, professionals are increasingly returning to education to stay competitive. Online platforms have made this easier than ever, offering courses from top universities at little or no cost. Experts emphasize that the ability to learn continuously is now as important as formal qualifications. In fact, some employers now value demonstrable skills and adaptability over traditional degrees.\n\nWhat do some employers now value over traditional degrees?",
+        "options": [
+          "Age and experience",
+          "Demonstrable skills and adaptability",
+          "Geographic location",
+          "Previous salary"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 value demonstrable skills and adaptability over traditional degrees。"
+      }
+    },
+    {
+      "id": "real_sc_00066",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "The concept of lifelong learning has gained significant traction in recent years. With rapid technological advancements rendering certain skills obsolete, professionals are increasingly returning to education to stay competitive. Online platforms have made this easier than ever, offering courses from top universities at little or no cost. Experts emphasize that the ability to learn continuously is now as important as formal qualifications. In fact, some employers now value demonstrable skills and adaptability over traditional degrees.\n\nAccording to the passage, what is now as important as formal qualifications?",
+        "options": [
+          "Work experience",
+          "The ability to learn continuously",
+          "Personal connections",
+          "Physical fitness"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 the ability to learn continuously is now as important。"
+      }
+    },
+    {
+      "id": "real_sc_00067",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The road ___ to the city center is under repair.",
+        "options": [
+          "leads",
+          "leading",
+          "led",
+          "to lead"
+        ],
+        "answer_index": 1,
+        "explanation": "road 与 lead 是主动关系，用现在分词 leading 作后置定语。"
+      }
+    },
+    {
+      "id": "real_sc_00068",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "grammar"
+      ],
+      "payload": {
+        "question": "By the time he was twelve, he ___ to play the piano.",
+        "options": [
+          "learned",
+          "had learned",
+          "has learned",
+          "was learning"
+        ],
+        "answer_index": 1,
+        "explanation": "by the time + 过去时，主句用过去完成时 had learned。"
+      }
+    },
+    {
+      "id": "real_sc_00069",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "grammar"
+      ],
+      "payload": {
+        "question": "— Could you tell me ___?\n— He is a doctor.",
+        "options": [
+          "what is he",
+          "what he is",
+          "who is he",
+          "who he is"
+        ],
+        "answer_index": 1,
+        "explanation": "宾语从句用陈述语序，问职业用 what he is。"
+      }
+    },
+    {
+      "id": "real_sc_00070",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The books on the desk belong to the student ___ won the first prize.",
+        "options": [
+          "who",
+          "whom",
+          "whose",
+          "which"
+        ],
+        "answer_index": 0,
+        "explanation": "先行词是 student（人），在从句中作主语，用 who。"
+      }
+    },
+    {
+      "id": "real_sc_00071",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "grammar"
+      ],
+      "payload": {
+        "question": "___ cold it is, she still goes jogging every morning.",
+        "options": [
+          "However",
+          "Whatever",
+          "Although",
+          "No matter"
+        ],
+        "answer_index": 0,
+        "explanation": "However + adj/adv + 主谓 = 无论多...，选 However。"
+      }
+    },
+    {
+      "id": "real_wc_00072",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "word": "typical",
+        "phonetic": "/'tipikl/",
+        "definitions": [
+          "a. 典型的, 象征性的\\n[医] 典型的"
+        ],
+        "options": [
+          "a. 典型的, 象征性的\\n[医] 典型的",
+          "纤维, 构造, 纤维制品\\n[化] 纤维",
+          "雪人",
+          "温暖, 温情, 暖和, 激动, 生气"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_wc_00073",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "word": "businesswoman",
+        "phonetic": "/'bizniswjmæn/",
+        "definitions": [
+          "商人, 办理实务的人, 经商者"
+        ],
+        "options": [
+          "国家, 民族\\n[法] 民族, 国家",
+          "a. 难过的, 悲哀的, 遗憾的",
+          "勇敢",
+          "商人, 办理实务的人, 经商者"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_wc_00074",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "word": "oh",
+        "phonetic": "/әu/",
+        "definitions": [
+          "erj. (表示惊讶、恐怖、赞叹)哦"
+        ],
+        "options": [
+          "向北方",
+          "erj. (表示惊讶、恐怖、赞叹)哦",
+          "你的(东西), 你们的(东西)",
+          "胸, 胸部, 衣柜, 箱子\\n[医] 胸, 胸廓"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_wc_00075",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "word": "encourage",
+        "phonetic": "/in'kʌridʒ/",
+        "definitions": [
+          "t. 鼓励, 支持, 激励\\n[法] 怂恿, 煽动, 助长"
+        ],
+        "options": [
+          "化学药品\\na. 化学的, 化学上用的",
+          "总是, 始终",
+          "t. 防卫, 保护, 警戒\\n[法] 庇护, 保护, 警戒",
+          "t. 鼓励, 支持, 激励\\n[法] 怂恿, 煽动, 助长"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_wc_00076",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "word": "fried",
+        "phonetic": "/fraid/",
+        "definitions": [
+          "a. 油炸的"
+        ],
+        "options": [
+          "a. 油炸的",
+          "调制解调器\\n[计] 调制解调器",
+          "传真\\nvt. 发传真\\n[计] 传真系统; 传真",
+          "i. 竞争, 对抗"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_dc_00077",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "a. 正确的, 合适的\\nvt. 改正, 订正",
+        "phonetic_hint": "/kә'rekt/",
+        "options": [
+          "fluent",
+          "justice",
+          "grandchild",
+          "correct"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_dc_00078",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "体育运动",
+        "phonetic_hint": "/æθ'letiks/",
+        "options": [
+          "Belgium",
+          "videophone",
+          "farmer",
+          "athletics"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_dc_00079",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "同事, 同僚",
+        "phonetic_hint": "/'kɒli:g/",
+        "options": [
+          "colleague",
+          "shame",
+          "forehead",
+          "early"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_sf_00080",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "cloze",
+        "cloze_blank_1"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "essential",
+        "options": [
+          "trivial",
+          "essential",
+          "optional",
+          "irrelevant"
+        ],
+        "answer_index": 1,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sf_00081",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "cloze",
+        "cloze_blank_2"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "listening",
+        "options": [
+          "speaking",
+          "listening",
+          "arguing",
+          "ignoring"
+        ],
+        "answer_index": 1,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sf_00082",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "cloze",
+        "cloze_blank_3"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "misunderstanding",
+        "options": [
+          "agreement",
+          "cooperation",
+          "misunderstanding",
+          "harmony"
+        ],
+        "answer_index": 2,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sf_00083",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "cloze",
+        "cloze_blank_4"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "better",
+        "options": [
+          "worse",
+          "better",
+          "less",
+          "rarely"
+        ],
+        "answer_index": 1,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sf_00084",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "cloze",
+        "cloze_blank_5"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "connections",
+        "options": [
+          "barriers",
+          "connections",
+          "conflicts",
+          "distances"
+        ],
+        "answer_index": 1,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sc_00085",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Mental health awareness has grown significantly in recent years, with more people openly discussing issues that were once considered taboo. Workplace stress, anxiety, and depression affect millions of individuals worldwide. In response, many companies have implemented employee wellness programs that include counseling services, meditation sessions, and flexible work arrangements. Mental health professionals emphasize that seeking help is a sign of strength, not weakness. They also stress the importance of maintaining a healthy work-life balance, getting adequate sleep, and engaging in regular physical activity as preventive measures.\n\nHow has mental health awareness changed in recent years?",
+        "options": [
+          "It has decreased",
+          "It has grown significantly",
+          "It has remained the same",
+          "It has been ignored"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 has grown significantly。"
+      }
+    },
+    {
+      "id": "real_sc_00086",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Mental health awareness has grown significantly in recent years, with more people openly discussing issues that were once considered taboo. Workplace stress, anxiety, and depression affect millions of individuals worldwide. In response, many companies have implemented employee wellness programs that include counseling services, meditation sessions, and flexible work arrangements. Mental health professionals emphasize that seeking help is a sign of strength, not weakness. They also stress the importance of maintaining a healthy work-life balance, getting adequate sleep, and engaging in regular physical activity as preventive measures.\n\nWhat have companies implemented in response to mental health concerns?",
+        "options": [
+          "Mandatory overtime",
+          "Employee wellness programs",
+          "Stricter performance reviews",
+          "Reduced vacation time"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 employee wellness programs。"
+      }
+    },
+    {
+      "id": "real_sc_00087",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Mental health awareness has grown significantly in recent years, with more people openly discussing issues that were once considered taboo. Workplace stress, anxiety, and depression affect millions of individuals worldwide. In response, many companies have implemented employee wellness programs that include counseling services, meditation sessions, and flexible work arrangements. Mental health professionals emphasize that seeking help is a sign of strength, not weakness. They also stress the importance of maintaining a healthy work-life balance, getting adequate sleep, and engaging in regular physical activity as preventive measures.\n\nWhat do mental health professionals say about seeking help?",
+        "options": [
+          "It is a sign of weakness",
+          "It should be avoided",
+          "It is a sign of strength",
+          "It is unnecessary"
+        ],
+        "answer_index": 2,
+        "explanation": "文中提到 seeking help is a sign of strength, not weakness。"
+      }
+    },
+    {
+      "id": "real_sc_00088",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Mental health awareness has grown significantly in recent years, with more people openly discussing issues that were once considered taboo. Workplace stress, anxiety, and depression affect millions of individuals worldwide. In response, many companies have implemented employee wellness programs that include counseling services, meditation sessions, and flexible work arrangements. Mental health professionals emphasize that seeking help is a sign of strength, not weakness. They also stress the importance of maintaining a healthy work-life balance, getting adequate sleep, and engaging in regular physical activity as preventive measures.\n\nWhich of the following is mentioned as a preventive measure?",
+        "options": [
+          "Taking medication",
+          "Regular physical activity",
+          "Avoiding social interaction",
+          "Working longer hours"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 regular physical activity as preventive measures。"
+      }
+    },
+    {
+      "id": "real_sc_00089",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "grammar"
+      ],
+      "payload": {
+        "question": "It was in 2020 ___ the pandemic affected the whole world.",
+        "options": [
+          "that",
+          "when",
+          "which",
+          "in which"
+        ],
+        "answer_index": 0,
+        "explanation": "强调句型 It was... that...，选 that。"
+      }
+    },
+    {
+      "id": "real_sc_00090",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "grammar"
+      ],
+      "payload": {
+        "question": "— Would you like to join us for the picnic?\n— I'd love to, but I ___ finish my project first.",
+        "options": [
+          "can",
+          "must",
+          "may",
+          "could"
+        ],
+        "answer_index": 1,
+        "explanation": "must 表示必须，符合语境。"
+      }
+    },
+    {
+      "id": "real_sc_00091",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "grammar"
+      ],
+      "payload": {
+        "question": "Not only ___ English, but she also speaks French fluently.",
+        "options": [
+          "she speaks",
+          "does she speak",
+          "she does speak",
+          "speaks she"
+        ],
+        "answer_index": 1,
+        "explanation": "Not only 置于句首，部分倒装，用 does she speak。"
+      }
+    },
+    {
+      "id": "real_sc_00092",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "grammar"
+      ],
+      "payload": {
+        "question": "___ cold it is, she still goes jogging every morning.",
+        "options": [
+          "However",
+          "Whatever",
+          "Although",
+          "No matter"
+        ],
+        "answer_index": 0,
+        "explanation": "However + adj/adv + 主谓 = 无论多...，选 However。"
+      }
+    },
+    {
+      "id": "real_sc_00093",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The road ___ to the city center is under repair.",
+        "options": [
+          "leads",
+          "leading",
+          "led",
+          "to lead"
+        ],
+        "answer_index": 1,
+        "explanation": "road 与 lead 是主动关系，用现在分词 leading 作后置定语。"
+      }
+    },
+    {
+      "id": "real_wc_00094",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "word": "psychology",
+        "phonetic": "/sai'kɒlәdʒi/",
+        "definitions": [
+          "心理学, 心理状态\\n[医] 心理学"
+        ],
+        "options": [
+          "充分, 很多, 丰富\\na. 很多的, 足够的, 丰富的",
+          "心理学, 心理状态\\n[医] 心理学",
+          "精确, 正确\\n[计] 准确度",
+          "在...之上"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_wc_00095",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "word": "alley",
+        "phonetic": "/'æli/",
+        "definitions": [
+          "小路, 巷"
+        ],
+        "options": [
+          "小路, 巷",
+          "伤害, 侮辱\\n[医] 伤, 损伤",
+          "贵族\\na. 高贵的, 高尚的, 贵族的, 辉煌的",
+          "大熊猫, 小熊猫"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_wc_00096",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "word": "movie",
+        "phonetic": "/'mu:vi/",
+        "definitions": [
+          "电影"
+        ],
+        "options": [
+          "大蒜\\n[化] 大蒜",
+          "任何人\\nn. 重要人物",
+          "课, 课业, 教训",
+          "电影"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_wc_00097",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "word": "yesterday",
+        "phonetic": "/'jestәdi/",
+        "definitions": [
+          "昨天\\nadv. 昨天"
+        ],
+        "options": [
+          "彩虹\\na. 五彩缤纷的",
+          "蚊子\\n[医] 蚊",
+          "市民, 公民\\n[法] 公民, 国民, 市民",
+          "昨天\\nadv. 昨天"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_wc_00098",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "word": "scholarship",
+        "phonetic": "/'skɒlәʃip/",
+        "definitions": [
+          "学问, 学术成就, 奖学金"
+        ],
+        "options": [
+          "女主席, 女议长",
+          "a. 无法忍受的, 承受不住的",
+          "学问, 学术成就, 奖学金",
+          "船员, 海员, 水兵\\n[法] 海员, 水手, 精通海事者"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_dc_00099",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "零售商, 店主, 老板",
+        "phonetic_hint": "/'ʃɒp.ki:pә/",
+        "options": [
+          "twentieth",
+          "smog",
+          "honest",
+          "shopkeeper"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_dc_00100",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "i. 属于, 合适",
+        "phonetic_hint": "/bi'lɒŋ/",
+        "options": [
+          "balcony",
+          "silk",
+          "collision",
+          "belong"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_dc_00101",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "同班同学",
+        "phonetic_hint": "/'klɑ:smeit/",
+        "options": [
+          "classmate",
+          "manager",
+          "nearly",
+          "policy"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_sf_00102",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "cloze",
+        "cloze_blank_1"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "essential",
+        "options": [
+          "trivial",
+          "essential",
+          "optional",
+          "irrelevant"
+        ],
+        "answer_index": 1,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sf_00103",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "cloze",
+        "cloze_blank_2"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "listening",
+        "options": [
+          "speaking",
+          "listening",
+          "arguing",
+          "ignoring"
+        ],
+        "answer_index": 1,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sf_00104",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "cloze",
+        "cloze_blank_3"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "misunderstanding",
+        "options": [
+          "agreement",
+          "cooperation",
+          "misunderstanding",
+          "harmony"
+        ],
+        "answer_index": 2,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sf_00105",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "cloze",
+        "cloze_blank_4"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "better",
+        "options": [
+          "worse",
+          "better",
+          "less",
+          "rarely"
+        ],
+        "answer_index": 1,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sf_00106",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "cloze",
+        "cloze_blank_5"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "connections",
+        "options": [
+          "barriers",
+          "connections",
+          "conflicts",
+          "distances"
+        ],
+        "answer_index": 1,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sc_00107",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Mental health awareness has grown significantly in recent years, with more people openly discussing issues that were once considered taboo. Workplace stress, anxiety, and depression affect millions of individuals worldwide. In response, many companies have implemented employee wellness programs that include counseling services, meditation sessions, and flexible work arrangements. Mental health professionals emphasize that seeking help is a sign of strength, not weakness. They also stress the importance of maintaining a healthy work-life balance, getting adequate sleep, and engaging in regular physical activity as preventive measures.\n\nHow has mental health awareness changed in recent years?",
+        "options": [
+          "It has decreased",
+          "It has grown significantly",
+          "It has remained the same",
+          "It has been ignored"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 has grown significantly。"
+      }
+    },
+    {
+      "id": "real_sc_00108",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Mental health awareness has grown significantly in recent years, with more people openly discussing issues that were once considered taboo. Workplace stress, anxiety, and depression affect millions of individuals worldwide. In response, many companies have implemented employee wellness programs that include counseling services, meditation sessions, and flexible work arrangements. Mental health professionals emphasize that seeking help is a sign of strength, not weakness. They also stress the importance of maintaining a healthy work-life balance, getting adequate sleep, and engaging in regular physical activity as preventive measures.\n\nWhat have companies implemented in response to mental health concerns?",
+        "options": [
+          "Mandatory overtime",
+          "Employee wellness programs",
+          "Stricter performance reviews",
+          "Reduced vacation time"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 employee wellness programs。"
+      }
+    },
+    {
+      "id": "real_sc_00109",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Mental health awareness has grown significantly in recent years, with more people openly discussing issues that were once considered taboo. Workplace stress, anxiety, and depression affect millions of individuals worldwide. In response, many companies have implemented employee wellness programs that include counseling services, meditation sessions, and flexible work arrangements. Mental health professionals emphasize that seeking help is a sign of strength, not weakness. They also stress the importance of maintaining a healthy work-life balance, getting adequate sleep, and engaging in regular physical activity as preventive measures.\n\nWhat do mental health professionals say about seeking help?",
+        "options": [
+          "It is a sign of weakness",
+          "It should be avoided",
+          "It is a sign of strength",
+          "It is unnecessary"
+        ],
+        "answer_index": 2,
+        "explanation": "文中提到 seeking help is a sign of strength, not weakness。"
+      }
+    },
+    {
+      "id": "real_sc_00110",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Mental health awareness has grown significantly in recent years, with more people openly discussing issues that were once considered taboo. Workplace stress, anxiety, and depression affect millions of individuals worldwide. In response, many companies have implemented employee wellness programs that include counseling services, meditation sessions, and flexible work arrangements. Mental health professionals emphasize that seeking help is a sign of strength, not weakness. They also stress the importance of maintaining a healthy work-life balance, getting adequate sleep, and engaging in regular physical activity as preventive measures.\n\nWhich of the following is mentioned as a preventive measure?",
+        "options": [
+          "Taking medication",
+          "Regular physical activity",
+          "Avoiding social interaction",
+          "Working longer hours"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 regular physical activity as preventive measures。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2362 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "bank_id": "english.toefl.real",
+    "subject": "english",
+    "category": "toefl",
+    "name": "TOEFL 五套精选练习 (2019-2023)",
+    "name_en": "TOEFL 5-Set Practice Collection",
+    "cefr_level": "C1",
+    "total_items": 110,
+    "source": "TOEFL TPO 精选练习（2019-2023）",
+    "license": "CC-BY-SA 4.0",
+    "updated_at": "2026-07-06"
+  },
+  "items": [
+    {
+      "id": "real_sc_00001",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The new policy is ___ to be more beneficial to small enterprises than to large corporations.",
+        "options": [
+          "supposed",
+          "bound",
+          "liable",
+          "apt"
+        ],
+        "answer_index": 0,
+        "explanation": "be supposed to = 应该，被认为。"
+      }
+    },
+    {
+      "id": "real_sc_00002",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The proposal was rejected on the ___ that it lacked sufficient evidence.",
+        "options": [
+          "grounds",
+          "basis",
+          "foundation",
+          "reason"
+        ],
+        "answer_index": 0,
+        "explanation": "on the grounds that = 以...为由，固定搭配。"
+      }
+    },
+    {
+      "id": "real_sc_00003",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "grammar"
+      ],
+      "payload": {
+        "question": "Not only ___ the report, but he also presented it to the board.",
+        "options": [
+          "he wrote",
+          "did he write",
+          "he had written",
+          "had he written"
+        ],
+        "answer_index": 1,
+        "explanation": "Not only 置于句首，部分倒装，用 did he write。"
+      }
+    },
+    {
+      "id": "real_sc_00004",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "grammar"
+      ],
+      "payload": {
+        "question": "___ for your timely warning, we would have walked into a trap.",
+        "options": [
+          "Were it not",
+          "Had it not been",
+          "If it is not",
+          "If it was not"
+        ],
+        "answer_index": 1,
+        "explanation": "对过去虚拟，省略 if 后倒装：Had it not been for..."
+      }
+    },
+    {
+      "id": "real_sc_00005",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The results of the experiment were ___ unexpected, considering the initial hypothesis.",
+        "options": [
+          "anything but",
+          "nothing but",
+          "all but",
+          "everything but"
+        ],
+        "answer_index": 0,
+        "explanation": "anything but = 绝非，一点也不。"
+      }
+    },
+    {
+      "id": "real_wc_00006",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "word": "ignore",
+        "phonetic": "/ig'nɒ:/",
+        "definitions": [
+          "t. 不理睬, 忽视, 驳回, 忽略\\n[计] 忽略"
+        ],
+        "options": [
+          "t. 再磨光, 刷新",
+          "a. 空前的\\n[经] 空前的, 无前例的",
+          "t. 不理睬, 忽视, 驳回, 忽略\\n[计] 忽略",
+          "倾向, 趋向, 倾斜度, 点头\\n[化] 倾角"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_wc_00007",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "word": "dissertation",
+        "phonetic": "/.disә'teiʃәn/",
+        "definitions": [
+          "论文"
+        ],
+        "options": [
+          "a. 慈悲的, 可怜的, 令人同情的, 可鄙的",
+          "论文",
+          "爱国者, 爱国主义者",
+          "a. 语调强的, 着重的, 强调了的"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_wc_00008",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "word": "atrophy",
+        "phonetic": "/'ætrәfi/",
+        "definitions": [
+          "萎缩, 萎缩症\\n[医] 萎缩"
+        ],
+        "options": [
+          "萎缩, 萎缩症\\n[医] 萎缩",
+          "慢, 缓慢, 迟延",
+          "a. 有拱顶的, 圆顶的, 拱形的",
+          "a. 能得到的"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_wc_00009",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "word": "induce",
+        "phonetic": "/in'dju:s/",
+        "definitions": [
+          "t. 引诱, 招致, 归纳出, 感应\\n[医] 诱导, 感应"
+        ],
+        "options": [
+          "t. 引诱, 招致, 归纳出, 感应\\n[医] 诱导, 感应",
+          "氦\\n[化] 氦",
+          "大牧场\\nv. 经营牧场",
+          "t. 放松, 松开, 解除\\nvi. 变松, 松弛"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_wc_00010",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "word": "notate",
+        "phonetic": "/'nәuteit/",
+        "definitions": [
+          "t.以符号表示,把.....写成记号(或标志)"
+        ],
+        "options": [
+          "t.以符号表示,把.....写成记号(或标志)",
+          "a. 易错的, 可能犯错的",
+          "邻接, 毗邻",
+          "结合体, 结合, 联合\\n[经] 联合, 联盟"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_dc_00011",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "经济学\\n[经] 经济学",
+        "phonetic_hint": "/.i:kә'nɒmiks/",
+        "options": [
+          "resonance",
+          "designing",
+          "comity",
+          "economics"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_dc_00012",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "t. 使浸水, 使陷入, 淹没\\nvi. 潜入水中",
+        "phonetic_hint": "/sәb'mә:dʒ/",
+        "options": [
+          "methane",
+          "seismic",
+          "submerge",
+          "incongruous"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_dc_00013",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "领土, 主权, 统治\\n[法] 统治权, 主权, 统治",
+        "phonetic_hint": "/dә'minjәn/",
+        "options": [
+          "hardware",
+          "gruff",
+          "dominion",
+          "erudite"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_sf_00014",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "cloze",
+        "cloze_blank_1"
+      ],
+      "payload": {
+        "sentence": "In recent years, online education has become increasingly ___. Many students prefer taking courses on the Internet ___ attending traditional classes. This trend has been ___ by advances in technology and the widespread use of smartphones. However, some educators argue that face-to-face interaction is ___ for effective learning. They believe that students who study online may miss out on valuable ___ experiences. Despite these concerns, the flexibility and convenience of online education continue to ___ millions of learners worldwide.",
+        "answer": "popular",
+        "options": [
+          "popular",
+          "boring",
+          "expensive",
+          "dangerous"
+        ],
+        "answer_index": 0,
+        "translation": "近年来，在线教育变得越来越受欢迎。许多学生更喜欢在网上上课而不是参加传统课堂。这一趋势被技术进步和智能手机的广泛使用所加速。然而，一些教育者认为面对面交流对有效学习至关重要。"
+      }
+    },
+    {
+      "id": "real_sf_00015",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "cloze",
+        "cloze_blank_2"
+      ],
+      "payload": {
+        "sentence": "In recent years, online education has become increasingly ___. Many students prefer taking courses on the Internet ___ attending traditional classes. This trend has been ___ by advances in technology and the widespread use of smartphones. However, some educators argue that face-to-face interaction is ___ for effective learning. They believe that students who study online may miss out on valuable ___ experiences. Despite these concerns, the flexibility and convenience of online education continue to ___ millions of learners worldwide.",
+        "answer": "instead of",
+        "options": [
+          "because of",
+          "instead of",
+          "in spite of",
+          "apart from"
+        ],
+        "answer_index": 1,
+        "translation": "近年来，在线教育变得越来越受欢迎。许多学生更喜欢在网上上课而不是参加传统课堂。这一趋势被技术进步和智能手机的广泛使用所加速。然而，一些教育者认为面对面交流对有效学习至关重要。"
+      }
+    },
+    {
+      "id": "real_sf_00016",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "cloze",
+        "cloze_blank_3"
+      ],
+      "payload": {
+        "sentence": "In recent years, online education has become increasingly ___. Many students prefer taking courses on the Internet ___ attending traditional classes. This trend has been ___ by advances in technology and the widespread use of smartphones. However, some educators argue that face-to-face interaction is ___ for effective learning. They believe that students who study online may miss out on valuable ___ experiences. Despite these concerns, the flexibility and convenience of online education continue to ___ millions of learners worldwide.",
+        "answer": "accelerated",
+        "options": [
+          "accelerated",
+          "stopped",
+          "ignored",
+          "delayed"
+        ],
+        "answer_index": 0,
+        "translation": "近年来，在线教育变得越来越受欢迎。许多学生更喜欢在网上上课而不是参加传统课堂。这一趋势被技术进步和智能手机的广泛使用所加速。然而，一些教育者认为面对面交流对有效学习至关重要。"
+      }
+    },
+    {
+      "id": "real_sf_00017",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "cloze",
+        "cloze_blank_4"
+      ],
+      "payload": {
+        "sentence": "In recent years, online education has become increasingly ___. Many students prefer taking courses on the Internet ___ attending traditional classes. This trend has been ___ by advances in technology and the widespread use of smartphones. However, some educators argue that face-to-face interaction is ___ for effective learning. They believe that students who study online may miss out on valuable ___ experiences. Despite these concerns, the flexibility and convenience of online education continue to ___ millions of learners worldwide.",
+        "answer": "essential",
+        "options": [
+          "unnecessary",
+          "optional",
+          "essential",
+          "impossible"
+        ],
+        "answer_index": 2,
+        "translation": "近年来，在线教育变得越来越受欢迎。许多学生更喜欢在网上上课而不是参加传统课堂。这一趋势被技术进步和智能手机的广泛使用所加速。然而，一些教育者认为面对面交流对有效学习至关重要。"
+      }
+    },
+    {
+      "id": "real_sf_00018",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "cloze",
+        "cloze_blank_5"
+      ],
+      "payload": {
+        "sentence": "In recent years, online education has become increasingly ___. Many students prefer taking courses on the Internet ___ attending traditional classes. This trend has been ___ by advances in technology and the widespread use of smartphones. However, some educators argue that face-to-face interaction is ___ for effective learning. They believe that students who study online may miss out on valuable ___ experiences. Despite these concerns, the flexibility and convenience of online education continue to ___ millions of learners worldwide.",
+        "answer": "attract",
+        "options": [
+          "repel",
+          "attract",
+          "discourage",
+          "prevent"
+        ],
+        "answer_index": 1,
+        "translation": "近年来，在线教育变得越来越受欢迎。许多学生更喜欢在网上上课而不是参加传统课堂。这一趋势被技术进步和智能手机的广泛使用所加速。然而，一些教育者认为面对面交流对有效学习至关重要。"
+      }
+    },
+    {
+      "id": "real_sc_00019",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Urban farming has emerged as a creative solution to food security challenges in many cities around the world. By utilizing rooftops, balconies, and vacant lots, urban residents are growing their own fresh produce. This movement not only provides access to nutritious food but also promotes community engagement and environmental sustainability. In cities like Singapore and Detroit, urban farms have become important sources of local food supply. Proponents argue that urban farming could play a crucial role in creating more resilient and self-sufficient cities.\n\nWhat is urban farming according to the passage?",
+        "options": [
+          "Farming in rural areas",
+          "Growing food in cities",
+          "Importing food from farms",
+          "Selling farm equipment"
+        ],
+        "answer_index": 1,
+        "explanation": "文中描述在城市中利用屋顶、阳台等种植食物。"
+      }
+    },
+    {
+      "id": "real_sc_00020",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Urban farming has emerged as a creative solution to food security challenges in many cities around the world. By utilizing rooftops, balconies, and vacant lots, urban residents are growing their own fresh produce. This movement not only provides access to nutritious food but also promotes community engagement and environmental sustainability. In cities like Singapore and Detroit, urban farms have become important sources of local food supply. Proponents argue that urban farming could play a crucial role in creating more resilient and self-sufficient cities.\n\nWhere do urban residents grow their produce?",
+        "options": [
+          "Only in backyards",
+          "On rooftops, balconies, and vacant lots",
+          "In commercial greenhouses",
+          "On traditional farms"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 utilizing rooftops, balconies, and vacant lots。"
+      }
+    },
+    {
+      "id": "real_sc_00021",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Urban farming has emerged as a creative solution to food security challenges in many cities around the world. By utilizing rooftops, balconies, and vacant lots, urban residents are growing their own fresh produce. This movement not only provides access to nutritious food but also promotes community engagement and environmental sustainability. In cities like Singapore and Detroit, urban farms have become important sources of local food supply. Proponents argue that urban farming could play a crucial role in creating more resilient and self-sufficient cities.\n\nWhich cities are mentioned as examples of urban farming?",
+        "options": [
+          "New York and London",
+          "Singapore and Detroit",
+          "Tokyo and Paris",
+          "Beijing and Sydney"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 Singapore and Detroit。"
+      }
+    },
+    {
+      "id": "real_sc_00022",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Urban farming has emerged as a creative solution to food security challenges in many cities around the world. By utilizing rooftops, balconies, and vacant lots, urban residents are growing their own fresh produce. This movement not only provides access to nutritious food but also promotes community engagement and environmental sustainability. In cities like Singapore and Detroit, urban farms have become important sources of local food supply. Proponents argue that urban farming could play a crucial role in creating more resilient and self-sufficient cities.\n\nWhat benefit of urban farming is NOT mentioned in the passage?",
+        "options": [
+          "Access to nutritious food",
+          "Community engagement",
+          "Environmental sustainability",
+          "Economic profit"
+        ],
+        "answer_index": 3,
+        "explanation": "文中未提及经济利润 (Economic profit)。"
+      }
+    },
+    {
+      "id": "real_sc_00023",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The research findings are consistent with ___ earlier studies demonstrated.",
+        "options": [
+          "that",
+          "which",
+          "what",
+          "those"
+        ],
+        "answer_index": 2,
+        "explanation": "what 引导介词宾语从句，在从句中作 demonstrated 的宾语。"
+      }
+    },
+    {
+      "id": "real_sc_00024",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "grammar"
+      ],
+      "payload": {
+        "question": "By the time the rescue team arrived, the stranded hikers ___ for three days.",
+        "options": [
+          "starved",
+          "had been starving",
+          "have starved",
+          "were starving"
+        ],
+        "answer_index": 1,
+        "explanation": "by the time + 过去时，主句用过去完成时 had been starving。"
+      }
+    },
+    {
+      "id": "real_sc_00025",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The results of the experiment were ___ unexpected, considering the initial hypothesis.",
+        "options": [
+          "anything but",
+          "nothing but",
+          "all but",
+          "everything but"
+        ],
+        "answer_index": 0,
+        "explanation": "anything but = 绝非，一点也不。"
+      }
+    },
+    {
+      "id": "real_sc_00026",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The company is contemplating ___ a new branch in Southeast Asia.",
+        "options": [
+          "to open",
+          "opening",
+          "to have opened",
+          "being opened"
+        ],
+        "answer_index": 1,
+        "explanation": "contemplate 后接动名词 opening。"
+      }
+    },
+    {
+      "id": "real_sc_00027",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "grammar"
+      ],
+      "payload": {
+        "question": "Not only ___ the report, but he also presented it to the board.",
+        "options": [
+          "he wrote",
+          "did he write",
+          "he had written",
+          "had he written"
+        ],
+        "answer_index": 1,
+        "explanation": "Not only 置于句首，部分倒装，用 did he write。"
+      }
+    },
+    {
+      "id": "real_wc_00028",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "word": "portrait",
+        "phonetic": "/'pɒ:treit/",
+        "definitions": [
+          "肖像, 人像, 半身像, 描写, 竖排格式\\n[计] 纵向"
+        ],
+        "options": [
+          "连接, 附属物, 连接物, 爱慕\\n[计] 附加, 附件",
+          "海湾, 深渊, 漩涡, 隔阂\\nvt. 吞没",
+          "肖像, 人像, 半身像, 描写, 竖排格式\\n[计] 纵向",
+          "尘埃, 微粒"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_wc_00029",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "word": "parasite",
+        "phonetic": "/'pærәsait/",
+        "definitions": [
+          "寄生生物, 寄生虫, 食客\\n[医] 寄生物; 寄生胎"
+        ],
+        "options": [
+          "学问, 学术成就, 奖学金",
+          "t. 通电, 镀锌, 使...感到震惊",
+          "寄生生物, 寄生虫, 食客\\n[医] 寄生物; 寄生胎",
+          "深渊, 深邃, 地狱"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_wc_00030",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "word": "furnace",
+        "phonetic": "/'fә:nis/",
+        "definitions": [
+          "火炉, 熔炉, 考验\\nvt. 在炉中烧"
+        ],
+        "options": [
+          "感觉, 轰动\\n[医] 感觉",
+          "赃物, 洗劫, 抢夺\\nv. 洗劫, 抢夺",
+          "火炉, 熔炉, 考验\\nvt. 在炉中烧",
+          "钾\\n[化] 钾K"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_wc_00031",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "word": "exclusive",
+        "phonetic": "/ik'sklu:siv/",
+        "definitions": [
+          "a. 排外的, 独占的, 唯一的\\n[计] 独占的"
+        ],
+        "options": [
+          "一各印花大手帕",
+          "a. 排外的, 独占的, 唯一的\\n[计] 独占的",
+          "暗杀者, 刺客\\n[法] 暗杀者, 行刺者",
+          "泥土, 肉体, 黏土\\n[化] 粘土"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_wc_00032",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "word": "amicable",
+        "phonetic": "/'æmikәbl/",
+        "definitions": [
+          "a. 友善的, 友好的\\n[法] 友好的, 和睦的, 温和的"
+        ],
+        "options": [
+          "援救, 解救, 营救\\nvt. 援救, 救出, 营救",
+          "烧焦, 烤焦",
+          "光谱, 范围, 系列\\n[化] 光谱",
+          "a. 友善的, 友好的\\n[法] 友好的, 和睦的, 温和的"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_dc_00033",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "a. 活生生的, 能活动的, 活泼的, 欢快的",
+        "phonetic_hint": "/'ænimeitid/",
+        "options": [
+          "animated",
+          "confining",
+          "emulate",
+          "meaningful"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_dc_00034",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "约会, 委任的职位, 委派\\n[经] 任命, 派, 指定",
+        "phonetic_hint": "/ә'pɒintmәnt/",
+        "options": [
+          "luxury",
+          "spouse",
+          "appointment",
+          "deputy"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_dc_00035",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "焊接剂, 接合物\\nv. 施以焊接, 焊合, 联结",
+        "phonetic_hint": "/'sɒldә/",
+        "options": [
+          "eruption",
+          "extricate",
+          "comparatively",
+          "solder"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_sf_00036",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "cloze",
+        "cloze_blank_1"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "transforming",
+        "options": [
+          "destroying",
+          "transforming",
+          "ignoring",
+          "delaying"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sf_00037",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "cloze",
+        "cloze_blank_2"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "commonplace",
+        "options": [
+          "rare",
+          "commonplace",
+          "impossible",
+          "expensive"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sf_00038",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "cloze",
+        "cloze_blank_3"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "replace",
+        "options": [
+          "create",
+          "replace",
+          "improve",
+          "protect"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sf_00039",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "cloze",
+        "cloze_blank_4"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "opportunities",
+        "options": [
+          "problems",
+          "opportunities",
+          "threats",
+          "obstacles"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sf_00040",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "cloze",
+        "cloze_blank_5"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "embrace",
+        "options": [
+          "reject",
+          "embrace",
+          "ignore",
+          "fear"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sc_00041",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Urban farming has emerged as a creative solution to food security challenges in many cities around the world. By utilizing rooftops, balconies, and vacant lots, urban residents are growing their own fresh produce. This movement not only provides access to nutritious food but also promotes community engagement and environmental sustainability. In cities like Singapore and Detroit, urban farms have become important sources of local food supply. Proponents argue that urban farming could play a crucial role in creating more resilient and self-sufficient cities.\n\nWhat is urban farming according to the passage?",
+        "options": [
+          "Farming in rural areas",
+          "Growing food in cities",
+          "Importing food from farms",
+          "Selling farm equipment"
+        ],
+        "answer_index": 1,
+        "explanation": "文中描述在城市中利用屋顶、阳台等种植食物。"
+      }
+    },
+    {
+      "id": "real_sc_00042",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Urban farming has emerged as a creative solution to food security challenges in many cities around the world. By utilizing rooftops, balconies, and vacant lots, urban residents are growing their own fresh produce. This movement not only provides access to nutritious food but also promotes community engagement and environmental sustainability. In cities like Singapore and Detroit, urban farms have become important sources of local food supply. Proponents argue that urban farming could play a crucial role in creating more resilient and self-sufficient cities.\n\nWhere do urban residents grow their produce?",
+        "options": [
+          "Only in backyards",
+          "On rooftops, balconies, and vacant lots",
+          "In commercial greenhouses",
+          "On traditional farms"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 utilizing rooftops, balconies, and vacant lots。"
+      }
+    },
+    {
+      "id": "real_sc_00043",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Urban farming has emerged as a creative solution to food security challenges in many cities around the world. By utilizing rooftops, balconies, and vacant lots, urban residents are growing their own fresh produce. This movement not only provides access to nutritious food but also promotes community engagement and environmental sustainability. In cities like Singapore and Detroit, urban farms have become important sources of local food supply. Proponents argue that urban farming could play a crucial role in creating more resilient and self-sufficient cities.\n\nWhich cities are mentioned as examples of urban farming?",
+        "options": [
+          "New York and London",
+          "Singapore and Detroit",
+          "Tokyo and Paris",
+          "Beijing and Sydney"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 Singapore and Detroit。"
+      }
+    },
+    {
+      "id": "real_sc_00044",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Urban farming has emerged as a creative solution to food security challenges in many cities around the world. By utilizing rooftops, balconies, and vacant lots, urban residents are growing their own fresh produce. This movement not only provides access to nutritious food but also promotes community engagement and environmental sustainability. In cities like Singapore and Detroit, urban farms have become important sources of local food supply. Proponents argue that urban farming could play a crucial role in creating more resilient and self-sufficient cities.\n\nWhat benefit of urban farming is NOT mentioned in the passage?",
+        "options": [
+          "Access to nutritious food",
+          "Community engagement",
+          "Environmental sustainability",
+          "Economic profit"
+        ],
+        "answer_index": 3,
+        "explanation": "文中未提及经济利润 (Economic profit)。"
+      }
+    },
+    {
+      "id": "real_sc_00045",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The research findings are consistent with ___ earlier studies demonstrated.",
+        "options": [
+          "that",
+          "which",
+          "what",
+          "those"
+        ],
+        "answer_index": 2,
+        "explanation": "what 引导介词宾语从句，在从句中作 demonstrated 的宾语。"
+      }
+    },
+    {
+      "id": "real_sc_00046",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "grammar"
+      ],
+      "payload": {
+        "question": "Not only ___ the report, but he also presented it to the board.",
+        "options": [
+          "he wrote",
+          "did he write",
+          "he had written",
+          "had he written"
+        ],
+        "answer_index": 1,
+        "explanation": "Not only 置于句首，部分倒装，用 did he write。"
+      }
+    },
+    {
+      "id": "real_sc_00047",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "grammar"
+      ],
+      "payload": {
+        "question": "Rarely ___ such a comprehensive analysis of the economic situation.",
+        "options": [
+          "we have seen",
+          "have we seen",
+          "we saw",
+          "did we see"
+        ],
+        "answer_index": 1,
+        "explanation": "Rarely 置于句首，部分倒装，且强调到现在为止，用现在完成时。"
+      }
+    },
+    {
+      "id": "real_sc_00048",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The committee members were divided on ___ to implement the new regulation immediately.",
+        "options": [
+          "whether",
+          "if",
+          "that",
+          "what"
+        ],
+        "answer_index": 0,
+        "explanation": "whether... or not 可引导不定式，if 不可以。"
+      }
+    },
+    {
+      "id": "real_sc_00049",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "grammar"
+      ],
+      "payload": {
+        "question": "___ the complexity of the issue, the committee decided to postpone the final decision.",
+        "options": [
+          "Given",
+          "Giving",
+          "To give",
+          "Having given"
+        ],
+        "answer_index": 0,
+        "explanation": "Given = 考虑到，作介词用。"
+      }
+    },
+    {
+      "id": "real_wc_00050",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "word": "outlying",
+        "phonetic": "/'aut.laiiŋ/",
+        "definitions": [
+          "a. 在外的, 边远的, 偏僻的, 题外的"
+        ],
+        "options": [
+          "尘埃, 微粒",
+          "t. 继承, 遗传\\nvi. 接受遗产",
+          "a. 在外的, 边远的, 偏僻的, 题外的",
+          "违反, 违背, 妨碍\\n[法] 违犯, 违背, 违反"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_wc_00051",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "word": "horror",
+        "phonetic": "/'hɒrә/",
+        "definitions": [
+          "惊骇, 恐怖, 惨状\\n[医] 恐怖, 恐惧"
+        ],
+        "options": [
+          "氏族, 宗族, 集团\\n[医] 支",
+          "惊骇, 恐怖, 惨状\\n[医] 恐怖, 恐惧",
+          "夹钳\\nvt. 夹紧, 强加",
+          "论题, 论文"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_wc_00052",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "word": "mimicry",
+        "phonetic": "/'mimikri/",
+        "definitions": [
+          "模仿\\n[医] 拟态(生物), 模仿, 模拟"
+        ],
+        "options": [
+          "i. 变纯净\\nvt. 使纯净, 净化, 提纯, 精炼",
+          "模仿\\n[医] 拟态(生物), 模仿, 模拟",
+          "t. 不理睬, 忽视, 驳回, 忽略\\n[计] 忽略",
+          "仇敌, 反对者, 敌人, 对手"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_wc_00053",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "word": "bliss",
+        "phonetic": "/blis/",
+        "definitions": [
+          "福佑, 天赐的福\\n[计] 实现系统软件的基本语言"
+        ],
+        "options": [
+          "建筑师, 设计者, 缔造者",
+          "城堡",
+          "长命, 长寿, 寿命\\n[医] 长寿",
+          "福佑, 天赐的福\\n[计] 实现系统软件的基本语言"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_wc_00054",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "word": "specimen",
+        "phonetic": "/'spesimәn/",
+        "definitions": [
+          "样品, 标本, 试料\\n[化] 试样"
+        ],
+        "options": [
+          "震压造型",
+          "样品, 标本, 试料\\n[化] 试样",
+          "a. 严肃的, 郑重的, 庄严的",
+          "牛, 公牛"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_dc_00055",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "百万富翁, 大富豪\\n[经] 大资本家, 巨富, 百万富翁",
+        "phonetic_hint": "/.miljә'nєә/",
+        "options": [
+          "intervention",
+          "millionaire",
+          "prescribe",
+          "uncanny"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_dc_00056",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "利益, 方面",
+        "phonetic_hint": "/bi'hɑ:f/",
+        "options": [
+          "infect",
+          "injure",
+          "comparatively",
+          "behalf"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_dc_00057",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "先锋派",
+        "phonetic_hint": "/.ævɔŋ'ɡɑ:d/",
+        "options": [
+          "avant-garde",
+          "barely",
+          "impressive",
+          "comprehensible"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_sf_00058",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "cloze",
+        "cloze_blank_1"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "essential",
+        "options": [
+          "trivial",
+          "essential",
+          "optional",
+          "irrelevant"
+        ],
+        "answer_index": 1,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sf_00059",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "cloze",
+        "cloze_blank_2"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "listening",
+        "options": [
+          "speaking",
+          "listening",
+          "arguing",
+          "ignoring"
+        ],
+        "answer_index": 1,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sf_00060",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "cloze",
+        "cloze_blank_3"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "misunderstanding",
+        "options": [
+          "agreement",
+          "cooperation",
+          "misunderstanding",
+          "harmony"
+        ],
+        "answer_index": 2,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sf_00061",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "cloze",
+        "cloze_blank_4"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "better",
+        "options": [
+          "worse",
+          "better",
+          "less",
+          "rarely"
+        ],
+        "answer_index": 1,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sf_00062",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "cloze",
+        "cloze_blank_5"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "connections",
+        "options": [
+          "barriers",
+          "connections",
+          "conflicts",
+          "distances"
+        ],
+        "answer_index": 1,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sc_00063",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "The concept of lifelong learning has gained significant traction in recent years. With rapid technological advancements rendering certain skills obsolete, professionals are increasingly returning to education to stay competitive. Online platforms have made this easier than ever, offering courses from top universities at little or no cost. Experts emphasize that the ability to learn continuously is now as important as formal qualifications. In fact, some employers now value demonstrable skills and adaptability over traditional degrees.\n\nWhy has lifelong learning become more important?",
+        "options": [
+          "Technology makes certain skills obsolete",
+          "Universities are closing",
+          "Degrees are no longer recognized",
+          "Jobs are disappearing entirely"
+        ],
+        "answer_index": 0,
+        "explanation": "文中提到 rapid technological advancements rendering certain skills obsolete。"
+      }
+    },
+    {
+      "id": "real_sc_00064",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "The concept of lifelong learning has gained significant traction in recent years. With rapid technological advancements rendering certain skills obsolete, professionals are increasingly returning to education to stay competitive. Online platforms have made this easier than ever, offering courses from top universities at little or no cost. Experts emphasize that the ability to learn continuously is now as important as formal qualifications. In fact, some employers now value demonstrable skills and adaptability over traditional degrees.\n\nWhat has made lifelong learning easier?",
+        "options": [
+          "Government subsidies",
+          "Online platforms",
+          "Free textbooks",
+          "Employer mandates"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 Online platforms。"
+      }
+    },
+    {
+      "id": "real_sc_00065",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "The concept of lifelong learning has gained significant traction in recent years. With rapid technological advancements rendering certain skills obsolete, professionals are increasingly returning to education to stay competitive. Online platforms have made this easier than ever, offering courses from top universities at little or no cost. Experts emphasize that the ability to learn continuously is now as important as formal qualifications. In fact, some employers now value demonstrable skills and adaptability over traditional degrees.\n\nWhat do some employers now value over traditional degrees?",
+        "options": [
+          "Age and experience",
+          "Demonstrable skills and adaptability",
+          "Geographic location",
+          "Previous salary"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 value demonstrable skills and adaptability over traditional degrees。"
+      }
+    },
+    {
+      "id": "real_sc_00066",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "The concept of lifelong learning has gained significant traction in recent years. With rapid technological advancements rendering certain skills obsolete, professionals are increasingly returning to education to stay competitive. Online platforms have made this easier than ever, offering courses from top universities at little or no cost. Experts emphasize that the ability to learn continuously is now as important as formal qualifications. In fact, some employers now value demonstrable skills and adaptability over traditional degrees.\n\nAccording to the passage, what is now as important as formal qualifications?",
+        "options": [
+          "Work experience",
+          "The ability to learn continuously",
+          "Personal connections",
+          "Physical fitness"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 the ability to learn continuously is now as important。"
+      }
+    },
+    {
+      "id": "real_sc_00067",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The proposal was rejected on the ___ that it lacked sufficient evidence.",
+        "options": [
+          "grounds",
+          "basis",
+          "foundation",
+          "reason"
+        ],
+        "answer_index": 0,
+        "explanation": "on the grounds that = 以...为由，固定搭配。"
+      }
+    },
+    {
+      "id": "real_sc_00068",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The suspect denied ___ near the scene of the crime at the time of the attack.",
+        "options": [
+          "to be",
+          "having been",
+          "to have been",
+          "being"
+        ],
+        "answer_index": 1,
+        "explanation": "deny 后接动名词完成式 having been，强调过去曾在现场。"
+      }
+    },
+    {
+      "id": "real_sc_00069",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The professor emphasized that ___ the theory was sound, its practical application remained limited.",
+        "options": [
+          "while",
+          "since",
+          "as",
+          "because"
+        ],
+        "answer_index": 0,
+        "explanation": "while = 虽然/尽管，引导让步状语从句。"
+      }
+    },
+    {
+      "id": "real_sc_00070",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The committee members were divided on ___ to implement the new regulation immediately.",
+        "options": [
+          "whether",
+          "if",
+          "that",
+          "what"
+        ],
+        "answer_index": 0,
+        "explanation": "whether... or not 可引导不定式，if 不可以。"
+      }
+    },
+    {
+      "id": "real_sc_00071",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "grammar"
+      ],
+      "payload": {
+        "question": "There is no doubt ___ the new technology will revolutionize the industry.",
+        "options": [
+          "whether",
+          "that",
+          "what",
+          "which"
+        ],
+        "answer_index": 1,
+        "explanation": "There is no doubt that... 为固定句型。"
+      }
+    },
+    {
+      "id": "real_wc_00072",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "word": "succinct",
+        "phonetic": "/sәk'siŋkt/",
+        "definitions": [
+          "a. 简洁的, 紧缩的"
+        ],
+        "options": [
+          "a. 简洁的, 紧缩的",
+          "t. 使饱足, 使厌腻, 充分满足\\na. 饱足的, 厌腻的",
+          "富丽堂皇, 华丽, 宏大",
+          "a. 绝无错误的, 绝对可靠的\\nn. 一贯正确的人"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_wc_00073",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "word": "unravel",
+        "phonetic": "/.ʌn'rævl/",
+        "definitions": [
+          "t. 阐明, 解决, 解开\\nvi. 散开"
+        ],
+        "options": [
+          "派遣\\nn. 派遣",
+          "t. 阐明, 解决, 解开\\nvi. 散开",
+          "a. 被抛弃的, 无约束的, 恣意放荡的",
+          "污染, 玷污\\n[化] 污染"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_wc_00074",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "word": "shocking",
+        "phonetic": "/'ʃɒkiŋ/",
+        "definitions": [
+          "a. 令人震惊的, 极坏的, 不正当的"
+        ],
+        "options": [
+          "故意地, 有意地",
+          "a. 令人震惊的, 极坏的, 不正当的",
+          "胀大, 夸张, 通货膨胀\\n[化] 充气吹胀; 膨胀",
+          "大街, 途径, 林荫路"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_wc_00075",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "word": "sociable",
+        "phonetic": "/'sәuʃәbl/",
+        "definitions": [
+          "a. 好交际的, 社交的, 过社会生活的\\nn. 联谊会"
+        ],
+        "options": [
+          "a. 好交际的, 社交的, 过社会生活的\\nn. 联谊会",
+          "兴高采烈, 着迷, 欢天喜地, 狂喜\\nvt. 使狂喜",
+          "嫁接, 贪污\\nv. 嫁接, 移植, 贪污",
+          "i. 减少, 缩小, 衰落\\nvt. 使缩小"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_wc_00076",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "word": "contradictory",
+        "phonetic": "/.kɒntrә'diktәri/",
+        "definitions": [
+          "a. 反驳的, 反对的, 抗辩的\\nn. 矛盾因素, 对立物"
+        ],
+        "options": [
+          "t. 阐明, 说明",
+          "奖金, 红利\\n[经] 奖金, 红利, 额外补贴",
+          "a. 反驳的, 反对的, 抗辩的\\nn. 矛盾因素, 对立物",
+          "大量地, 丰富地"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_dc_00077",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "流通, 循环, 发行量\\n[化] 环流",
+        "phonetic_hint": "/.sә:kju'leiʃәn/",
+        "options": [
+          "harmonica",
+          "posterity",
+          "shipload",
+          "circulation"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_dc_00078",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "火柴",
+        "phonetic_hint": "/'mætʃstik/",
+        "options": [
+          "charter",
+          "molecule",
+          "dominate",
+          "matchstick"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_dc_00079",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "圆周, 周缘, 胸围\\n[医] 周缘, 环状面",
+        "phonetic_hint": "/sә'kʌmfәrәns/",
+        "options": [
+          "faithful",
+          "circumference",
+          "jogging",
+          "replica"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_sf_00080",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "cloze",
+        "cloze_blank_1"
+      ],
+      "payload": {
+        "sentence": "Climate change is one of the most ___ challenges facing humanity today. The Earth's average temperature has been ___ steadily over the past century, largely due to human activities. Scientists warn that if we do not take ___ action, the consequences could be ___. Rising sea levels, extreme weather events, and loss of biodiversity are just a few of the ___ we face. It is crucial that governments and individuals work together to reduce carbon emissions.",
+        "answer": "pressing",
+        "options": [
+          "pressing",
+          "minor",
+          "imaginary",
+          "temporary"
+        ],
+        "answer_index": 0,
+        "translation": "气候变化是人类今天面临的最紧迫的挑战之一。过去一个世纪，地球平均温度持续上升，主要由人类活动导致。科学家警告如果不立即采取行动，后果可能是毁灭性的。"
+      }
+    },
+    {
+      "id": "real_sf_00081",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "cloze",
+        "cloze_blank_2"
+      ],
+      "payload": {
+        "sentence": "Climate change is one of the most ___ challenges facing humanity today. The Earth's average temperature has been ___ steadily over the past century, largely due to human activities. Scientists warn that if we do not take ___ action, the consequences could be ___. Rising sea levels, extreme weather events, and loss of biodiversity are just a few of the ___ we face. It is crucial that governments and individuals work together to reduce carbon emissions.",
+        "answer": "rising",
+        "options": [
+          "falling",
+          "rising",
+          "stable",
+          "dropping"
+        ],
+        "answer_index": 1,
+        "translation": "气候变化是人类今天面临的最紧迫的挑战之一。过去一个世纪，地球平均温度持续上升，主要由人类活动导致。科学家警告如果不立即采取行动，后果可能是毁灭性的。"
+      }
+    },
+    {
+      "id": "real_sf_00082",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "cloze",
+        "cloze_blank_3"
+      ],
+      "payload": {
+        "sentence": "Climate change is one of the most ___ challenges facing humanity today. The Earth's average temperature has been ___ steadily over the past century, largely due to human activities. Scientists warn that if we do not take ___ action, the consequences could be ___. Rising sea levels, extreme weather events, and loss of biodiversity are just a few of the ___ we face. It is crucial that governments and individuals work together to reduce carbon emissions.",
+        "answer": "immediate",
+        "options": [
+          "delayed",
+          "immediate",
+          "unnecessary",
+          "cautious"
+        ],
+        "answer_index": 1,
+        "translation": "气候变化是人类今天面临的最紧迫的挑战之一。过去一个世纪，地球平均温度持续上升，主要由人类活动导致。科学家警告如果不立即采取行动，后果可能是毁灭性的。"
+      }
+    },
+    {
+      "id": "real_sf_00083",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "cloze",
+        "cloze_blank_4"
+      ],
+      "payload": {
+        "sentence": "Climate change is one of the most ___ challenges facing humanity today. The Earth's average temperature has been ___ steadily over the past century, largely due to human activities. Scientists warn that if we do not take ___ action, the consequences could be ___. Rising sea levels, extreme weather events, and loss of biodiversity are just a few of the ___ we face. It is crucial that governments and individuals work together to reduce carbon emissions.",
+        "answer": "devastating",
+        "options": [
+          "beneficial",
+          "minimal",
+          "devastating",
+          "reversible"
+        ],
+        "answer_index": 2,
+        "translation": "气候变化是人类今天面临的最紧迫的挑战之一。过去一个世纪，地球平均温度持续上升，主要由人类活动导致。科学家警告如果不立即采取行动，后果可能是毁灭性的。"
+      }
+    },
+    {
+      "id": "real_sf_00084",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "cloze",
+        "cloze_blank_5"
+      ],
+      "payload": {
+        "sentence": "Climate change is one of the most ___ challenges facing humanity today. The Earth's average temperature has been ___ steadily over the past century, largely due to human activities. Scientists warn that if we do not take ___ action, the consequences could be ___. Rising sea levels, extreme weather events, and loss of biodiversity are just a few of the ___ we face. It is crucial that governments and individuals work together to reduce carbon emissions.",
+        "answer": "threats",
+        "options": [
+          "opportunities",
+          "threats",
+          "benefits",
+          "solutions"
+        ],
+        "answer_index": 1,
+        "translation": "气候变化是人类今天面临的最紧迫的挑战之一。过去一个世纪，地球平均温度持续上升，主要由人类活动导致。科学家警告如果不立即采取行动，后果可能是毁灭性的。"
+      }
+    },
+    {
+      "id": "real_sc_00085",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Mental health awareness has grown significantly in recent years, with more people openly discussing issues that were once considered taboo. Workplace stress, anxiety, and depression affect millions of individuals worldwide. In response, many companies have implemented employee wellness programs that include counseling services, meditation sessions, and flexible work arrangements. Mental health professionals emphasize that seeking help is a sign of strength, not weakness. They also stress the importance of maintaining a healthy work-life balance, getting adequate sleep, and engaging in regular physical activity as preventive measures.\n\nHow has mental health awareness changed in recent years?",
+        "options": [
+          "It has decreased",
+          "It has grown significantly",
+          "It has remained the same",
+          "It has been ignored"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 has grown significantly。"
+      }
+    },
+    {
+      "id": "real_sc_00086",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Mental health awareness has grown significantly in recent years, with more people openly discussing issues that were once considered taboo. Workplace stress, anxiety, and depression affect millions of individuals worldwide. In response, many companies have implemented employee wellness programs that include counseling services, meditation sessions, and flexible work arrangements. Mental health professionals emphasize that seeking help is a sign of strength, not weakness. They also stress the importance of maintaining a healthy work-life balance, getting adequate sleep, and engaging in regular physical activity as preventive measures.\n\nWhat have companies implemented in response to mental health concerns?",
+        "options": [
+          "Mandatory overtime",
+          "Employee wellness programs",
+          "Stricter performance reviews",
+          "Reduced vacation time"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 employee wellness programs。"
+      }
+    },
+    {
+      "id": "real_sc_00087",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Mental health awareness has grown significantly in recent years, with more people openly discussing issues that were once considered taboo. Workplace stress, anxiety, and depression affect millions of individuals worldwide. In response, many companies have implemented employee wellness programs that include counseling services, meditation sessions, and flexible work arrangements. Mental health professionals emphasize that seeking help is a sign of strength, not weakness. They also stress the importance of maintaining a healthy work-life balance, getting adequate sleep, and engaging in regular physical activity as preventive measures.\n\nWhat do mental health professionals say about seeking help?",
+        "options": [
+          "It is a sign of weakness",
+          "It should be avoided",
+          "It is a sign of strength",
+          "It is unnecessary"
+        ],
+        "answer_index": 2,
+        "explanation": "文中提到 seeking help is a sign of strength, not weakness。"
+      }
+    },
+    {
+      "id": "real_sc_00088",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Mental health awareness has grown significantly in recent years, with more people openly discussing issues that were once considered taboo. Workplace stress, anxiety, and depression affect millions of individuals worldwide. In response, many companies have implemented employee wellness programs that include counseling services, meditation sessions, and flexible work arrangements. Mental health professionals emphasize that seeking help is a sign of strength, not weakness. They also stress the importance of maintaining a healthy work-life balance, getting adequate sleep, and engaging in regular physical activity as preventive measures.\n\nWhich of the following is mentioned as a preventive measure?",
+        "options": [
+          "Taking medication",
+          "Regular physical activity",
+          "Avoiding social interaction",
+          "Working longer hours"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 regular physical activity as preventive measures。"
+      }
+    },
+    {
+      "id": "real_sc_00089",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The proposal was rejected on the ___ that it lacked sufficient evidence.",
+        "options": [
+          "grounds",
+          "basis",
+          "foundation",
+          "reason"
+        ],
+        "answer_index": 0,
+        "explanation": "on the grounds that = 以...为由，固定搭配。"
+      }
+    },
+    {
+      "id": "real_sc_00090",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The suspect denied ___ near the scene of the crime at the time of the attack.",
+        "options": [
+          "to be",
+          "having been",
+          "to have been",
+          "being"
+        ],
+        "answer_index": 1,
+        "explanation": "deny 后接动名词完成式 having been，强调过去曾在现场。"
+      }
+    },
+    {
+      "id": "real_sc_00091",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "grammar"
+      ],
+      "payload": {
+        "question": "___ had the lecture begun when the fire alarm went off.",
+        "options": [
+          "Scarcely",
+          "No sooner",
+          "Hardly",
+          "Barely"
+        ],
+        "answer_index": 0,
+        "explanation": "Scarcely... when... 为固定搭配。"
+      }
+    },
+    {
+      "id": "real_sc_00092",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The research findings are consistent with ___ earlier studies demonstrated.",
+        "options": [
+          "that",
+          "which",
+          "what",
+          "those"
+        ],
+        "answer_index": 2,
+        "explanation": "what 引导介词宾语从句，在从句中作 demonstrated 的宾语。"
+      }
+    },
+    {
+      "id": "real_sc_00093",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "grammar"
+      ],
+      "payload": {
+        "question": "There is no doubt ___ the new technology will revolutionize the industry.",
+        "options": [
+          "whether",
+          "that",
+          "what",
+          "which"
+        ],
+        "answer_index": 1,
+        "explanation": "There is no doubt that... 为固定句型。"
+      }
+    },
+    {
+      "id": "real_wc_00094",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "word": "imbibe",
+        "phonetic": "/im'baib/",
+        "definitions": [
+          "t. 饮, 吸取, 吸入\\nvi. 喝, 吸收水分"
+        ],
+        "options": [
+          "t. 饮, 吸取, 吸入\\nvi. 喝, 吸收水分",
+          "a. 巡回的\\nn. 巡回者",
+          "a. 可导致的",
+          "t. 提醒, 使想起"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_wc_00095",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "word": "assistant",
+        "phonetic": "/ә'sistәnt/",
+        "definitions": [
+          "助手, 助理, 助教\\na. 有帮助的, 辅助的, 助理的"
+        ],
+        "options": [
+          "助手, 助理, 助教\\na. 有帮助的, 辅助的, 助理的",
+          "庆祝, 祝贺, 举行",
+          "a. 可容忍的, 可以的",
+          "赞成, 批准\\n[化] 核准"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_wc_00096",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "word": "construction",
+        "phonetic": "/kәn'strʌkʃәn/",
+        "definitions": [
+          "建筑, 构造, 建筑物\\n[化] 施工"
+        ],
+        "options": [
+          "趋势, 倾向, 走向\\nvi. 倾向, 转向\\n[计] 趋势",
+          "捆, 束\\nvt. 包扎, 胡乱塞进\\nvi. 匆忙离开",
+          "建筑, 构造, 建筑物\\n[化] 施工",
+          "声望, 威望, 威信\\n[经] 商誉, 声誉"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_wc_00097",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "word": "trash",
+        "phonetic": "/træʃ/",
+        "definitions": [
+          "垃圾, 废物\\nvt. 丢弃"
+        ],
+        "options": [
+          "恐怖, 可怕的人\\n[医] 惊吓, 惊悸",
+          "学会, 学院, 协会\\nvt. 创立, 开始, 制定, 任命",
+          "雇主, 老板\\n[经] 雇主, 业主",
+          "垃圾, 废物\\nvt. 丢弃"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_wc_00098",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "word": "banker",
+        "phonetic": "/'bæŋkә/",
+        "definitions": [
+          "银行家, 庄家\\n[经] 银行业者, 银行家"
+        ],
+        "options": [
+          "离题, 扯到枝节上, 偏离",
+          "银行家, 庄家\\n[经] 银行业者, 银行家",
+          "a. 协调的, 一致的, 适意的, 趣味相同的",
+          "t. 独占, 垄断\\n[经] 垄断, 专营, 专利"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_dc_00099",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "t. 预见, 预知",
+        "phonetic_hint": "/fɒ:'si:/",
+        "options": [
+          "inclusive",
+          "transaction",
+          "harvest",
+          "foresee"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_dc_00100",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "猛烈, 暴力, 暴虐, 暴行\\n[法] 暴行, 暴力, 暴乱",
+        "phonetic_hint": "/'vaiәlәns/",
+        "options": [
+          "violence",
+          "perspiration",
+          "faction",
+          "instigate"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_dc_00101",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "庆祝, 祭祀, 节日\\nvt. 宴请, 招待",
+        "phonetic_hint": "/feit/",
+        "options": [
+          "participant",
+          "fete",
+          "spinning",
+          "epic"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_sf_00102",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "cloze",
+        "cloze_blank_1"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "essential",
+        "options": [
+          "trivial",
+          "essential",
+          "optional",
+          "irrelevant"
+        ],
+        "answer_index": 1,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sf_00103",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "cloze",
+        "cloze_blank_2"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "listening",
+        "options": [
+          "speaking",
+          "listening",
+          "arguing",
+          "ignoring"
+        ],
+        "answer_index": 1,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sf_00104",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "cloze",
+        "cloze_blank_3"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "misunderstanding",
+        "options": [
+          "agreement",
+          "cooperation",
+          "misunderstanding",
+          "harmony"
+        ],
+        "answer_index": 2,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sf_00105",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "cloze",
+        "cloze_blank_4"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "better",
+        "options": [
+          "worse",
+          "better",
+          "less",
+          "rarely"
+        ],
+        "answer_index": 1,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sf_00106",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "cloze",
+        "cloze_blank_5"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "connections",
+        "options": [
+          "barriers",
+          "connections",
+          "conflicts",
+          "distances"
+        ],
+        "answer_index": 1,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sc_00107",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "A recent survey conducted by a leading research institute found that remote work has become the preferred mode of employment for over 60% of professionals. The study, which surveyed 10,000 employees across various industries, revealed that flexibility and work-life balance were the primary reasons cited. However, the survey also highlighted challenges, including feelings of isolation and difficulty separating work from personal life. Companies are now exploring hybrid models that combine remote and in-office work to address these concerns.\n\nWhat percentage of professionals prefer remote work according to the survey?",
+        "options": [
+          "Over 50%",
+          "Over 60%",
+          "Over 70%",
+          "Over 80%"
+        ],
+        "answer_index": 1,
+        "explanation": "文中明确提到 over 60%。"
+      }
+    },
+    {
+      "id": "real_sc_00108",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "A recent survey conducted by a leading research institute found that remote work has become the preferred mode of employment for over 60% of professionals. The study, which surveyed 10,000 employees across various industries, revealed that flexibility and work-life balance were the primary reasons cited. However, the survey also highlighted challenges, including feelings of isolation and difficulty separating work from personal life. Companies are now exploring hybrid models that combine remote and in-office work to address these concerns.\n\nWhat was the primary reason given for preferring remote work?",
+        "options": [
+          "Higher salary",
+          "Shorter commute",
+          "Flexibility and work-life balance",
+          "Better technology"
+        ],
+        "answer_index": 2,
+        "explanation": "文中提到 flexibility and work-life balance。"
+      }
+    },
+    {
+      "id": "real_sc_00109",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "A recent survey conducted by a leading research institute found that remote work has become the preferred mode of employment for over 60% of professionals. The study, which surveyed 10,000 employees across various industries, revealed that flexibility and work-life balance were the primary reasons cited. However, the survey also highlighted challenges, including feelings of isolation and difficulty separating work from personal life. Companies are now exploring hybrid models that combine remote and in-office work to address these concerns.\n\nWhat challenge of remote work is mentioned in the passage?",
+        "options": [
+          "Lower productivity",
+          "Feelings of isolation",
+          "Equipment shortages",
+          "Language barriers"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 feelings of isolation。"
+      }
+    },
+    {
+      "id": "real_sc_00110",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "A recent survey conducted by a leading research institute found that remote work has become the preferred mode of employment for over 60% of professionals. The study, which surveyed 10,000 employees across various industries, revealed that flexibility and work-life balance were the primary reasons cited. However, the survey also highlighted challenges, including feelings of isolation and difficulty separating work from personal life. Companies are now exploring hybrid models that combine remote and in-office work to address these concerns.\n\nHow are companies addressing the challenges of remote work?",
+        "options": [
+          "Eliminating remote work entirely",
+          "Exploring hybrid models",
+          "Increasing office hours",
+          "Reducing salaries"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 exploring hybrid models。"
+      }
+    }
+  ]
+}

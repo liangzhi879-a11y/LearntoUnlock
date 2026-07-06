@@ -1,0 +1,2362 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "bank_id": "english.cet6.real",
+    "subject": "english",
+    "category": "cet6",
+    "name": "CET-6 五年真题精选 (2019-2023)",
+    "name_en": "CET-6 Real Exam 5-Year Collection",
+    "cefr_level": "B2",
+    "total_items": 110,
+    "source": "CET-6 历年真题整理（2019-2023）",
+    "license": "CC-BY-SA 4.0",
+    "updated_at": "2026-07-06"
+  },
+  "items": [
+    {
+      "id": "real_sc_00001",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The proposal was rejected on the ___ that it lacked sufficient evidence.",
+        "options": [
+          "grounds",
+          "basis",
+          "foundation",
+          "reason"
+        ],
+        "answer_index": 0,
+        "explanation": "on the grounds that = 以...为由，固定搭配。"
+      }
+    },
+    {
+      "id": "real_sc_00002",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "grammar"
+      ],
+      "payload": {
+        "question": "___ for your timely warning, we would have walked into a trap.",
+        "options": [
+          "Were it not",
+          "Had it not been",
+          "If it is not",
+          "If it was not"
+        ],
+        "answer_index": 1,
+        "explanation": "对过去虚拟，省略 if 后倒装：Had it not been for..."
+      }
+    },
+    {
+      "id": "real_sc_00003",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "grammar"
+      ],
+      "payload": {
+        "question": "By the time the rescue team arrived, the stranded hikers ___ for three days.",
+        "options": [
+          "starved",
+          "had been starving",
+          "have starved",
+          "were starving"
+        ],
+        "answer_index": 1,
+        "explanation": "by the time + 过去时，主句用过去完成时 had been starving。"
+      }
+    },
+    {
+      "id": "real_sc_00004",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "grammar"
+      ],
+      "payload": {
+        "question": "___ the complexity of the issue, the committee decided to postpone the final decision.",
+        "options": [
+          "Given",
+          "Giving",
+          "To give",
+          "Having given"
+        ],
+        "answer_index": 0,
+        "explanation": "Given = 考虑到，作介词用。"
+      }
+    },
+    {
+      "id": "real_sc_00005",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "grammar"
+      ],
+      "payload": {
+        "question": "Not only ___ the report, but he also presented it to the board.",
+        "options": [
+          "he wrote",
+          "did he write",
+          "he had written",
+          "had he written"
+        ],
+        "answer_index": 1,
+        "explanation": "Not only 置于句首，部分倒装，用 did he write。"
+      }
+    },
+    {
+      "id": "real_wc_00006",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "word": "completely",
+        "phonetic": "/kәm'pli:tli/",
+        "definitions": [
+          "完全地, 十分地, 圆满地"
+        ],
+        "options": [
+          "银河, 星系, 一群(显赫的人物)\\n[电] 银河系",
+          "完全地, 十分地, 圆满地",
+          "t. 暗杀, 行刺\\n[法] 暗杀, 行刺, 中伤",
+          "出口, 发泄方法, 市场\\n[医] 出口"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_wc_00007",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "word": "deteriorate",
+        "phonetic": "/di'tiәriәreit/",
+        "definitions": [
+          "(使)恶化"
+        ],
+        "options": [
+          "a. 在前的, 前面的\\n[法] 在前的, 在先的, 前面的",
+          "(使)恶化",
+          "零售商, 工匠\\n[经] 商人, 店主, 零售商",
+          "动机, 目的, 主题, 基调\\na. 运动的, 成为动机的"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_wc_00008",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "word": "highly",
+        "phonetic": "/'haili/",
+        "definitions": [
+          "非常, 非常赞许地\\n[电] 大大地"
+        ],
+        "options": [
+          "a. 初步的, 基本的\\n[医] 元素的, 基础的, 初级的",
+          "哺乳动物\\n[化] 哺乳动物",
+          "荒野",
+          "非常, 非常赞许地\\n[电] 大大地"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_wc_00009",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "word": "negotiate",
+        "phonetic": "/ni'gәuʃieit/",
+        "definitions": [
+          "i. 商议, 谈判, 交涉\\nvt. 谈妥, 转让, 处理"
+        ],
+        "options": [
+          "i. 复发, 回到, 重现, 再来, 诉诸, 采用, 循环",
+          "释放, 解放\\n[化] 发出; 释放; 放出",
+          "i. 商议, 谈判, 交涉\\nvt. 谈妥, 转让, 处理",
+          "a. 惯常的, 习惯了的"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_wc_00010",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "word": "additional",
+        "phonetic": "/ә'diʃәnәl/",
+        "definitions": [
+          "a. 附加的, 另外的, 额外的\\n[机] 加添的, 附加的"
+        ],
+        "options": [
+          "a. 附加的, 另外的, 额外的\\n[机] 加添的, 附加的",
+          "复杂, 复杂性, 复杂的事物",
+          "如此, 因此, 到如此程度\\n[医] 乳香",
+          "t. 强制, 施恩惠于, 使感激\\nvi. 施恩惠, 帮忙"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_dc_00011",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "t. 模仿, 效法, 冒充, 仿造",
+        "phonetic_hint": "/'imiteit/",
+        "options": [
+          "circulate",
+          "billion",
+          "imitate",
+          "original"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_dc_00012",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "生存, 残存, 幸存者\\na. 赖以生存的",
+        "phonetic_hint": "/sә'vaivәl/",
+        "options": [
+          "survival",
+          "unreliable",
+          "Italian",
+          "invitation"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_dc_00013",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "主教, (国际象棋中的)象, 热果子酒",
+        "phonetic_hint": "/'biʃәp/",
+        "options": [
+          "mislead",
+          "dome",
+          "bishop",
+          "multiple"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_sf_00014",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "cloze",
+        "cloze_blank_1"
+      ],
+      "payload": {
+        "sentence": "Climate change is one of the most ___ challenges facing humanity today. The Earth's average temperature has been ___ steadily over the past century, largely due to human activities. Scientists warn that if we do not take ___ action, the consequences could be ___. Rising sea levels, extreme weather events, and loss of biodiversity are just a few of the ___ we face. It is crucial that governments and individuals work together to reduce carbon emissions.",
+        "answer": "pressing",
+        "options": [
+          "pressing",
+          "minor",
+          "imaginary",
+          "temporary"
+        ],
+        "answer_index": 0,
+        "translation": "气候变化是人类今天面临的最紧迫的挑战之一。过去一个世纪，地球平均温度持续上升，主要由人类活动导致。科学家警告如果不立即采取行动，后果可能是毁灭性的。"
+      }
+    },
+    {
+      "id": "real_sf_00015",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "cloze",
+        "cloze_blank_2"
+      ],
+      "payload": {
+        "sentence": "Climate change is one of the most ___ challenges facing humanity today. The Earth's average temperature has been ___ steadily over the past century, largely due to human activities. Scientists warn that if we do not take ___ action, the consequences could be ___. Rising sea levels, extreme weather events, and loss of biodiversity are just a few of the ___ we face. It is crucial that governments and individuals work together to reduce carbon emissions.",
+        "answer": "rising",
+        "options": [
+          "falling",
+          "rising",
+          "stable",
+          "dropping"
+        ],
+        "answer_index": 1,
+        "translation": "气候变化是人类今天面临的最紧迫的挑战之一。过去一个世纪，地球平均温度持续上升，主要由人类活动导致。科学家警告如果不立即采取行动，后果可能是毁灭性的。"
+      }
+    },
+    {
+      "id": "real_sf_00016",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "cloze",
+        "cloze_blank_3"
+      ],
+      "payload": {
+        "sentence": "Climate change is one of the most ___ challenges facing humanity today. The Earth's average temperature has been ___ steadily over the past century, largely due to human activities. Scientists warn that if we do not take ___ action, the consequences could be ___. Rising sea levels, extreme weather events, and loss of biodiversity are just a few of the ___ we face. It is crucial that governments and individuals work together to reduce carbon emissions.",
+        "answer": "immediate",
+        "options": [
+          "delayed",
+          "immediate",
+          "unnecessary",
+          "cautious"
+        ],
+        "answer_index": 1,
+        "translation": "气候变化是人类今天面临的最紧迫的挑战之一。过去一个世纪，地球平均温度持续上升，主要由人类活动导致。科学家警告如果不立即采取行动，后果可能是毁灭性的。"
+      }
+    },
+    {
+      "id": "real_sf_00017",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "cloze",
+        "cloze_blank_4"
+      ],
+      "payload": {
+        "sentence": "Climate change is one of the most ___ challenges facing humanity today. The Earth's average temperature has been ___ steadily over the past century, largely due to human activities. Scientists warn that if we do not take ___ action, the consequences could be ___. Rising sea levels, extreme weather events, and loss of biodiversity are just a few of the ___ we face. It is crucial that governments and individuals work together to reduce carbon emissions.",
+        "answer": "devastating",
+        "options": [
+          "beneficial",
+          "minimal",
+          "devastating",
+          "reversible"
+        ],
+        "answer_index": 2,
+        "translation": "气候变化是人类今天面临的最紧迫的挑战之一。过去一个世纪，地球平均温度持续上升，主要由人类活动导致。科学家警告如果不立即采取行动，后果可能是毁灭性的。"
+      }
+    },
+    {
+      "id": "real_sf_00018",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "cloze",
+        "cloze_blank_5"
+      ],
+      "payload": {
+        "sentence": "Climate change is one of the most ___ challenges facing humanity today. The Earth's average temperature has been ___ steadily over the past century, largely due to human activities. Scientists warn that if we do not take ___ action, the consequences could be ___. Rising sea levels, extreme weather events, and loss of biodiversity are just a few of the ___ we face. It is crucial that governments and individuals work together to reduce carbon emissions.",
+        "answer": "threats",
+        "options": [
+          "opportunities",
+          "threats",
+          "benefits",
+          "solutions"
+        ],
+        "answer_index": 1,
+        "translation": "气候变化是人类今天面临的最紧迫的挑战之一。过去一个世纪，地球平均温度持续上升，主要由人类活动导致。科学家警告如果不立即采取行动，后果可能是毁灭性的。"
+      }
+    },
+    {
+      "id": "real_sc_00019",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "A recent survey conducted by a leading research institute found that remote work has become the preferred mode of employment for over 60% of professionals. The study, which surveyed 10,000 employees across various industries, revealed that flexibility and work-life balance were the primary reasons cited. However, the survey also highlighted challenges, including feelings of isolation and difficulty separating work from personal life. Companies are now exploring hybrid models that combine remote and in-office work to address these concerns.\n\nWhat percentage of professionals prefer remote work according to the survey?",
+        "options": [
+          "Over 50%",
+          "Over 60%",
+          "Over 70%",
+          "Over 80%"
+        ],
+        "answer_index": 1,
+        "explanation": "文中明确提到 over 60%。"
+      }
+    },
+    {
+      "id": "real_sc_00020",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "A recent survey conducted by a leading research institute found that remote work has become the preferred mode of employment for over 60% of professionals. The study, which surveyed 10,000 employees across various industries, revealed that flexibility and work-life balance were the primary reasons cited. However, the survey also highlighted challenges, including feelings of isolation and difficulty separating work from personal life. Companies are now exploring hybrid models that combine remote and in-office work to address these concerns.\n\nWhat was the primary reason given for preferring remote work?",
+        "options": [
+          "Higher salary",
+          "Shorter commute",
+          "Flexibility and work-life balance",
+          "Better technology"
+        ],
+        "answer_index": 2,
+        "explanation": "文中提到 flexibility and work-life balance。"
+      }
+    },
+    {
+      "id": "real_sc_00021",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "A recent survey conducted by a leading research institute found that remote work has become the preferred mode of employment for over 60% of professionals. The study, which surveyed 10,000 employees across various industries, revealed that flexibility and work-life balance were the primary reasons cited. However, the survey also highlighted challenges, including feelings of isolation and difficulty separating work from personal life. Companies are now exploring hybrid models that combine remote and in-office work to address these concerns.\n\nWhat challenge of remote work is mentioned in the passage?",
+        "options": [
+          "Lower productivity",
+          "Feelings of isolation",
+          "Equipment shortages",
+          "Language barriers"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 feelings of isolation。"
+      }
+    },
+    {
+      "id": "real_sc_00022",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2019",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "A recent survey conducted by a leading research institute found that remote work has become the preferred mode of employment for over 60% of professionals. The study, which surveyed 10,000 employees across various industries, revealed that flexibility and work-life balance were the primary reasons cited. However, the survey also highlighted challenges, including feelings of isolation and difficulty separating work from personal life. Companies are now exploring hybrid models that combine remote and in-office work to address these concerns.\n\nHow are companies addressing the challenges of remote work?",
+        "options": [
+          "Eliminating remote work entirely",
+          "Exploring hybrid models",
+          "Increasing office hours",
+          "Reducing salaries"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 exploring hybrid models。"
+      }
+    },
+    {
+      "id": "real_sc_00023",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The professor emphasized that ___ the theory was sound, its practical application remained limited.",
+        "options": [
+          "while",
+          "since",
+          "as",
+          "because"
+        ],
+        "answer_index": 0,
+        "explanation": "while = 虽然/尽管，引导让步状语从句。"
+      }
+    },
+    {
+      "id": "real_sc_00024",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "grammar"
+      ],
+      "payload": {
+        "question": "___ the complexity of the issue, the committee decided to postpone the final decision.",
+        "options": [
+          "Given",
+          "Giving",
+          "To give",
+          "Having given"
+        ],
+        "answer_index": 0,
+        "explanation": "Given = 考虑到，作介词用。"
+      }
+    },
+    {
+      "id": "real_sc_00025",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "grammar"
+      ],
+      "payload": {
+        "question": "Not only ___ the report, but he also presented it to the board.",
+        "options": [
+          "he wrote",
+          "did he write",
+          "he had written",
+          "had he written"
+        ],
+        "answer_index": 1,
+        "explanation": "Not only 置于句首，部分倒装，用 did he write。"
+      }
+    },
+    {
+      "id": "real_sc_00026",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The research findings are consistent with ___ earlier studies demonstrated.",
+        "options": [
+          "that",
+          "which",
+          "what",
+          "those"
+        ],
+        "answer_index": 2,
+        "explanation": "what 引导介词宾语从句，在从句中作 demonstrated 的宾语。"
+      }
+    },
+    {
+      "id": "real_sc_00027",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The results of the experiment were ___ unexpected, considering the initial hypothesis.",
+        "options": [
+          "anything but",
+          "nothing but",
+          "all but",
+          "everything but"
+        ],
+        "answer_index": 0,
+        "explanation": "anything but = 绝非，一点也不。"
+      }
+    },
+    {
+      "id": "real_wc_00028",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "word": "thoughtful",
+        "phonetic": "/'θɒ:tful/",
+        "definitions": [
+          "a. 深思的, 体贴的"
+        ],
+        "options": [
+          "a. 非常好的, 极端的, 可怕的",
+          "a. 深思的, 体贴的",
+          "疏忽, 忽略, 漏做\\nvt. 疏忽, 忽视, 不顾",
+          "发现, 被发现的事物\\n[法] 要求告知, 发现, 发觉"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_wc_00029",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "word": "mobile",
+        "phonetic": "/'mәubil/",
+        "definitions": [
+          "a. 移动的, 易变的, 机动的\\nn. 活动物体"
+        ],
+        "options": [
+          "理解, 谅解\\n[法] 协商, 协议, 谅解",
+          "律师\\n[经] 律师",
+          "曲线图, 图表, 图形\\n[计] 图形",
+          "a. 移动的, 易变的, 机动的\\nn. 活动物体"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_wc_00030",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "word": "resist",
+        "phonetic": "/ri'zist/",
+        "definitions": [
+          "抵抗, 耐得住, 抵制, 反抗\\nn. 防染材料"
+        ],
+        "options": [
+          "抵抗, 耐得住, 抵制, 反抗\\nn. 防染材料",
+          "胡桃\\n[机] 胡桃木",
+          "通讯记者, 通信者\\n[经] 客户, 代理商行, 代理银行",
+          "打架, 争吵, 斗志\\nv. 对抗, 打架"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_wc_00031",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "word": "interim",
+        "phonetic": "/'intәrim/",
+        "definitions": [
+          "a. 暂时的, 临时的, 间歇的\\nn. 过渡时期"
+        ],
+        "options": [
+          "校订, 修正, 改样\\nvt. 校订, 修正, 校正",
+          "冒险, 危险, 保险额\\nvt. 冒...的危险, 冒险干",
+          "a. 暂时的, 临时的, 间歇的\\nn. 过渡时期",
+          "指示, 象征, 暗示\\n[医] 指示, 指征, 适应征"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_wc_00032",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "word": "torpedo",
+        "phonetic": "/tɒ:'pi:dәu/",
+        "definitions": [
+          "鱼雷, 水雷, 地雷\\nvt. 用鱼雷袭击, 破坏"
+        ],
+        "options": [
+          "工程师, 工兵\\nvt. 设计, 监造, 精明地处理, 策划",
+          "在南方",
+          "传说, 传统, 交付\\n[法] 传统, 惯例, 移交",
+          "鱼雷, 水雷, 地雷\\nvt. 用鱼雷袭击, 破坏"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_dc_00033",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "高手, 专家\\na. 精通的, 熟练的",
+        "phonetic_hint": "/prә'fiʃәnt/",
+        "options": [
+          "ladder",
+          "proficient",
+          "novel",
+          "invaluable"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_dc_00034",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "亚麻布, 亚麻线, 亚麻制品\\na. 亚麻布制的, 亚麻的",
+        "phonetic_hint": "/'linin/",
+        "options": [
+          "linen",
+          "adjustable",
+          "visible",
+          "separation"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_dc_00035",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "主要地, 大部分",
+        "phonetic_hint": "/'prinsәpәli/",
+        "options": [
+          "mourn",
+          "jungle",
+          "principally",
+          "target"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_sf_00036",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "cloze",
+        "cloze_blank_1"
+      ],
+      "payload": {
+        "sentence": "Climate change is one of the most ___ challenges facing humanity today. The Earth's average temperature has been ___ steadily over the past century, largely due to human activities. Scientists warn that if we do not take ___ action, the consequences could be ___. Rising sea levels, extreme weather events, and loss of biodiversity are just a few of the ___ we face. It is crucial that governments and individuals work together to reduce carbon emissions.",
+        "answer": "pressing",
+        "options": [
+          "pressing",
+          "minor",
+          "imaginary",
+          "temporary"
+        ],
+        "answer_index": 0,
+        "translation": "气候变化是人类今天面临的最紧迫的挑战之一。过去一个世纪，地球平均温度持续上升，主要由人类活动导致。科学家警告如果不立即采取行动，后果可能是毁灭性的。"
+      }
+    },
+    {
+      "id": "real_sf_00037",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "cloze",
+        "cloze_blank_2"
+      ],
+      "payload": {
+        "sentence": "Climate change is one of the most ___ challenges facing humanity today. The Earth's average temperature has been ___ steadily over the past century, largely due to human activities. Scientists warn that if we do not take ___ action, the consequences could be ___. Rising sea levels, extreme weather events, and loss of biodiversity are just a few of the ___ we face. It is crucial that governments and individuals work together to reduce carbon emissions.",
+        "answer": "rising",
+        "options": [
+          "falling",
+          "rising",
+          "stable",
+          "dropping"
+        ],
+        "answer_index": 1,
+        "translation": "气候变化是人类今天面临的最紧迫的挑战之一。过去一个世纪，地球平均温度持续上升，主要由人类活动导致。科学家警告如果不立即采取行动，后果可能是毁灭性的。"
+      }
+    },
+    {
+      "id": "real_sf_00038",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "cloze",
+        "cloze_blank_3"
+      ],
+      "payload": {
+        "sentence": "Climate change is one of the most ___ challenges facing humanity today. The Earth's average temperature has been ___ steadily over the past century, largely due to human activities. Scientists warn that if we do not take ___ action, the consequences could be ___. Rising sea levels, extreme weather events, and loss of biodiversity are just a few of the ___ we face. It is crucial that governments and individuals work together to reduce carbon emissions.",
+        "answer": "immediate",
+        "options": [
+          "delayed",
+          "immediate",
+          "unnecessary",
+          "cautious"
+        ],
+        "answer_index": 1,
+        "translation": "气候变化是人类今天面临的最紧迫的挑战之一。过去一个世纪，地球平均温度持续上升，主要由人类活动导致。科学家警告如果不立即采取行动，后果可能是毁灭性的。"
+      }
+    },
+    {
+      "id": "real_sf_00039",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "cloze",
+        "cloze_blank_4"
+      ],
+      "payload": {
+        "sentence": "Climate change is one of the most ___ challenges facing humanity today. The Earth's average temperature has been ___ steadily over the past century, largely due to human activities. Scientists warn that if we do not take ___ action, the consequences could be ___. Rising sea levels, extreme weather events, and loss of biodiversity are just a few of the ___ we face. It is crucial that governments and individuals work together to reduce carbon emissions.",
+        "answer": "devastating",
+        "options": [
+          "beneficial",
+          "minimal",
+          "devastating",
+          "reversible"
+        ],
+        "answer_index": 2,
+        "translation": "气候变化是人类今天面临的最紧迫的挑战之一。过去一个世纪，地球平均温度持续上升，主要由人类活动导致。科学家警告如果不立即采取行动，后果可能是毁灭性的。"
+      }
+    },
+    {
+      "id": "real_sf_00040",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "cloze",
+        "cloze_blank_5"
+      ],
+      "payload": {
+        "sentence": "Climate change is one of the most ___ challenges facing humanity today. The Earth's average temperature has been ___ steadily over the past century, largely due to human activities. Scientists warn that if we do not take ___ action, the consequences could be ___. Rising sea levels, extreme weather events, and loss of biodiversity are just a few of the ___ we face. It is crucial that governments and individuals work together to reduce carbon emissions.",
+        "answer": "threats",
+        "options": [
+          "opportunities",
+          "threats",
+          "benefits",
+          "solutions"
+        ],
+        "answer_index": 1,
+        "translation": "气候变化是人类今天面临的最紧迫的挑战之一。过去一个世纪，地球平均温度持续上升，主要由人类活动导致。科学家警告如果不立即采取行动，后果可能是毁灭性的。"
+      }
+    },
+    {
+      "id": "real_sc_00041",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Mental health awareness has grown significantly in recent years, with more people openly discussing issues that were once considered taboo. Workplace stress, anxiety, and depression affect millions of individuals worldwide. In response, many companies have implemented employee wellness programs that include counseling services, meditation sessions, and flexible work arrangements. Mental health professionals emphasize that seeking help is a sign of strength, not weakness. They also stress the importance of maintaining a healthy work-life balance, getting adequate sleep, and engaging in regular physical activity as preventive measures.\n\nHow has mental health awareness changed in recent years?",
+        "options": [
+          "It has decreased",
+          "It has grown significantly",
+          "It has remained the same",
+          "It has been ignored"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 has grown significantly。"
+      }
+    },
+    {
+      "id": "real_sc_00042",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Mental health awareness has grown significantly in recent years, with more people openly discussing issues that were once considered taboo. Workplace stress, anxiety, and depression affect millions of individuals worldwide. In response, many companies have implemented employee wellness programs that include counseling services, meditation sessions, and flexible work arrangements. Mental health professionals emphasize that seeking help is a sign of strength, not weakness. They also stress the importance of maintaining a healthy work-life balance, getting adequate sleep, and engaging in regular physical activity as preventive measures.\n\nWhat have companies implemented in response to mental health concerns?",
+        "options": [
+          "Mandatory overtime",
+          "Employee wellness programs",
+          "Stricter performance reviews",
+          "Reduced vacation time"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 employee wellness programs。"
+      }
+    },
+    {
+      "id": "real_sc_00043",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Mental health awareness has grown significantly in recent years, with more people openly discussing issues that were once considered taboo. Workplace stress, anxiety, and depression affect millions of individuals worldwide. In response, many companies have implemented employee wellness programs that include counseling services, meditation sessions, and flexible work arrangements. Mental health professionals emphasize that seeking help is a sign of strength, not weakness. They also stress the importance of maintaining a healthy work-life balance, getting adequate sleep, and engaging in regular physical activity as preventive measures.\n\nWhat do mental health professionals say about seeking help?",
+        "options": [
+          "It is a sign of weakness",
+          "It should be avoided",
+          "It is a sign of strength",
+          "It is unnecessary"
+        ],
+        "answer_index": 2,
+        "explanation": "文中提到 seeking help is a sign of strength, not weakness。"
+      }
+    },
+    {
+      "id": "real_sc_00044",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2020",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Mental health awareness has grown significantly in recent years, with more people openly discussing issues that were once considered taboo. Workplace stress, anxiety, and depression affect millions of individuals worldwide. In response, many companies have implemented employee wellness programs that include counseling services, meditation sessions, and flexible work arrangements. Mental health professionals emphasize that seeking help is a sign of strength, not weakness. They also stress the importance of maintaining a healthy work-life balance, getting adequate sleep, and engaging in regular physical activity as preventive measures.\n\nWhich of the following is mentioned as a preventive measure?",
+        "options": [
+          "Taking medication",
+          "Regular physical activity",
+          "Avoiding social interaction",
+          "Working longer hours"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 regular physical activity as preventive measures。"
+      }
+    },
+    {
+      "id": "real_sc_00045",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "grammar"
+      ],
+      "payload": {
+        "question": "___ had the lecture begun when the fire alarm went off.",
+        "options": [
+          "Scarcely",
+          "No sooner",
+          "Hardly",
+          "Barely"
+        ],
+        "answer_index": 0,
+        "explanation": "Scarcely... when... 为固定搭配。"
+      }
+    },
+    {
+      "id": "real_sc_00046",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The results of the experiment were ___ unexpected, considering the initial hypothesis.",
+        "options": [
+          "anything but",
+          "nothing but",
+          "all but",
+          "everything but"
+        ],
+        "answer_index": 0,
+        "explanation": "anything but = 绝非，一点也不。"
+      }
+    },
+    {
+      "id": "real_sc_00047",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "grammar"
+      ],
+      "payload": {
+        "question": "Rarely ___ such a comprehensive analysis of the economic situation.",
+        "options": [
+          "we have seen",
+          "have we seen",
+          "we saw",
+          "did we see"
+        ],
+        "answer_index": 1,
+        "explanation": "Rarely 置于句首，部分倒装，且强调到现在为止，用现在完成时。"
+      }
+    },
+    {
+      "id": "real_sc_00048",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The professor emphasized that ___ the theory was sound, its practical application remained limited.",
+        "options": [
+          "while",
+          "since",
+          "as",
+          "because"
+        ],
+        "answer_index": 0,
+        "explanation": "while = 虽然/尽管，引导让步状语从句。"
+      }
+    },
+    {
+      "id": "real_sc_00049",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The company is contemplating ___ a new branch in Southeast Asia.",
+        "options": [
+          "to open",
+          "opening",
+          "to have opened",
+          "being opened"
+        ],
+        "answer_index": 1,
+        "explanation": "contemplate 后接动名词 opening。"
+      }
+    },
+    {
+      "id": "real_wc_00050",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "word": "extent",
+        "phonetic": "/ik'stent/",
+        "definitions": [
+          "范围, 程度, 区域\\n[计] 范围"
+        ],
+        "options": [
+          "a. 情感的, 表达感情的\\n[医] 感情的, 情感的",
+          "a. 熟练的, 巧妙的\\n[机] 熟练的",
+          "范围, 程度, 区域\\n[计] 范围",
+          "水壶, 军中俱乐部, 临时流动餐馆, 小卖部"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_wc_00051",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "word": "greed",
+        "phonetic": "/gri:d/",
+        "definitions": [
+          "贪欲, 贪婪"
+        ],
+        "options": [
+          "阅读, 知识, 读物\\na. 阅读的",
+          "贪欲, 贪婪",
+          "弹药筒, 弹药, 一卷软片, 墨粉鼓\\n[计] 盒式磁带机",
+          "无线电\\na. 无线的, 无线电的"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_wc_00052",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "word": "sincerity",
+        "phonetic": "/sin'serәti/",
+        "definitions": [
+          "诚实, 真实, 诚心诚意"
+        ],
+        "options": [
+          "诚实, 真实, 诚心诚意",
+          "a. 暴力的, 猛烈的, 激烈的, 极端的, 凶暴的",
+          "货币, 通货, 流通, 通用\\n[计] 货币, 货币型",
+          "水源, 源, 喷泉, 泉水, 本源\\n[医] 泉"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_wc_00053",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "word": "sleeve",
+        "phonetic": "/sli:v/",
+        "definitions": [
+          "袖子, 套管\\nvt. 缝上袖子"
+        ],
+        "options": [
+          "t. 显露, 传达, 感染\\nvi. 通讯",
+          "文摘\\nvi. 消化\\nvt. 消化, 理解\\n[计] 摘要",
+          "根据, 证据, 迹象\\n[经] 证据, 凭证",
+          "袖子, 套管\\nvt. 缝上袖子"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_wc_00054",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "word": "cabin",
+        "phonetic": "/'kæbin/",
+        "definitions": [
+          "小屋, 客舱\\nvt. 关在小屋"
+        ],
+        "options": [
+          "小屋, 客舱\\nvt. 关在小屋",
+          "斗士, 战士, 好战者, 战斗机",
+          "各自地, 独自地, 个别地, 分别地",
+          "词汇(量), 词汇表\\n[计] 词表"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_dc_00055",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "不久, 简短, 唐突地",
+        "phonetic_hint": "/'ʃɒ:tli/",
+        "options": [
+          "shortly",
+          "ashore",
+          "harden",
+          "provided"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_dc_00056",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "a. 有特色的, 出众的",
+        "phonetic_hint": "/di'stiŋktiv/",
+        "options": [
+          "merely",
+          "distinctive",
+          "tempo",
+          "infer"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_dc_00057",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "小吃, 点心, 快餐\\nvi. 吃零食, 吃快餐",
+        "phonetic_hint": "/snæk/",
+        "options": [
+          "snack",
+          "quantify",
+          "curse",
+          "cartoon"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_sf_00058",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "cloze",
+        "cloze_blank_1"
+      ],
+      "payload": {
+        "sentence": "Reading is one of the most ___ habits a person can develop. It not only ___ knowledge but also improves vocabulary and critical thinking. Studies have shown that people who read ___ tend to have better cognitive function in later life. ___ the rise of digital media, many people have shifted to reading on screens, but the ___ of a good book remains unchanged.",
+        "answer": "beneficial",
+        "options": [
+          "harmful",
+          "beneficial",
+          "useless",
+          "trivial"
+        ],
+        "answer_index": 1,
+        "translation": "阅读是一个人能培养的最有益的习惯之一。它不仅扩展知识，还改善词汇和批判性思维。研究表明，经常阅读的人晚年认知功能更好。尽管数字媒体兴起，好书的价值不变。"
+      }
+    },
+    {
+      "id": "real_sf_00059",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "cloze",
+        "cloze_blank_2"
+      ],
+      "payload": {
+        "sentence": "Reading is one of the most ___ habits a person can develop. It not only ___ knowledge but also improves vocabulary and critical thinking. Studies have shown that people who read ___ tend to have better cognitive function in later life. ___ the rise of digital media, many people have shifted to reading on screens, but the ___ of a good book remains unchanged.",
+        "answer": "expands",
+        "options": [
+          "limits",
+          "expands",
+          "reduces",
+          "ignores"
+        ],
+        "answer_index": 1,
+        "translation": "阅读是一个人能培养的最有益的习惯之一。它不仅扩展知识，还改善词汇和批判性思维。研究表明，经常阅读的人晚年认知功能更好。尽管数字媒体兴起，好书的价值不变。"
+      }
+    },
+    {
+      "id": "real_sf_00060",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "cloze",
+        "cloze_blank_3"
+      ],
+      "payload": {
+        "sentence": "Reading is one of the most ___ habits a person can develop. It not only ___ knowledge but also improves vocabulary and critical thinking. Studies have shown that people who read ___ tend to have better cognitive function in later life. ___ the rise of digital media, many people have shifted to reading on screens, but the ___ of a good book remains unchanged.",
+        "answer": "regularly",
+        "options": [
+          "rarely",
+          "regularly",
+          "never",
+          "reluctantly"
+        ],
+        "answer_index": 1,
+        "translation": "阅读是一个人能培养的最有益的习惯之一。它不仅扩展知识，还改善词汇和批判性思维。研究表明，经常阅读的人晚年认知功能更好。尽管数字媒体兴起，好书的价值不变。"
+      }
+    },
+    {
+      "id": "real_sf_00061",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "cloze",
+        "cloze_blank_4"
+      ],
+      "payload": {
+        "sentence": "Reading is one of the most ___ habits a person can develop. It not only ___ knowledge but also improves vocabulary and critical thinking. Studies have shown that people who read ___ tend to have better cognitive function in later life. ___ the rise of digital media, many people have shifted to reading on screens, but the ___ of a good book remains unchanged.",
+        "answer": "Despite",
+        "options": [
+          "Despite",
+          "Because",
+          "Since",
+          "Although"
+        ],
+        "answer_index": 0,
+        "translation": "阅读是一个人能培养的最有益的习惯之一。它不仅扩展知识，还改善词汇和批判性思维。研究表明，经常阅读的人晚年认知功能更好。尽管数字媒体兴起，好书的价值不变。"
+      }
+    },
+    {
+      "id": "real_sf_00062",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "cloze",
+        "cloze_blank_5"
+      ],
+      "payload": {
+        "sentence": "Reading is one of the most ___ habits a person can develop. It not only ___ knowledge but also improves vocabulary and critical thinking. Studies have shown that people who read ___ tend to have better cognitive function in later life. ___ the rise of digital media, many people have shifted to reading on screens, but the ___ of a good book remains unchanged.",
+        "answer": "value",
+        "options": [
+          "cost",
+          "value",
+          "weight",
+          "size"
+        ],
+        "answer_index": 1,
+        "translation": "阅读是一个人能培养的最有益的习惯之一。它不仅扩展知识，还改善词汇和批判性思维。研究表明，经常阅读的人晚年认知功能更好。尽管数字媒体兴起，好书的价值不变。"
+      }
+    },
+    {
+      "id": "real_sc_00063",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Mental health awareness has grown significantly in recent years, with more people openly discussing issues that were once considered taboo. Workplace stress, anxiety, and depression affect millions of individuals worldwide. In response, many companies have implemented employee wellness programs that include counseling services, meditation sessions, and flexible work arrangements. Mental health professionals emphasize that seeking help is a sign of strength, not weakness. They also stress the importance of maintaining a healthy work-life balance, getting adequate sleep, and engaging in regular physical activity as preventive measures.\n\nHow has mental health awareness changed in recent years?",
+        "options": [
+          "It has decreased",
+          "It has grown significantly",
+          "It has remained the same",
+          "It has been ignored"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 has grown significantly。"
+      }
+    },
+    {
+      "id": "real_sc_00064",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Mental health awareness has grown significantly in recent years, with more people openly discussing issues that were once considered taboo. Workplace stress, anxiety, and depression affect millions of individuals worldwide. In response, many companies have implemented employee wellness programs that include counseling services, meditation sessions, and flexible work arrangements. Mental health professionals emphasize that seeking help is a sign of strength, not weakness. They also stress the importance of maintaining a healthy work-life balance, getting adequate sleep, and engaging in regular physical activity as preventive measures.\n\nWhat have companies implemented in response to mental health concerns?",
+        "options": [
+          "Mandatory overtime",
+          "Employee wellness programs",
+          "Stricter performance reviews",
+          "Reduced vacation time"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 employee wellness programs。"
+      }
+    },
+    {
+      "id": "real_sc_00065",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Mental health awareness has grown significantly in recent years, with more people openly discussing issues that were once considered taboo. Workplace stress, anxiety, and depression affect millions of individuals worldwide. In response, many companies have implemented employee wellness programs that include counseling services, meditation sessions, and flexible work arrangements. Mental health professionals emphasize that seeking help is a sign of strength, not weakness. They also stress the importance of maintaining a healthy work-life balance, getting adequate sleep, and engaging in regular physical activity as preventive measures.\n\nWhat do mental health professionals say about seeking help?",
+        "options": [
+          "It is a sign of weakness",
+          "It should be avoided",
+          "It is a sign of strength",
+          "It is unnecessary"
+        ],
+        "answer_index": 2,
+        "explanation": "文中提到 seeking help is a sign of strength, not weakness。"
+      }
+    },
+    {
+      "id": "real_sc_00066",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2021",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Mental health awareness has grown significantly in recent years, with more people openly discussing issues that were once considered taboo. Workplace stress, anxiety, and depression affect millions of individuals worldwide. In response, many companies have implemented employee wellness programs that include counseling services, meditation sessions, and flexible work arrangements. Mental health professionals emphasize that seeking help is a sign of strength, not weakness. They also stress the importance of maintaining a healthy work-life balance, getting adequate sleep, and engaging in regular physical activity as preventive measures.\n\nWhich of the following is mentioned as a preventive measure?",
+        "options": [
+          "Taking medication",
+          "Regular physical activity",
+          "Avoiding social interaction",
+          "Working longer hours"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 regular physical activity as preventive measures。"
+      }
+    },
+    {
+      "id": "real_sc_00067",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The research findings are consistent with ___ earlier studies demonstrated.",
+        "options": [
+          "that",
+          "which",
+          "what",
+          "those"
+        ],
+        "answer_index": 2,
+        "explanation": "what 引导介词宾语从句，在从句中作 demonstrated 的宾语。"
+      }
+    },
+    {
+      "id": "real_sc_00068",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The results of the experiment were ___ unexpected, considering the initial hypothesis.",
+        "options": [
+          "anything but",
+          "nothing but",
+          "all but",
+          "everything but"
+        ],
+        "answer_index": 0,
+        "explanation": "anything but = 绝非，一点也不。"
+      }
+    },
+    {
+      "id": "real_sc_00069",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The committee members were divided on ___ to implement the new regulation immediately.",
+        "options": [
+          "whether",
+          "if",
+          "that",
+          "what"
+        ],
+        "answer_index": 0,
+        "explanation": "whether... or not 可引导不定式，if 不可以。"
+      }
+    },
+    {
+      "id": "real_sc_00070",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The suspect denied ___ near the scene of the crime at the time of the attack.",
+        "options": [
+          "to be",
+          "having been",
+          "to have been",
+          "being"
+        ],
+        "answer_index": 1,
+        "explanation": "deny 后接动名词完成式 having been，强调过去曾在现场。"
+      }
+    },
+    {
+      "id": "real_sc_00071",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The professor emphasized that ___ the theory was sound, its practical application remained limited.",
+        "options": [
+          "while",
+          "since",
+          "as",
+          "because"
+        ],
+        "answer_index": 0,
+        "explanation": "while = 虽然/尽管，引导让步状语从句。"
+      }
+    },
+    {
+      "id": "real_wc_00072",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "word": "conductor",
+        "phonetic": "/kәn'dʌktә/",
+        "definitions": [
+          "领导者, 指挥者, 售票员, 向导\\n[化] 导体"
+        ],
+        "options": [
+          "领导者, 指挥者, 售票员, 向导\\n[化] 导体",
+          "寡妇, 孀妇\\nvt. 使成寡妇",
+          "t. 模仿, 效法, 冒充, 仿造",
+          "交响乐, 交响曲"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_wc_00073",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "word": "tug",
+        "phonetic": "/tʌg/",
+        "definitions": [
+          "用力拉, 拖曳, 苦干, 挣扎, 绳索\\nv. 用力拉"
+        ],
+        "options": [
+          "代表会议, 苏维埃, 苏联\\na. 苏维埃的, 苏联的",
+          "扭曲, 变形, 曲解\\n[计] 畸变; 失真",
+          "用力拉, 拖曳, 苦干, 挣扎, 绳索\\nv. 用力拉",
+          "a. 性的, 性别的\\n[医] 性的; 性欲的"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_wc_00074",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "word": "consequence",
+        "phonetic": "/'kɒnsikwәns/",
+        "definitions": [
+          "结果, 重要性\\n[法] 结果, 后果, 推断"
+        ],
+        "options": [
+          "结果, 重要性\\n[法] 结果, 后果, 推断",
+          "责任, 关税, 职务, 尊敬\\n[化] 职责",
+          "a. 难得到的, 难接近的, 难达成的",
+          "汽油\\n[经] 汽油, 挥发油, 石油"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_wc_00075",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "word": "rash",
+        "phonetic": "/ræʃ/",
+        "definitions": [
+          "a. 轻率的, 匆忙的, 鲁莽的\\nn. 皮疹"
+        ],
+        "options": [
+          "t. 赶上, 突然降临于, 压倒, 代替",
+          "a. 暂时的, 临时的, 间歇的\\nn. 过渡时期",
+          "t. 归因于, 归咎于\\n[法] 归咎于",
+          "a. 轻率的, 匆忙的, 鲁莽的\\nn. 皮疹"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_wc_00076",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "word": "respectively",
+        "phonetic": "/ri'spektivli/",
+        "definitions": [
+          "各自地, 独自地, 个别地, 分别地"
+        ],
+        "options": [
+          "政策, 方针, 策略, 保险单\\n[医] 凭单, 保险单",
+          "各自地, 独自地, 个别地, 分别地",
+          "病毒, 滤过性病毒, 毒害\\n[化] 病毒",
+          "正午, 中午\\na. 正午的"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_dc_00077",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "对...\\n[法] 诉, 对, 相形",
+        "phonetic_hint": "/'vә:sәs/",
+        "options": [
+          "achieve",
+          "divert",
+          "international",
+          "versus"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_dc_00078",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "后退, 凹处, 衰退, 归还\\n[医] 退缩",
+        "phonetic_hint": "/ri'seʃәn/",
+        "options": [
+          "deer",
+          "recession",
+          "trend",
+          "reputation"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_dc_00079",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "骑手, (文件后的)附件, 扶手\\n[化] 游码",
+        "phonetic_hint": "/'raidә/",
+        "options": [
+          "rider",
+          "instruction",
+          "likewise",
+          "transaction"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_sf_00080",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "cloze",
+        "cloze_blank_1"
+      ],
+      "payload": {
+        "sentence": "Climate change is one of the most ___ challenges facing humanity today. The Earth's average temperature has been ___ steadily over the past century, largely due to human activities. Scientists warn that if we do not take ___ action, the consequences could be ___. Rising sea levels, extreme weather events, and loss of biodiversity are just a few of the ___ we face. It is crucial that governments and individuals work together to reduce carbon emissions.",
+        "answer": "pressing",
+        "options": [
+          "pressing",
+          "minor",
+          "imaginary",
+          "temporary"
+        ],
+        "answer_index": 0,
+        "translation": "气候变化是人类今天面临的最紧迫的挑战之一。过去一个世纪，地球平均温度持续上升，主要由人类活动导致。科学家警告如果不立即采取行动，后果可能是毁灭性的。"
+      }
+    },
+    {
+      "id": "real_sf_00081",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "cloze",
+        "cloze_blank_2"
+      ],
+      "payload": {
+        "sentence": "Climate change is one of the most ___ challenges facing humanity today. The Earth's average temperature has been ___ steadily over the past century, largely due to human activities. Scientists warn that if we do not take ___ action, the consequences could be ___. Rising sea levels, extreme weather events, and loss of biodiversity are just a few of the ___ we face. It is crucial that governments and individuals work together to reduce carbon emissions.",
+        "answer": "rising",
+        "options": [
+          "falling",
+          "rising",
+          "stable",
+          "dropping"
+        ],
+        "answer_index": 1,
+        "translation": "气候变化是人类今天面临的最紧迫的挑战之一。过去一个世纪，地球平均温度持续上升，主要由人类活动导致。科学家警告如果不立即采取行动，后果可能是毁灭性的。"
+      }
+    },
+    {
+      "id": "real_sf_00082",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "cloze",
+        "cloze_blank_3"
+      ],
+      "payload": {
+        "sentence": "Climate change is one of the most ___ challenges facing humanity today. The Earth's average temperature has been ___ steadily over the past century, largely due to human activities. Scientists warn that if we do not take ___ action, the consequences could be ___. Rising sea levels, extreme weather events, and loss of biodiversity are just a few of the ___ we face. It is crucial that governments and individuals work together to reduce carbon emissions.",
+        "answer": "immediate",
+        "options": [
+          "delayed",
+          "immediate",
+          "unnecessary",
+          "cautious"
+        ],
+        "answer_index": 1,
+        "translation": "气候变化是人类今天面临的最紧迫的挑战之一。过去一个世纪，地球平均温度持续上升，主要由人类活动导致。科学家警告如果不立即采取行动，后果可能是毁灭性的。"
+      }
+    },
+    {
+      "id": "real_sf_00083",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "cloze",
+        "cloze_blank_4"
+      ],
+      "payload": {
+        "sentence": "Climate change is one of the most ___ challenges facing humanity today. The Earth's average temperature has been ___ steadily over the past century, largely due to human activities. Scientists warn that if we do not take ___ action, the consequences could be ___. Rising sea levels, extreme weather events, and loss of biodiversity are just a few of the ___ we face. It is crucial that governments and individuals work together to reduce carbon emissions.",
+        "answer": "devastating",
+        "options": [
+          "beneficial",
+          "minimal",
+          "devastating",
+          "reversible"
+        ],
+        "answer_index": 2,
+        "translation": "气候变化是人类今天面临的最紧迫的挑战之一。过去一个世纪，地球平均温度持续上升，主要由人类活动导致。科学家警告如果不立即采取行动，后果可能是毁灭性的。"
+      }
+    },
+    {
+      "id": "real_sf_00084",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "cloze",
+        "cloze_blank_5"
+      ],
+      "payload": {
+        "sentence": "Climate change is one of the most ___ challenges facing humanity today. The Earth's average temperature has been ___ steadily over the past century, largely due to human activities. Scientists warn that if we do not take ___ action, the consequences could be ___. Rising sea levels, extreme weather events, and loss of biodiversity are just a few of the ___ we face. It is crucial that governments and individuals work together to reduce carbon emissions.",
+        "answer": "threats",
+        "options": [
+          "opportunities",
+          "threats",
+          "benefits",
+          "solutions"
+        ],
+        "answer_index": 1,
+        "translation": "气候变化是人类今天面临的最紧迫的挑战之一。过去一个世纪，地球平均温度持续上升，主要由人类活动导致。科学家警告如果不立即采取行动，后果可能是毁灭性的。"
+      }
+    },
+    {
+      "id": "real_sc_00085",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "The psychology of color plays a fascinating role in marketing and consumer behavior. Research has shown that different colors can evoke distinct emotional responses and influence purchasing decisions. For instance, red is often associated with urgency and excitement, which is why it is frequently used in clearance sales. Blue, on the other hand, conveys trust and reliability, making it a popular choice for financial institutions. Green is linked to nature and health, commonly used by organic and eco-friendly brands. Understanding these associations allows companies to strategically use color to communicate their brand values.\n\nWhat emotional response is red often associated with?",
+        "options": [
+          "Calm and peace",
+          "Urgency and excitement",
+          "Trust and reliability",
+          "Sadness and melancholy"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 red is often associated with urgency and excitement。"
+      }
+    },
+    {
+      "id": "real_sc_00086",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "The psychology of color plays a fascinating role in marketing and consumer behavior. Research has shown that different colors can evoke distinct emotional responses and influence purchasing decisions. For instance, red is often associated with urgency and excitement, which is why it is frequently used in clearance sales. Blue, on the other hand, conveys trust and reliability, making it a popular choice for financial institutions. Green is linked to nature and health, commonly used by organic and eco-friendly brands. Understanding these associations allows companies to strategically use color to communicate their brand values.\n\nWhy is blue a popular choice for financial institutions?",
+        "options": [
+          "It is the most popular color",
+          "It conveys trust and reliability",
+          "It is cheapest to produce",
+          "It attracts attention"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 Blue conveys trust and reliability。"
+      }
+    },
+    {
+      "id": "real_sc_00087",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "The psychology of color plays a fascinating role in marketing and consumer behavior. Research has shown that different colors can evoke distinct emotional responses and influence purchasing decisions. For instance, red is often associated with urgency and excitement, which is why it is frequently used in clearance sales. Blue, on the other hand, conveys trust and reliability, making it a popular choice for financial institutions. Green is linked to nature and health, commonly used by organic and eco-friendly brands. Understanding these associations allows companies to strategically use color to communicate their brand values.\n\nWhat is green commonly associated with?",
+        "options": [
+          "Wealth and money",
+          "Nature and health",
+          "Technology and innovation",
+          "Love and romance"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 Green is linked to nature and health。"
+      }
+    },
+    {
+      "id": "real_sc_00088",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2022",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "The psychology of color plays a fascinating role in marketing and consumer behavior. Research has shown that different colors can evoke distinct emotional responses and influence purchasing decisions. For instance, red is often associated with urgency and excitement, which is why it is frequently used in clearance sales. Blue, on the other hand, conveys trust and reliability, making it a popular choice for financial institutions. Green is linked to nature and health, commonly used by organic and eco-friendly brands. Understanding these associations allows companies to strategically use color to communicate their brand values.\n\nWhat is the main idea of the passage?",
+        "options": [
+          "Colors have no effect on consumers",
+          "Color psychology is important in marketing",
+          "All brands should use red",
+          "Financial institutions prefer green"
+        ],
+        "answer_index": 1,
+        "explanation": "主旨是色彩心理学在营销中的重要性。"
+      }
+    },
+    {
+      "id": "real_sc_00089",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The proposal was rejected on the ___ that it lacked sufficient evidence.",
+        "options": [
+          "grounds",
+          "basis",
+          "foundation",
+          "reason"
+        ],
+        "answer_index": 0,
+        "explanation": "on the grounds that = 以...为由，固定搭配。"
+      }
+    },
+    {
+      "id": "real_sc_00090",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The results of the experiment were ___ unexpected, considering the initial hypothesis.",
+        "options": [
+          "anything but",
+          "nothing but",
+          "all but",
+          "everything but"
+        ],
+        "answer_index": 0,
+        "explanation": "anything but = 绝非，一点也不。"
+      }
+    },
+    {
+      "id": "real_sc_00091",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The research findings are consistent with ___ earlier studies demonstrated.",
+        "options": [
+          "that",
+          "which",
+          "what",
+          "those"
+        ],
+        "answer_index": 2,
+        "explanation": "what 引导介词宾语从句，在从句中作 demonstrated 的宾语。"
+      }
+    },
+    {
+      "id": "real_sc_00092",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "grammar"
+      ],
+      "payload": {
+        "question": "___ the complexity of the issue, the committee decided to postpone the final decision.",
+        "options": [
+          "Given",
+          "Giving",
+          "To give",
+          "Having given"
+        ],
+        "answer_index": 0,
+        "explanation": "Given = 考虑到，作介词用。"
+      }
+    },
+    {
+      "id": "real_sc_00093",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The company is contemplating ___ a new branch in Southeast Asia.",
+        "options": [
+          "to open",
+          "opening",
+          "to have opened",
+          "being opened"
+        ],
+        "answer_index": 1,
+        "explanation": "contemplate 后接动名词 opening。"
+      }
+    },
+    {
+      "id": "real_wc_00094",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "word": "customer",
+        "phonetic": "/'kʌstәmә/",
+        "definitions": [
+          "消费者\\n[化] 顾客"
+        ],
+        "options": [
+          "庆祝, 祝贺, 举行",
+          "品质, 特性, 才能, 质量\\na. 优质的\\n[计] 品质",
+          "同时代的人\\na. 同时代的, 属于同一时期的",
+          "消费者\\n[化] 顾客"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_wc_00095",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "word": "specify",
+        "phonetic": "/'spesifai/",
+        "definitions": [
+          "t. 详列, 指定, 说明\\n[计] 指定"
+        ],
+        "options": [
+          "奇异事物, 罕见例子\\nvt. 惊异于\\nvi. 惊异",
+          "地毯, 地毯状物\\nvt. 铺以地毯, 铺盖",
+          "发明家\\n[法] 发明人, 发明家, 创造者",
+          "t. 详列, 指定, 说明\\n[计] 指定"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_wc_00096",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "word": "observation",
+        "phonetic": "/.ɒbzә:'veiʃәn/",
+        "definitions": [
+          "观察, 注意, 观测, 观察力\\n[化] 观察"
+        ],
+        "options": [
+          "t. 激怒, 惹起, 诱导\\n[法] 刺激, 煽动, 激怒",
+          "向那边, 向后",
+          "i. 跟着发生, 继起\\nvt. 追求",
+          "观察, 注意, 观测, 观察力\\n[化] 观察"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_wc_00097",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "word": "maple",
+        "phonetic": "/'meipl/",
+        "definitions": [
+          "枫, 枫木, 淡棕色\\n[机] 枫木"
+        ],
+        "options": [
+          "缺点, 不利, 坏处",
+          "枫, 枫木, 淡棕色\\n[机] 枫木",
+          "蜡烛\\nvt. 对着光检查",
+          "原则, 原理, 主义\\n[化] 原理"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_wc_00098",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "word": "necessity",
+        "phonetic": "/ni'sesәti/",
+        "definitions": [
+          "需要, 必需品, 必然\\n[法] 必要性, 必然性, 必要"
+        ],
+        "options": [
+          "恳求, 乞求",
+          "实行, 完成, 执行, 死刑\\n[计] 执行",
+          "需要, 必需品, 必然\\n[法] 必要性, 必然性, 必要",
+          "肥料, 促进发展者, 受精媒介物\\n[化] 肥料"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_dc_00099",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "笔记本, 手册, 期票簿",
+        "phonetic_hint": "/'nәutbuk/",
+        "options": [
+          "whisker",
+          "notebook",
+          "apply",
+          "casualty"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_dc_00100",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "事业, 企业, 保证\\n[经] 企业, 事业, 承担",
+        "phonetic_hint": "/.ʌndә'teikiŋ/",
+        "options": [
+          "undertaking",
+          "vocabulary",
+          "grief",
+          "crawl"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_dc_00101",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "归还, 更换, 代替者\\n[医] 复位, 置换",
+        "phonetic_hint": "/ri'pleismәnt/",
+        "options": [
+          "transparent",
+          "safely",
+          "replacement",
+          "stomach"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_sf_00102",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "cloze",
+        "cloze_blank_1"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "essential",
+        "options": [
+          "trivial",
+          "essential",
+          "optional",
+          "irrelevant"
+        ],
+        "answer_index": 1,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sf_00103",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "cloze",
+        "cloze_blank_2"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "listening",
+        "options": [
+          "speaking",
+          "listening",
+          "arguing",
+          "ignoring"
+        ],
+        "answer_index": 1,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sf_00104",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "cloze",
+        "cloze_blank_3"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "misunderstanding",
+        "options": [
+          "agreement",
+          "cooperation",
+          "misunderstanding",
+          "harmony"
+        ],
+        "answer_index": 2,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sf_00105",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "cloze",
+        "cloze_blank_4"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "better",
+        "options": [
+          "worse",
+          "better",
+          "less",
+          "rarely"
+        ],
+        "answer_index": 1,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sf_00106",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "cloze",
+        "cloze_blank_5"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "connections",
+        "options": [
+          "barriers",
+          "connections",
+          "conflicts",
+          "distances"
+        ],
+        "answer_index": 1,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sc_00107",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "The concept of lifelong learning has gained significant traction in recent years. With rapid technological advancements rendering certain skills obsolete, professionals are increasingly returning to education to stay competitive. Online platforms have made this easier than ever, offering courses from top universities at little or no cost. Experts emphasize that the ability to learn continuously is now as important as formal qualifications. In fact, some employers now value demonstrable skills and adaptability over traditional degrees.\n\nWhy has lifelong learning become more important?",
+        "options": [
+          "Technology makes certain skills obsolete",
+          "Universities are closing",
+          "Degrees are no longer recognized",
+          "Jobs are disappearing entirely"
+        ],
+        "answer_index": 0,
+        "explanation": "文中提到 rapid technological advancements rendering certain skills obsolete。"
+      }
+    },
+    {
+      "id": "real_sc_00108",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "The concept of lifelong learning has gained significant traction in recent years. With rapid technological advancements rendering certain skills obsolete, professionals are increasingly returning to education to stay competitive. Online platforms have made this easier than ever, offering courses from top universities at little or no cost. Experts emphasize that the ability to learn continuously is now as important as formal qualifications. In fact, some employers now value demonstrable skills and adaptability over traditional degrees.\n\nWhat has made lifelong learning easier?",
+        "options": [
+          "Government subsidies",
+          "Online platforms",
+          "Free textbooks",
+          "Employer mandates"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 Online platforms。"
+      }
+    },
+    {
+      "id": "real_sc_00109",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "The concept of lifelong learning has gained significant traction in recent years. With rapid technological advancements rendering certain skills obsolete, professionals are increasingly returning to education to stay competitive. Online platforms have made this easier than ever, offering courses from top universities at little or no cost. Experts emphasize that the ability to learn continuously is now as important as formal qualifications. In fact, some employers now value demonstrable skills and adaptability over traditional degrees.\n\nWhat do some employers now value over traditional degrees?",
+        "options": [
+          "Age and experience",
+          "Demonstrable skills and adaptability",
+          "Geographic location",
+          "Previous salary"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 value demonstrable skills and adaptability over traditional degrees。"
+      }
+    },
+    {
+      "id": "real_sc_00110",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "real_2023",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "The concept of lifelong learning has gained significant traction in recent years. With rapid technological advancements rendering certain skills obsolete, professionals are increasingly returning to education to stay competitive. Online platforms have made this easier than ever, offering courses from top universities at little or no cost. Experts emphasize that the ability to learn continuously is now as important as formal qualifications. In fact, some employers now value demonstrable skills and adaptability over traditional degrees.\n\nAccording to the passage, what is now as important as formal qualifications?",
+        "options": [
+          "Work experience",
+          "The ability to learn continuously",
+          "Personal connections",
+          "Physical fitness"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 the ability to learn continuously is now as important。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2362 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "bank_id": "english.cet4.real",
+    "subject": "english",
+    "category": "cet4",
+    "name": "CET-4 五年真题精选 (2019-2023)",
+    "name_en": "CET-4 Real Exam 5-Year Collection",
+    "cefr_level": "B1",
+    "total_items": 110,
+    "source": "CET-4 历年真题整理（2019-2023）",
+    "license": "CC-BY-SA 4.0",
+    "updated_at": "2026-07-06"
+  },
+  "items": [
+    {
+      "id": "real_sc_00001",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "grammar"
+      ],
+      "payload": {
+        "question": "She is the only one of the students who ___ passed the exam.",
+        "options": [
+          "have",
+          "has",
+          "are",
+          "is"
+        ],
+        "answer_index": 1,
+        "explanation": "the only one of 结构中，定语从句谓语与 the only one 一致，用单数 has。"
+      }
+    },
+    {
+      "id": "real_sc_00002",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "grammar"
+      ],
+      "payload": {
+        "question": "Hardly ___ when the phone rang.",
+        "options": [
+          "I had arrived",
+          "had I arrived",
+          "I arrived",
+          "did I arrive"
+        ],
+        "answer_index": 1,
+        "explanation": "Hardly 置于句首，主句部分倒装，且先于电话响，用过去完成时 had I arrived。"
+      }
+    },
+    {
+      "id": "real_sc_00003",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The professor, together with his students, ___ attending the conference.",
+        "options": [
+          "are",
+          "is",
+          "were",
+          "have been"
+        ],
+        "answer_index": 1,
+        "explanation": "together with 结构中，谓语与主语 The professor 一致，用单数 is。"
+      }
+    },
+    {
+      "id": "real_sc_00004",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "grammar"
+      ],
+      "payload": {
+        "question": "___ in 1949, the university has a long history.",
+        "options": [
+          "Founding",
+          "Founded",
+          "To found",
+          "Having founded"
+        ],
+        "answer_index": 1,
+        "explanation": "大学是被建立的，用过去分词 Founded。"
+      }
+    },
+    {
+      "id": "real_sc_00005",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The number of people applying for the job ___ increasing.",
+        "options": [
+          "are",
+          "is",
+          "have been",
+          "were"
+        ],
+        "answer_index": 1,
+        "explanation": "the number of 后谓语用单数 is。"
+      }
+    },
+    {
+      "id": "real_wc_00006",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "word": "bee",
+        "phonetic": "/bi:/",
+        "definitions": [
+          "蜜蜂, 聚会"
+        ],
+        "options": [
+          "收听者, 听众",
+          "a. 明显的, 明白的, 显然的, 平淡无奇的",
+          "a. 有希望的, 前途有望的\\n[经] 有希望的",
+          "蜜蜂, 聚会"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_wc_00007",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "word": "Latin",
+        "phonetic": "/'lætin/",
+        "definitions": [
+          "拉丁人, 拉丁语\\na. 拉丁人的, 拉丁语的"
+        ],
+        "options": [
+          "智慧, 明智行为, 学识, 名言, 贤人",
+          "引人羡慕的东西, 景象, 眼镜, 场面, 公开展示",
+          "拉丁人, 拉丁语\\na. 拉丁人的, 拉丁语的",
+          "批评, 吹毛求疵, 非难"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_wc_00008",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "word": "sausage",
+        "phonetic": "/'sɒsidʒ/",
+        "definitions": [
+          "香肠, 腊肠"
+        ],
+        "options": [
+          "无疑, 必定, 确实地",
+          "香肠, 腊肠",
+          "飞快地, 迅速地, 赶紧地",
+          "地质学, 地质情况"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_wc_00009",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "word": "gentleman",
+        "phonetic": "/'dʒentlmәn/",
+        "definitions": [
+          "绅士, 先生"
+        ],
+        "options": [
+          "绅士, 先生",
+          "白兰地酒\\n[化] 白兰地",
+          "高度, 海拔, 高处\\n[电] 高度",
+          "实验, 试验, 实验仪器\\nvi. 实验, 尝试"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_wc_00010",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "word": "utilize",
+        "phonetic": "/'ju:tilaiz/",
+        "definitions": [
+          "t. 利用"
+        ],
+        "options": [
+          "小溪\\nvt. 容忍",
+          "t. 利用",
+          "爱人, 爱好者",
+          "布料, 织品, 布\\n[建] 布"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_dc_00011",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "锐利地, 严厉地, 厉害地\\n[经] 剧烈地",
+        "phonetic_hint": "/'ʃɑ:pli/",
+        "options": [
+          "attraction",
+          "sharply",
+          "disorder",
+          "manufacture"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_dc_00012",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "主妇, 家庭妇女",
+        "phonetic_hint": "/'hauswaif/",
+        "options": [
+          "housewife",
+          "drawing",
+          "dimension",
+          "island"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_dc_00013",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "a. 远的, 疏远的\\n[经] 远期的",
+        "phonetic_hint": "/'distәnt/",
+        "options": [
+          "distant",
+          "novel",
+          "grammar",
+          "individual"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_sf_00014",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "cloze",
+        "cloze_blank_1"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "transforming",
+        "options": [
+          "destroying",
+          "transforming",
+          "ignoring",
+          "delaying"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sf_00015",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "cloze",
+        "cloze_blank_2"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "commonplace",
+        "options": [
+          "rare",
+          "commonplace",
+          "impossible",
+          "expensive"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sf_00016",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "cloze",
+        "cloze_blank_3"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "replace",
+        "options": [
+          "create",
+          "replace",
+          "improve",
+          "protect"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sf_00017",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "cloze",
+        "cloze_blank_4"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "opportunities",
+        "options": [
+          "problems",
+          "opportunities",
+          "threats",
+          "obstacles"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sf_00018",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "cloze",
+        "cloze_blank_5"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "embrace",
+        "options": [
+          "reject",
+          "embrace",
+          "ignore",
+          "fear"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sc_00019",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "A recent survey conducted by a leading research institute found that remote work has become the preferred mode of employment for over 60% of professionals. The study, which surveyed 10,000 employees across various industries, revealed that flexibility and work-life balance were the primary reasons cited. However, the survey also highlighted challenges, including feelings of isolation and difficulty separating work from personal life. Companies are now exploring hybrid models that combine remote and in-office work to address these concerns.\n\nWhat percentage of professionals prefer remote work according to the survey?",
+        "options": [
+          "Over 50%",
+          "Over 60%",
+          "Over 70%",
+          "Over 80%"
+        ],
+        "answer_index": 1,
+        "explanation": "文中明确提到 over 60%。"
+      }
+    },
+    {
+      "id": "real_sc_00020",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "A recent survey conducted by a leading research institute found that remote work has become the preferred mode of employment for over 60% of professionals. The study, which surveyed 10,000 employees across various industries, revealed that flexibility and work-life balance were the primary reasons cited. However, the survey also highlighted challenges, including feelings of isolation and difficulty separating work from personal life. Companies are now exploring hybrid models that combine remote and in-office work to address these concerns.\n\nWhat was the primary reason given for preferring remote work?",
+        "options": [
+          "Higher salary",
+          "Shorter commute",
+          "Flexibility and work-life balance",
+          "Better technology"
+        ],
+        "answer_index": 2,
+        "explanation": "文中提到 flexibility and work-life balance。"
+      }
+    },
+    {
+      "id": "real_sc_00021",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "A recent survey conducted by a leading research institute found that remote work has become the preferred mode of employment for over 60% of professionals. The study, which surveyed 10,000 employees across various industries, revealed that flexibility and work-life balance were the primary reasons cited. However, the survey also highlighted challenges, including feelings of isolation and difficulty separating work from personal life. Companies are now exploring hybrid models that combine remote and in-office work to address these concerns.\n\nWhat challenge of remote work is mentioned in the passage?",
+        "options": [
+          "Lower productivity",
+          "Feelings of isolation",
+          "Equipment shortages",
+          "Language barriers"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 feelings of isolation。"
+      }
+    },
+    {
+      "id": "real_sc_00022",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2019",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "A recent survey conducted by a leading research institute found that remote work has become the preferred mode of employment for over 60% of professionals. The study, which surveyed 10,000 employees across various industries, revealed that flexibility and work-life balance were the primary reasons cited. However, the survey also highlighted challenges, including feelings of isolation and difficulty separating work from personal life. Companies are now exploring hybrid models that combine remote and in-office work to address these concerns.\n\nHow are companies addressing the challenges of remote work?",
+        "options": [
+          "Eliminating remote work entirely",
+          "Exploring hybrid models",
+          "Increasing office hours",
+          "Reducing salaries"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 exploring hybrid models。"
+      }
+    },
+    {
+      "id": "real_sc_00023",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The book is ___ more interesting than the one I read last week.",
+        "options": [
+          "very",
+          "much",
+          "so",
+          "too"
+        ],
+        "answer_index": 1,
+        "explanation": "修饰比较级用 much。"
+      }
+    },
+    {
+      "id": "real_sc_00024",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "grammar"
+      ],
+      "payload": {
+        "question": "She is the only one of the students who ___ passed the exam.",
+        "options": [
+          "have",
+          "has",
+          "are",
+          "is"
+        ],
+        "answer_index": 1,
+        "explanation": "the only one of 结构中，定语从句谓语与 the only one 一致，用单数 has。"
+      }
+    },
+    {
+      "id": "real_sc_00025",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "grammar"
+      ],
+      "payload": {
+        "question": "No sooner ___ home than it started to rain.",
+        "options": [
+          "I had reached",
+          "had I reached",
+          "I reached",
+          "did I reach"
+        ],
+        "answer_index": 1,
+        "explanation": "No sooner 置于句首，主句部分倒装，用过去完成时 had I reached。"
+      }
+    },
+    {
+      "id": "real_sc_00026",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "grammar"
+      ],
+      "payload": {
+        "question": "She suggested that the meeting ___ to next Monday.",
+        "options": [
+          "postpone",
+          "be postponed",
+          "was postponed",
+          "would postpone"
+        ],
+        "answer_index": 1,
+        "explanation": "suggest 后的宾语从句用虚拟语气 (should) be + 过去分词（被动）。"
+      }
+    },
+    {
+      "id": "real_sc_00027",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The professor, together with his students, ___ attending the conference.",
+        "options": [
+          "are",
+          "is",
+          "were",
+          "have been"
+        ],
+        "answer_index": 1,
+        "explanation": "together with 结构中，谓语与主语 The professor 一致，用单数 is。"
+      }
+    },
+    {
+      "id": "real_wc_00028",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "word": "dying",
+        "phonetic": "/'daiiŋ/",
+        "definitions": [
+          "a. 垂死的\\n[法] 快要死的, 垂死的, 临终的"
+        ],
+        "options": [
+          "行为, 实行, 契约\\nvt. 立契转让",
+          "a. 所谓的, 号称的\\n[法] 所谓的, 据称的",
+          "旋律, 节奏, 韵律, 匀称, 张弛节律\\n[医] 节律",
+          "a. 垂死的\\n[法] 快要死的, 垂死的, 临终的"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_wc_00029",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "word": "faithful",
+        "phonetic": "/'feiθful/",
+        "definitions": [
+          "a. 忠实的, 详确的, 可靠的\\nn. 信徒"
+        ],
+        "options": [
+          "a. 忠实的, 详确的, 可靠的\\nn. 信徒",
+          "产生器, 发电机, 生产者\\n[计] 发生器",
+          "竞赛, 争论\\nvt. 竞争, 争取, 争辩\\nvi. 竞争",
+          "昆虫, 卑鄙的人\\n[医] 昆虫"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_wc_00030",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "word": "implication",
+        "phonetic": "/.impli'keiʃәn/",
+        "definitions": [
+          "牵连, 含义, 暗示\\n[法] 推断, 含蓄之意, 暗示"
+        ],
+        "options": [
+          "a. 户外的, 屋外的, 露天的",
+          "接待, 接受, 招待会\\n[医] 接受, 感受",
+          "公公, 岳父",
+          "牵连, 含义, 暗示\\n[法] 推断, 含蓄之意, 暗示"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_wc_00031",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "word": "cage",
+        "phonetic": "/keidʒ/",
+        "definitions": [
+          "笼, 牢房, 战俘营\\nvt. 关进笼内"
+        ],
+        "options": [
+          "帐, 幕, 窗帘\\nvt. 装帘子于, 遮蔽",
+          "a. 移动的, 易变的, 机动的\\nn. 活动物体",
+          "松鼠, 松鼠毛皮\\nvt. 贮藏",
+          "笼, 牢房, 战俘营\\nvt. 关进笼内"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_wc_00032",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "word": "scientist",
+        "phonetic": "/'saiәntist/",
+        "definitions": [
+          "科学家\\n[医] 科学家"
+        ],
+        "options": [
+          "湿气, 水分, 降雨\\n[化] 含水量; 含湿量",
+          "科学家\\n[医] 科学家",
+          "t. 赶上, 突然降临于, 压倒, 代替",
+          "a. 无法忍受的, 承受不住的"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_dc_00033",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "t. 使适应, 改编\\nvi. 适应",
+        "phonetic_hint": "/ә'dæpt/",
+        "options": [
+          "spacecraft",
+          "symbol",
+          "fibre",
+          "adapt"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_dc_00034",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "虚弱, 薄弱, 弱点\\n[经] 欲振乏力",
+        "phonetic_hint": "/'wi:knis/",
+        "options": [
+          "creature",
+          "dumb",
+          "weakness",
+          "imitate"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_dc_00035",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "便士, 一分, 小钱, 点滴\\n[经] 便士",
+        "phonetic_hint": "/'peni/",
+        "options": [
+          "penny",
+          "depend",
+          "cease",
+          "artistic"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_sf_00036",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "cloze",
+        "cloze_blank_1"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "essential",
+        "options": [
+          "trivial",
+          "essential",
+          "optional",
+          "irrelevant"
+        ],
+        "answer_index": 1,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sf_00037",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "cloze",
+        "cloze_blank_2"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "listening",
+        "options": [
+          "speaking",
+          "listening",
+          "arguing",
+          "ignoring"
+        ],
+        "answer_index": 1,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sf_00038",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "cloze",
+        "cloze_blank_3"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "misunderstanding",
+        "options": [
+          "agreement",
+          "cooperation",
+          "misunderstanding",
+          "harmony"
+        ],
+        "answer_index": 2,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sf_00039",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "cloze",
+        "cloze_blank_4"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "better",
+        "options": [
+          "worse",
+          "better",
+          "less",
+          "rarely"
+        ],
+        "answer_index": 1,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sf_00040",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "cloze",
+        "cloze_blank_5"
+      ],
+      "payload": {
+        "sentence": "The art of communication is ___ in both personal and professional life. Effective communication requires not only speaking clearly but also ___ attentively. Many conflicts arise from ___, which can lead to resentment and damaged relationships. By practicing active listening, we can ___ understand others' perspectives and build stronger ___ with those around us.",
+        "answer": "connections",
+        "options": [
+          "barriers",
+          "connections",
+          "conflicts",
+          "distances"
+        ],
+        "answer_index": 1,
+        "translation": "沟通的艺术在个人和职业生活中都至关重要。有效沟通不仅需要清晰表达，还需要认真倾听。许多冲突源于误解。通过积极倾听，我们能更好地理解他人视角，建立更牢固的联系。"
+      }
+    },
+    {
+      "id": "real_sc_00041",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "A recent survey conducted by a leading research institute found that remote work has become the preferred mode of employment for over 60% of professionals. The study, which surveyed 10,000 employees across various industries, revealed that flexibility and work-life balance were the primary reasons cited. However, the survey also highlighted challenges, including feelings of isolation and difficulty separating work from personal life. Companies are now exploring hybrid models that combine remote and in-office work to address these concerns.\n\nWhat percentage of professionals prefer remote work according to the survey?",
+        "options": [
+          "Over 50%",
+          "Over 60%",
+          "Over 70%",
+          "Over 80%"
+        ],
+        "answer_index": 1,
+        "explanation": "文中明确提到 over 60%。"
+      }
+    },
+    {
+      "id": "real_sc_00042",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "A recent survey conducted by a leading research institute found that remote work has become the preferred mode of employment for over 60% of professionals. The study, which surveyed 10,000 employees across various industries, revealed that flexibility and work-life balance were the primary reasons cited. However, the survey also highlighted challenges, including feelings of isolation and difficulty separating work from personal life. Companies are now exploring hybrid models that combine remote and in-office work to address these concerns.\n\nWhat was the primary reason given for preferring remote work?",
+        "options": [
+          "Higher salary",
+          "Shorter commute",
+          "Flexibility and work-life balance",
+          "Better technology"
+        ],
+        "answer_index": 2,
+        "explanation": "文中提到 flexibility and work-life balance。"
+      }
+    },
+    {
+      "id": "real_sc_00043",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "A recent survey conducted by a leading research institute found that remote work has become the preferred mode of employment for over 60% of professionals. The study, which surveyed 10,000 employees across various industries, revealed that flexibility and work-life balance were the primary reasons cited. However, the survey also highlighted challenges, including feelings of isolation and difficulty separating work from personal life. Companies are now exploring hybrid models that combine remote and in-office work to address these concerns.\n\nWhat challenge of remote work is mentioned in the passage?",
+        "options": [
+          "Lower productivity",
+          "Feelings of isolation",
+          "Equipment shortages",
+          "Language barriers"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 feelings of isolation。"
+      }
+    },
+    {
+      "id": "real_sc_00044",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2020",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "A recent survey conducted by a leading research institute found that remote work has become the preferred mode of employment for over 60% of professionals. The study, which surveyed 10,000 employees across various industries, revealed that flexibility and work-life balance were the primary reasons cited. However, the survey also highlighted challenges, including feelings of isolation and difficulty separating work from personal life. Companies are now exploring hybrid models that combine remote and in-office work to address these concerns.\n\nHow are companies addressing the challenges of remote work?",
+        "options": [
+          "Eliminating remote work entirely",
+          "Exploring hybrid models",
+          "Increasing office hours",
+          "Reducing salaries"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 exploring hybrid models。"
+      }
+    },
+    {
+      "id": "real_sc_00045",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The book is ___ more interesting than the one I read last week.",
+        "options": [
+          "very",
+          "much",
+          "so",
+          "too"
+        ],
+        "answer_index": 1,
+        "explanation": "修饰比较级用 much。"
+      }
+    },
+    {
+      "id": "real_sc_00046",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "grammar"
+      ],
+      "payload": {
+        "question": "___ the rain, we would have gone for a picnic.",
+        "options": [
+          "But for",
+          "Due to",
+          "Thanks to",
+          "Because of"
+        ],
+        "answer_index": 0,
+        "explanation": "But for = 要不是因为，引导虚拟语气。"
+      }
+    },
+    {
+      "id": "real_sc_00047",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The professor, together with his students, ___ attending the conference.",
+        "options": [
+          "are",
+          "is",
+          "were",
+          "have been"
+        ],
+        "answer_index": 1,
+        "explanation": "together with 结构中，谓语与主语 The professor 一致，用单数 is。"
+      }
+    },
+    {
+      "id": "real_sc_00048",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The number of people applying for the job ___ increasing.",
+        "options": [
+          "are",
+          "is",
+          "have been",
+          "were"
+        ],
+        "answer_index": 1,
+        "explanation": "the number of 后谓语用单数 is。"
+      }
+    },
+    {
+      "id": "real_sc_00049",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "grammar"
+      ],
+      "payload": {
+        "question": "___ in 1949, the university has a long history.",
+        "options": [
+          "Founding",
+          "Founded",
+          "To found",
+          "Having founded"
+        ],
+        "answer_index": 1,
+        "explanation": "大学是被建立的，用过去分词 Founded。"
+      }
+    },
+    {
+      "id": "real_wc_00050",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "word": "measurement",
+        "phonetic": "/'meʒәdmәnt/",
+        "definitions": [
+          "尺寸, 度量, 度量单位\\n[计] 度量, 度量单位"
+        ],
+        "options": [
+          "尺寸, 度量, 度量单位\\n[计] 度量, 度量单位",
+          "a. 不管, 不注意, 不顾",
+          "白昼, 日光\\nvt. 使沐浴于日光\\nvi. 享有日光",
+          "t. 评估, 评价, 赋值"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_wc_00051",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "word": "enable",
+        "phonetic": "/i'neibl/",
+        "definitions": [
+          "t. 使能够\\n[计] 允许, 使能, 打开"
+        ],
+        "options": [
+          "t. 使能够\\n[计] 允许, 使能, 打开",
+          "钢盔, 盔, 防护帽\\nvt. 给...戴头盔",
+          "军队\\na. 军事的, 军人的, 适于战争的",
+          "i. 保持, 逗留, 剩余\\n[法] 停留, 居住, 继续"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_wc_00052",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "word": "sack",
+        "phonetic": "/sæk/",
+        "definitions": [
+          "麻布袋, 洗劫\\nvt. 把...装入袋, 洗劫"
+        ],
+        "options": [
+          "麻布袋, 洗劫\\nvt. 把...装入袋, 洗劫",
+          "汽车\\n[机] 汽车",
+          "醋, 尖酸刻薄\\nvt. 加醋于",
+          "目的, 缘故, 理由"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_wc_00053",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "word": "autobiography",
+        "phonetic": "/.ɒ:tәubai'ɒgrәfi/",
+        "definitions": [
+          "自传"
+        ],
+        "options": [
+          "障碍, 栅栏\\n[化] 势垒; 阻片; 阻挡层",
+          "a. 内部的, 内心的\\nn. 内部",
+          "预防, 防止, 阻止, 妨碍",
+          "自传"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_wc_00054",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "word": "removal",
+        "phonetic": "/ri'mu:vl/",
+        "definitions": [
+          "移动, 移居, 迁移, 排除, 切除\\n[医] 切除, 除去"
+        ],
+        "options": [
+          "部, 内阁, 服务\\n[经] 部",
+          "移动, 移居, 迁移, 排除, 切除\\n[医] 切除, 除去",
+          "坚持, 坚决主张, 强调",
+          "托儿所, 苗圃, 温床\\n[医] 婴儿室, 托儿所"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_dc_00055",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "代表\\nvt. 委派...为代表",
+        "phonetic_hint": "/'deligeit/",
+        "options": [
+          "duty",
+          "delegate",
+          "dialect",
+          "drawing"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_dc_00056",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "民主政治, 民主主义\\n[法] 民主, 民主政治, 民主政体",
+        "phonetic_hint": "/di'mɒkrәsi/",
+        "options": [
+          "synthetic",
+          "necessarily",
+          "democracy",
+          "frown"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_dc_00057",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "t. 混合\\nn. 混合",
+        "phonetic_hint": "/blend/",
+        "options": [
+          "blend",
+          "minister",
+          "communicate",
+          "helpless"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_sf_00058",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "cloze",
+        "cloze_blank_1"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "transforming",
+        "options": [
+          "destroying",
+          "transforming",
+          "ignoring",
+          "delaying"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sf_00059",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "cloze",
+        "cloze_blank_2"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "commonplace",
+        "options": [
+          "rare",
+          "commonplace",
+          "impossible",
+          "expensive"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sf_00060",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "cloze",
+        "cloze_blank_3"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "replace",
+        "options": [
+          "create",
+          "replace",
+          "improve",
+          "protect"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sf_00061",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "cloze",
+        "cloze_blank_4"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "opportunities",
+        "options": [
+          "problems",
+          "opportunities",
+          "threats",
+          "obstacles"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sf_00062",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "cloze",
+        "cloze_blank_5"
+      ],
+      "payload": {
+        "sentence": "Artificial intelligence is ___ the way we live and work. From voice assistants to self-driving cars, AI technologies have become ___ in our daily lives. While some people worry that AI will ___ human jobs, others believe it will create new ___. The key is to ___ AI as a tool to enhance human capabilities rather than replace them.",
+        "answer": "embrace",
+        "options": [
+          "reject",
+          "embrace",
+          "ignore",
+          "fear"
+        ],
+        "answer_index": 1,
+        "translation": "人工智能正在改变我们的生活和工作方式。从语音助手到自动驾驶汽车，AI 技术已变得司空见惯。虽然有人担心 AI 会取代人类工作，但也有人认为它会创造新机会。关键是将 AI 作为增强人类能力的工具。"
+      }
+    },
+    {
+      "id": "real_sc_00063",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "A recent survey conducted by a leading research institute found that remote work has become the preferred mode of employment for over 60% of professionals. The study, which surveyed 10,000 employees across various industries, revealed that flexibility and work-life balance were the primary reasons cited. However, the survey also highlighted challenges, including feelings of isolation and difficulty separating work from personal life. Companies are now exploring hybrid models that combine remote and in-office work to address these concerns.\n\nWhat percentage of professionals prefer remote work according to the survey?",
+        "options": [
+          "Over 50%",
+          "Over 60%",
+          "Over 70%",
+          "Over 80%"
+        ],
+        "answer_index": 1,
+        "explanation": "文中明确提到 over 60%。"
+      }
+    },
+    {
+      "id": "real_sc_00064",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "A recent survey conducted by a leading research institute found that remote work has become the preferred mode of employment for over 60% of professionals. The study, which surveyed 10,000 employees across various industries, revealed that flexibility and work-life balance were the primary reasons cited. However, the survey also highlighted challenges, including feelings of isolation and difficulty separating work from personal life. Companies are now exploring hybrid models that combine remote and in-office work to address these concerns.\n\nWhat was the primary reason given for preferring remote work?",
+        "options": [
+          "Higher salary",
+          "Shorter commute",
+          "Flexibility and work-life balance",
+          "Better technology"
+        ],
+        "answer_index": 2,
+        "explanation": "文中提到 flexibility and work-life balance。"
+      }
+    },
+    {
+      "id": "real_sc_00065",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "A recent survey conducted by a leading research institute found that remote work has become the preferred mode of employment for over 60% of professionals. The study, which surveyed 10,000 employees across various industries, revealed that flexibility and work-life balance were the primary reasons cited. However, the survey also highlighted challenges, including feelings of isolation and difficulty separating work from personal life. Companies are now exploring hybrid models that combine remote and in-office work to address these concerns.\n\nWhat challenge of remote work is mentioned in the passage?",
+        "options": [
+          "Lower productivity",
+          "Feelings of isolation",
+          "Equipment shortages",
+          "Language barriers"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 feelings of isolation。"
+      }
+    },
+    {
+      "id": "real_sc_00066",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2021",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "A recent survey conducted by a leading research institute found that remote work has become the preferred mode of employment for over 60% of professionals. The study, which surveyed 10,000 employees across various industries, revealed that flexibility and work-life balance were the primary reasons cited. However, the survey also highlighted challenges, including feelings of isolation and difficulty separating work from personal life. Companies are now exploring hybrid models that combine remote and in-office work to address these concerns.\n\nHow are companies addressing the challenges of remote work?",
+        "options": [
+          "Eliminating remote work entirely",
+          "Exploring hybrid models",
+          "Increasing office hours",
+          "Reducing salaries"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 exploring hybrid models。"
+      }
+    },
+    {
+      "id": "real_sc_00067",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The professor, together with his students, ___ attending the conference.",
+        "options": [
+          "are",
+          "is",
+          "were",
+          "have been"
+        ],
+        "answer_index": 1,
+        "explanation": "together with 结构中，谓语与主语 The professor 一致，用单数 is。"
+      }
+    },
+    {
+      "id": "real_sc_00068",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "grammar"
+      ],
+      "payload": {
+        "question": "It is high time that we ___ measures to protect the environment.",
+        "options": [
+          "take",
+          "took",
+          "will take",
+          "have taken"
+        ],
+        "answer_index": 1,
+        "explanation": "It is high time 后的从句用过去时表虚拟。"
+      }
+    },
+    {
+      "id": "real_sc_00069",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "grammar"
+      ],
+      "payload": {
+        "question": "She suggested that the meeting ___ to next Monday.",
+        "options": [
+          "postpone",
+          "be postponed",
+          "was postponed",
+          "would postpone"
+        ],
+        "answer_index": 1,
+        "explanation": "suggest 后的宾语从句用虚拟语气 (should) be + 过去分词（被动）。"
+      }
+    },
+    {
+      "id": "real_sc_00070",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The number of people applying for the job ___ increasing.",
+        "options": [
+          "are",
+          "is",
+          "have been",
+          "were"
+        ],
+        "answer_index": 1,
+        "explanation": "the number of 后谓语用单数 is。"
+      }
+    },
+    {
+      "id": "real_sc_00071",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The reason ___ he was late was ___ he missed the bus.",
+        "options": [
+          "why; because",
+          "why; that",
+          "that; because",
+          "which; that"
+        ],
+        "answer_index": 1,
+        "explanation": "The reason why... was that... 为固定句型。"
+      }
+    },
+    {
+      "id": "real_wc_00072",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "word": "succeed",
+        "phonetic": "/sәk'si:d/",
+        "definitions": [
+          "i. 成功, 继承, 继续\\nvt. 继承, 接替"
+        ],
+        "options": [
+          "i. 成功, 继承, 继续\\nvt. 继承, 接替",
+          "轻蔑, 藐视, 嘲笑, 被嘲弄的人\\nvt. 轻蔑, 不屑做",
+          "少数, 一把, 棘手事",
+          "a. 真正的, 真实的, 诚恳的\\n[医] 真性的"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_wc_00073",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "word": "coat",
+        "phonetic": "/kәut/",
+        "definitions": [
+          "外套\\nvt. 外面覆盖, 给...穿外套"
+        ],
+        "options": [
+          "外套\\nvt. 外面覆盖, 给...穿外套",
+          "大教堂",
+          "秘密, 神秘, 奥秘",
+          "脑\\nvt. 打碎脑部"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_wc_00074",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "word": "sketch",
+        "phonetic": "/sketʃ/",
+        "definitions": [
+          "素描, 草图, 小品\\nv. 描绘略图, 画素描或速写"
+        ],
+        "options": [
+          "户外, 野外活动\\nadv. 在户外, 在野外",
+          "事实, 真实性, 真相, 细节, 论据",
+          "素描, 草图, 小品\\nv. 描绘略图, 画素描或速写",
+          "颚, 颌\\nv. 闲谈, 教训, 唠叨"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_wc_00075",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "word": "positive",
+        "phonetic": "/'pɒzitiv/",
+        "definitions": [
+          "a. 肯定的, 积极的, 有把握的\\n[医] 正的, 阳性的"
+        ],
+        "options": [
+          "蜜蜂, 聚会",
+          "程序, 过程, 手续\\n[计] 规程; 过程",
+          "a. 想像的, 虚构的, 假想的",
+          "a. 肯定的, 积极的, 有把握的\\n[医] 正的, 阳性的"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_wc_00076",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "word": "examination",
+        "phonetic": "/ig.zæmi'neiʃәn/",
+        "definitions": [
+          "考试, 测验, 审查\\n[医] 检查, 诊察"
+        ],
+        "options": [
+          "手套\\nvt. 给...戴手套",
+          "楼梯, 梯子, 楼梯部分\\n[医] 阶梯现象",
+          "滚筒, 滚轴, 压路机\\n[化] 滚柱; 托辊",
+          "考试, 测验, 审查\\n[医] 检查, 诊察"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_dc_00077",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "灰, 灰烬\\n[化] 灰分",
+        "phonetic_hint": "/æʃ/",
+        "options": [
+          "indispensable",
+          "ash",
+          "intelligence",
+          "later"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_dc_00078",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "海港, 港口城市",
+        "phonetic_hint": "/'si:pɒ:t/",
+        "options": [
+          "seaport",
+          "sudden",
+          "despite",
+          "belong"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_dc_00079",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "a. 相互的, 共有的\\n[经] 相互的",
+        "phonetic_hint": "/'mju:tʃuәl/",
+        "options": [
+          "frequently",
+          "curse",
+          "mutual",
+          "metre"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_sf_00080",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "cloze",
+        "cloze_blank_1"
+      ],
+      "payload": {
+        "sentence": "Reading is one of the most ___ habits a person can develop. It not only ___ knowledge but also improves vocabulary and critical thinking. Studies have shown that people who read ___ tend to have better cognitive function in later life. ___ the rise of digital media, many people have shifted to reading on screens, but the ___ of a good book remains unchanged.",
+        "answer": "beneficial",
+        "options": [
+          "harmful",
+          "beneficial",
+          "useless",
+          "trivial"
+        ],
+        "answer_index": 1,
+        "translation": "阅读是一个人能培养的最有益的习惯之一。它不仅扩展知识，还改善词汇和批判性思维。研究表明，经常阅读的人晚年认知功能更好。尽管数字媒体兴起，好书的价值不变。"
+      }
+    },
+    {
+      "id": "real_sf_00081",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "cloze",
+        "cloze_blank_2"
+      ],
+      "payload": {
+        "sentence": "Reading is one of the most ___ habits a person can develop. It not only ___ knowledge but also improves vocabulary and critical thinking. Studies have shown that people who read ___ tend to have better cognitive function in later life. ___ the rise of digital media, many people have shifted to reading on screens, but the ___ of a good book remains unchanged.",
+        "answer": "expands",
+        "options": [
+          "limits",
+          "expands",
+          "reduces",
+          "ignores"
+        ],
+        "answer_index": 1,
+        "translation": "阅读是一个人能培养的最有益的习惯之一。它不仅扩展知识，还改善词汇和批判性思维。研究表明，经常阅读的人晚年认知功能更好。尽管数字媒体兴起，好书的价值不变。"
+      }
+    },
+    {
+      "id": "real_sf_00082",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "cloze",
+        "cloze_blank_3"
+      ],
+      "payload": {
+        "sentence": "Reading is one of the most ___ habits a person can develop. It not only ___ knowledge but also improves vocabulary and critical thinking. Studies have shown that people who read ___ tend to have better cognitive function in later life. ___ the rise of digital media, many people have shifted to reading on screens, but the ___ of a good book remains unchanged.",
+        "answer": "regularly",
+        "options": [
+          "rarely",
+          "regularly",
+          "never",
+          "reluctantly"
+        ],
+        "answer_index": 1,
+        "translation": "阅读是一个人能培养的最有益的习惯之一。它不仅扩展知识，还改善词汇和批判性思维。研究表明，经常阅读的人晚年认知功能更好。尽管数字媒体兴起，好书的价值不变。"
+      }
+    },
+    {
+      "id": "real_sf_00083",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "cloze",
+        "cloze_blank_4"
+      ],
+      "payload": {
+        "sentence": "Reading is one of the most ___ habits a person can develop. It not only ___ knowledge but also improves vocabulary and critical thinking. Studies have shown that people who read ___ tend to have better cognitive function in later life. ___ the rise of digital media, many people have shifted to reading on screens, but the ___ of a good book remains unchanged.",
+        "answer": "Despite",
+        "options": [
+          "Despite",
+          "Because",
+          "Since",
+          "Although"
+        ],
+        "answer_index": 0,
+        "translation": "阅读是一个人能培养的最有益的习惯之一。它不仅扩展知识，还改善词汇和批判性思维。研究表明，经常阅读的人晚年认知功能更好。尽管数字媒体兴起，好书的价值不变。"
+      }
+    },
+    {
+      "id": "real_sf_00084",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "cloze",
+        "cloze_blank_5"
+      ],
+      "payload": {
+        "sentence": "Reading is one of the most ___ habits a person can develop. It not only ___ knowledge but also improves vocabulary and critical thinking. Studies have shown that people who read ___ tend to have better cognitive function in later life. ___ the rise of digital media, many people have shifted to reading on screens, but the ___ of a good book remains unchanged.",
+        "answer": "value",
+        "options": [
+          "cost",
+          "value",
+          "weight",
+          "size"
+        ],
+        "answer_index": 1,
+        "translation": "阅读是一个人能培养的最有益的习惯之一。它不仅扩展知识，还改善词汇和批判性思维。研究表明，经常阅读的人晚年认知功能更好。尽管数字媒体兴起，好书的价值不变。"
+      }
+    },
+    {
+      "id": "real_sc_00085",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Mental health awareness has grown significantly in recent years, with more people openly discussing issues that were once considered taboo. Workplace stress, anxiety, and depression affect millions of individuals worldwide. In response, many companies have implemented employee wellness programs that include counseling services, meditation sessions, and flexible work arrangements. Mental health professionals emphasize that seeking help is a sign of strength, not weakness. They also stress the importance of maintaining a healthy work-life balance, getting adequate sleep, and engaging in regular physical activity as preventive measures.\n\nHow has mental health awareness changed in recent years?",
+        "options": [
+          "It has decreased",
+          "It has grown significantly",
+          "It has remained the same",
+          "It has been ignored"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 has grown significantly。"
+      }
+    },
+    {
+      "id": "real_sc_00086",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Mental health awareness has grown significantly in recent years, with more people openly discussing issues that were once considered taboo. Workplace stress, anxiety, and depression affect millions of individuals worldwide. In response, many companies have implemented employee wellness programs that include counseling services, meditation sessions, and flexible work arrangements. Mental health professionals emphasize that seeking help is a sign of strength, not weakness. They also stress the importance of maintaining a healthy work-life balance, getting adequate sleep, and engaging in regular physical activity as preventive measures.\n\nWhat have companies implemented in response to mental health concerns?",
+        "options": [
+          "Mandatory overtime",
+          "Employee wellness programs",
+          "Stricter performance reviews",
+          "Reduced vacation time"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 employee wellness programs。"
+      }
+    },
+    {
+      "id": "real_sc_00087",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Mental health awareness has grown significantly in recent years, with more people openly discussing issues that were once considered taboo. Workplace stress, anxiety, and depression affect millions of individuals worldwide. In response, many companies have implemented employee wellness programs that include counseling services, meditation sessions, and flexible work arrangements. Mental health professionals emphasize that seeking help is a sign of strength, not weakness. They also stress the importance of maintaining a healthy work-life balance, getting adequate sleep, and engaging in regular physical activity as preventive measures.\n\nWhat do mental health professionals say about seeking help?",
+        "options": [
+          "It is a sign of weakness",
+          "It should be avoided",
+          "It is a sign of strength",
+          "It is unnecessary"
+        ],
+        "answer_index": 2,
+        "explanation": "文中提到 seeking help is a sign of strength, not weakness。"
+      }
+    },
+    {
+      "id": "real_sc_00088",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2022",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "Mental health awareness has grown significantly in recent years, with more people openly discussing issues that were once considered taboo. Workplace stress, anxiety, and depression affect millions of individuals worldwide. In response, many companies have implemented employee wellness programs that include counseling services, meditation sessions, and flexible work arrangements. Mental health professionals emphasize that seeking help is a sign of strength, not weakness. They also stress the importance of maintaining a healthy work-life balance, getting adequate sleep, and engaging in regular physical activity as preventive measures.\n\nWhich of the following is mentioned as a preventive measure?",
+        "options": [
+          "Taking medication",
+          "Regular physical activity",
+          "Avoiding social interaction",
+          "Working longer hours"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 regular physical activity as preventive measures。"
+      }
+    },
+    {
+      "id": "real_sc_00089",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "grammar"
+      ],
+      "payload": {
+        "question": "___ in 1949, the university has a long history.",
+        "options": [
+          "Founding",
+          "Founded",
+          "To found",
+          "Having founded"
+        ],
+        "answer_index": 1,
+        "explanation": "大学是被建立的，用过去分词 Founded。"
+      }
+    },
+    {
+      "id": "real_sc_00090",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The professor, together with his students, ___ attending the conference.",
+        "options": [
+          "are",
+          "is",
+          "were",
+          "have been"
+        ],
+        "answer_index": 1,
+        "explanation": "together with 结构中，谓语与主语 The professor 一致，用单数 is。"
+      }
+    },
+    {
+      "id": "real_sc_00091",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "grammar"
+      ],
+      "payload": {
+        "question": "It is high time that we ___ measures to protect the environment.",
+        "options": [
+          "take",
+          "took",
+          "will take",
+          "have taken"
+        ],
+        "answer_index": 1,
+        "explanation": "It is high time 后的从句用过去时表虚拟。"
+      }
+    },
+    {
+      "id": "real_sc_00092",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "grammar"
+      ],
+      "payload": {
+        "question": "The reason ___ he was late was ___ he missed the bus.",
+        "options": [
+          "why; because",
+          "why; that",
+          "that; because",
+          "which; that"
+        ],
+        "answer_index": 1,
+        "explanation": "The reason why... was that... 为固定句型。"
+      }
+    },
+    {
+      "id": "real_sc_00093",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "grammar"
+      ],
+      "payload": {
+        "question": "___ the rain, we would have gone for a picnic.",
+        "options": [
+          "But for",
+          "Due to",
+          "Thanks to",
+          "Because of"
+        ],
+        "answer_index": 0,
+        "explanation": "But for = 要不是因为，引导虚拟语气。"
+      }
+    },
+    {
+      "id": "real_wc_00094",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "word": "capacity",
+        "phonetic": "/kә'pæsiti/",
+        "definitions": [
+          "容量, 能力, 才能, 资格\\n[计] 容量"
+        ],
+        "options": [
+          "转变, 转换, 改变宗教信仰, 换位法\\n[计] 转换",
+          "容量, 能力, 才能, 资格\\n[计] 容量",
+          "美, 美人",
+          "确定, 确实的事情\\n[法] 确定, 肯定, 必然的事"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_wc_00095",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "word": "unfortunately",
+        "phonetic": "/ʌn'fɔ:tjjnәtli/",
+        "definitions": [
+          "恐怕, 不幸的是"
+        ],
+        "options": [
+          "摩擦, 摩擦治疗, 不和\\n[医] 摩擦",
+          "a. 好奇的, 求知的, 古怪的",
+          "恐怕, 不幸的是",
+          "a. 痛苦的, 困难的, 令人烦恼的\\n[医] 疼痛的"
+        ],
+        "answer_index": 2
+      }
+    },
+    {
+      "id": "real_wc_00096",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "word": "moreover",
+        "phonetic": "/mɒ:'әuvә/",
+        "definitions": [
+          "而且, 此外"
+        ],
+        "options": [
+          "领导能力, 领导阶层",
+          "而且, 此外",
+          "森林, 林区\\nvt. 植树于",
+          "必然地, 必须地, 必要地"
+        ],
+        "answer_index": 1
+      }
+    },
+    {
+      "id": "real_wc_00097",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "word": "pollution",
+        "phonetic": "/pә'lu:ʃәn/",
+        "definitions": [
+          "污染, 玷污\\n[化] 污染"
+        ],
+        "options": [
+          "污染, 玷污\\n[化] 污染",
+          "洗头, 洗发剂\\nvt. 洗头, 洗发",
+          "分\\n[经] 美分",
+          "蚂蚁"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_wc_00098",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "word": "cubic",
+        "phonetic": "/'kju:bik/",
+        "definitions": [
+          "a. 立方体的, 立方的\\n[机] 立方的, 立方体的"
+        ],
+        "options": [
+          "a. 立方体的, 立方的\\n[机] 立方的, 立方体的",
+          "t. 建立, 创立, 铸造\\nfind的过去式和过去分词",
+          "先令\\n[经] 先令",
+          "钉子, 指甲\\nvt. 用钉钉牢, 使固定, 截住, 揭露"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_dc_00099",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "向外地",
+        "phonetic_hint": "/'autwәdz/",
+        "options": [
+          "grandmother",
+          "mistress",
+          "deed",
+          "outwards"
+        ],
+        "answer_index": 3
+      }
+    },
+    {
+      "id": "real_dc_00100",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "t. 使惊讶",
+        "phonetic_hint": "/ә'stɒniʃ/",
+        "options": [
+          "astonish",
+          "rumour",
+          "exciting",
+          "eagle"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_dc_00101",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "vocab"
+      ],
+      "payload": {
+        "definition": "i. 发生, 被想到, 存在",
+        "phonetic_hint": "/ә'kә:/",
+        "options": [
+          "occur",
+          "soap",
+          "joyful",
+          "clerk"
+        ],
+        "answer_index": 0
+      }
+    },
+    {
+      "id": "real_sf_00102",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "cloze",
+        "cloze_blank_1"
+      ],
+      "payload": {
+        "sentence": "In recent years, online education has become increasingly ___. Many students prefer taking courses on the Internet ___ attending traditional classes. This trend has been ___ by advances in technology and the widespread use of smartphones. However, some educators argue that face-to-face interaction is ___ for effective learning. They believe that students who study online may miss out on valuable ___ experiences. Despite these concerns, the flexibility and convenience of online education continue to ___ millions of learners worldwide.",
+        "answer": "popular",
+        "options": [
+          "popular",
+          "boring",
+          "expensive",
+          "dangerous"
+        ],
+        "answer_index": 0,
+        "translation": "近年来，在线教育变得越来越受欢迎。许多学生更喜欢在网上上课而不是参加传统课堂。这一趋势被技术进步和智能手机的广泛使用所加速。然而，一些教育者认为面对面交流对有效学习至关重要。"
+      }
+    },
+    {
+      "id": "real_sf_00103",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "cloze",
+        "cloze_blank_2"
+      ],
+      "payload": {
+        "sentence": "In recent years, online education has become increasingly ___. Many students prefer taking courses on the Internet ___ attending traditional classes. This trend has been ___ by advances in technology and the widespread use of smartphones. However, some educators argue that face-to-face interaction is ___ for effective learning. They believe that students who study online may miss out on valuable ___ experiences. Despite these concerns, the flexibility and convenience of online education continue to ___ millions of learners worldwide.",
+        "answer": "instead of",
+        "options": [
+          "because of",
+          "instead of",
+          "in spite of",
+          "apart from"
+        ],
+        "answer_index": 1,
+        "translation": "近年来，在线教育变得越来越受欢迎。许多学生更喜欢在网上上课而不是参加传统课堂。这一趋势被技术进步和智能手机的广泛使用所加速。然而，一些教育者认为面对面交流对有效学习至关重要。"
+      }
+    },
+    {
+      "id": "real_sf_00104",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "cloze",
+        "cloze_blank_3"
+      ],
+      "payload": {
+        "sentence": "In recent years, online education has become increasingly ___. Many students prefer taking courses on the Internet ___ attending traditional classes. This trend has been ___ by advances in technology and the widespread use of smartphones. However, some educators argue that face-to-face interaction is ___ for effective learning. They believe that students who study online may miss out on valuable ___ experiences. Despite these concerns, the flexibility and convenience of online education continue to ___ millions of learners worldwide.",
+        "answer": "accelerated",
+        "options": [
+          "accelerated",
+          "stopped",
+          "ignored",
+          "delayed"
+        ],
+        "answer_index": 0,
+        "translation": "近年来，在线教育变得越来越受欢迎。许多学生更喜欢在网上上课而不是参加传统课堂。这一趋势被技术进步和智能手机的广泛使用所加速。然而，一些教育者认为面对面交流对有效学习至关重要。"
+      }
+    },
+    {
+      "id": "real_sf_00105",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "cloze",
+        "cloze_blank_4"
+      ],
+      "payload": {
+        "sentence": "In recent years, online education has become increasingly ___. Many students prefer taking courses on the Internet ___ attending traditional classes. This trend has been ___ by advances in technology and the widespread use of smartphones. However, some educators argue that face-to-face interaction is ___ for effective learning. They believe that students who study online may miss out on valuable ___ experiences. Despite these concerns, the flexibility and convenience of online education continue to ___ millions of learners worldwide.",
+        "answer": "essential",
+        "options": [
+          "unnecessary",
+          "optional",
+          "essential",
+          "impossible"
+        ],
+        "answer_index": 2,
+        "translation": "近年来，在线教育变得越来越受欢迎。许多学生更喜欢在网上上课而不是参加传统课堂。这一趋势被技术进步和智能手机的广泛使用所加速。然而，一些教育者认为面对面交流对有效学习至关重要。"
+      }
+    },
+    {
+      "id": "real_sf_00106",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "cloze",
+        "cloze_blank_5"
+      ],
+      "payload": {
+        "sentence": "In recent years, online education has become increasingly ___. Many students prefer taking courses on the Internet ___ attending traditional classes. This trend has been ___ by advances in technology and the widespread use of smartphones. However, some educators argue that face-to-face interaction is ___ for effective learning. They believe that students who study online may miss out on valuable ___ experiences. Despite these concerns, the flexibility and convenience of online education continue to ___ millions of learners worldwide.",
+        "answer": "attract",
+        "options": [
+          "repel",
+          "attract",
+          "discourage",
+          "prevent"
+        ],
+        "answer_index": 1,
+        "translation": "近年来，在线教育变得越来越受欢迎。许多学生更喜欢在网上上课而不是参加传统课堂。这一趋势被技术进步和智能手机的广泛使用所加速。然而，一些教育者认为面对面交流对有效学习至关重要。"
+      }
+    },
+    {
+      "id": "real_sc_00107",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "The concept of lifelong learning has gained significant traction in recent years. With rapid technological advancements rendering certain skills obsolete, professionals are increasingly returning to education to stay competitive. Online platforms have made this easier than ever, offering courses from top universities at little or no cost. Experts emphasize that the ability to learn continuously is now as important as formal qualifications. In fact, some employers now value demonstrable skills and adaptability over traditional degrees.\n\nWhy has lifelong learning become more important?",
+        "options": [
+          "Technology makes certain skills obsolete",
+          "Universities are closing",
+          "Degrees are no longer recognized",
+          "Jobs are disappearing entirely"
+        ],
+        "answer_index": 0,
+        "explanation": "文中提到 rapid technological advancements rendering certain skills obsolete。"
+      }
+    },
+    {
+      "id": "real_sc_00108",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "The concept of lifelong learning has gained significant traction in recent years. With rapid technological advancements rendering certain skills obsolete, professionals are increasingly returning to education to stay competitive. Online platforms have made this easier than ever, offering courses from top universities at little or no cost. Experts emphasize that the ability to learn continuously is now as important as formal qualifications. In fact, some employers now value demonstrable skills and adaptability over traditional degrees.\n\nWhat has made lifelong learning easier?",
+        "options": [
+          "Government subsidies",
+          "Online platforms",
+          "Free textbooks",
+          "Employer mandates"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 Online platforms。"
+      }
+    },
+    {
+      "id": "real_sc_00109",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "The concept of lifelong learning has gained significant traction in recent years. With rapid technological advancements rendering certain skills obsolete, professionals are increasingly returning to education to stay competitive. Online platforms have made this easier than ever, offering courses from top universities at little or no cost. Experts emphasize that the ability to learn continuously is now as important as formal qualifications. In fact, some employers now value demonstrable skills and adaptability over traditional degrees.\n\nWhat do some employers now value over traditional degrees?",
+        "options": [
+          "Age and experience",
+          "Demonstrable skills and adaptability",
+          "Geographic location",
+          "Previous salary"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 value demonstrable skills and adaptability over traditional degrees。"
+      }
+    },
+    {
+      "id": "real_sc_00110",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": [
+        "real_2023",
+        "reading",
+        "reading"
+      ],
+      "payload": {
+        "question": "The concept of lifelong learning has gained significant traction in recent years. With rapid technological advancements rendering certain skills obsolete, professionals are increasingly returning to education to stay competitive. Online platforms have made this easier than ever, offering courses from top universities at little or no cost. Experts emphasize that the ability to learn continuously is now as important as formal qualifications. In fact, some employers now value demonstrable skills and adaptability over traditional degrees.\n\nAccording to the passage, what is now as important as formal qualifications?",
+        "options": [
+          "Work experience",
+          "The ability to learn continuously",
+          "Personal connections",
+          "Physical fitness"
+        ],
+        "answer_index": 1,
+        "explanation": "文中提到 the ability to learn continuously is now as important。"
+      }
+    }
+  ]
+}
