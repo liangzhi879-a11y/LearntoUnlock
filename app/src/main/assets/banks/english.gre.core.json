@@ -1,0 +1,1376 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "bank_id": "english.gre.core",
+    "subject": "english",
+    "category": "gre",
+    "name": "GRE 核心词汇",
+    "name_en": "GRE Core Vocabulary",
+    "cefr_level": "C2",
+    "total_items": 60,
+    "source": "GRE 官方指南 + 历年真题整理",
+    "license": "CC-BY-SA 4.0",
+    "updated_at": "2026-07-05"
+  },
+  "items": [
+    {
+      "id": "gre_wc_0001",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "vocabulary",
+        "verb"
+      ],
+      "payload": {
+        "word": "abate",
+        "phonetic": "/əˈbeɪt/",
+        "pos": "v.",
+        "definitions": [
+          "减弱",
+          "减少"
+        ],
+        "options": [
+          "增强",
+          "减弱",
+          "消除",
+          "终止"
+        ],
+        "answer_index": 1,
+        "example": "The storm finally abated after midnight.",
+        "example_translation": "风暴在午夜后终于减弱了。"
+      }
+    },
+    {
+      "id": "gre_wc_0002",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "abject",
+        "phonetic": "/ˈæbdʒekt/",
+        "pos": "adj.",
+        "definitions": [
+          "凄惨的",
+          "卑鄙的"
+        ],
+        "options": [
+          "高尚的",
+          "凄惨的",
+          "繁荣的",
+          "勇敢的"
+        ],
+        "answer_index": 1,
+        "example": "They lived in abject poverty for decades.",
+        "example_translation": "他们几十年来生活在凄惨的贫困中。"
+      }
+    },
+    {
+      "id": "gre_wc_0003",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "verb"
+      ],
+      "payload": {
+        "word": "abjure",
+        "phonetic": "/əbˈdʒʊə(r)/",
+        "pos": "v.",
+        "definitions": [
+          "发誓放弃",
+          "郑重放弃"
+        ],
+        "options": [
+          "郑重承诺",
+          "发誓放弃",
+          "公开拥护",
+          "暗中支持"
+        ],
+        "answer_index": 1,
+        "example": "He abjured his former beliefs before the council.",
+        "example_translation": "他在议会面前发誓放弃先前的信仰。"
+      }
+    },
+    {
+      "id": "gre_wc_0004",
+      "type": "word_choice",
+      "difficulty": 5,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "abstemious",
+        "phonetic": "/əbˈstiːmiəs/",
+        "pos": "adj.",
+        "definitions": [
+          "有节制的",
+          "节俭的"
+        ],
+        "options": [
+          "放纵的",
+          "有节制的",
+          "贪婪的",
+          "奢侈的"
+        ],
+        "answer_index": 1,
+        "example": "He led an abstemious life, eating little and drinking less.",
+        "example_translation": "他过着有节制的生活，吃得少，喝得更少。"
+      }
+    },
+    {
+      "id": "gre_wc_0005",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "vocabulary",
+        "noun"
+      ],
+      "payload": {
+        "word": "alacrity",
+        "phonetic": "/əˈlækrəti/",
+        "pos": "n.",
+        "definitions": [
+          "欣然",
+          "敏捷"
+        ],
+        "options": [
+          "勉强",
+          "欣然",
+          "迟疑",
+          "懒惰"
+        ],
+        "answer_index": 1,
+        "example": "She accepted the invitation with alacrity.",
+        "example_translation": "她欣然接受了邀请。"
+      }
+    },
+    {
+      "id": "gre_wc_0006",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "vocabulary",
+        "verb"
+      ],
+      "payload": {
+        "word": "ameliorate",
+        "phonetic": "/əˈmiːliəreɪt/",
+        "pos": "v.",
+        "definitions": [
+          "改善",
+          "改良"
+        ],
+        "options": [
+          "恶化",
+          "改善",
+          "破坏",
+          "维持"
+        ],
+        "answer_index": 1,
+        "example": "The new policy ameliorated the living conditions of the workers.",
+        "example_translation": "新政策改善了工人的生活条件。"
+      }
+    },
+    {
+      "id": "gre_wc_0007",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "anachronistic",
+        "phonetic": "/əˌnækrəˈnɪstɪk/",
+        "pos": "adj.",
+        "definitions": [
+          "时代错误的",
+          "过时的"
+        ],
+        "options": [
+          "现代的",
+          "时代错误的",
+          "超前的",
+          "永恒的"
+        ],
+        "answer_index": 1,
+        "example": "The use of typewriters in the office seemed anachronistic.",
+        "example_translation": "办公室里使用打字机显得不合时宜。"
+      }
+    },
+    {
+      "id": "gre_wc_0008",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "apocryphal",
+        "phonetic": "/əˈpɒkrɪfl/",
+        "pos": "adj.",
+        "definitions": [
+          "伪经的",
+          "虚构的"
+        ],
+        "options": [
+          "真实的",
+          "伪经的",
+          "经典的",
+          "神圣的"
+        ],
+        "answer_index": 1,
+        "example": "The story of his heroism is likely apocryphal.",
+        "example_translation": "他英勇的故事很可能是虚构的。"
+      }
+    },
+    {
+      "id": "gre_wc_0009",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "arcane",
+        "phonetic": "/ɑːˈkeɪn/",
+        "pos": "adj.",
+        "definitions": [
+          "神秘的",
+          "晦涩难懂的"
+        ],
+        "options": [
+          "通俗的",
+          "神秘的",
+          "明显的",
+          "浅显的"
+        ],
+        "answer_index": 1,
+        "example": "The ritual was shrouded in arcane symbols.",
+        "example_translation": "这一仪式被神秘的符号所笼罩。"
+      }
+    },
+    {
+      "id": "gre_wc_0010",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "assiduous",
+        "phonetic": "/əˈsɪdjuəs/",
+        "pos": "adj.",
+        "definitions": [
+          "勤勉的",
+          "刻苦的"
+        ],
+        "options": [
+          "懒散的",
+          "勤勉的",
+          "粗心的",
+          "敷衍的"
+        ],
+        "answer_index": 1,
+        "example": "Her assiduous efforts were finally rewarded.",
+        "example_translation": "她勤勉的努力最终得到了回报。"
+      }
+    },
+    {
+      "id": "gre_wc_0011",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "austere",
+        "phonetic": "/ɒˈstɪə(r)/",
+        "pos": "adj.",
+        "definitions": [
+          "严峻的",
+          "简朴的"
+        ],
+        "options": [
+          "奢华的",
+          "严峻的",
+          "丰饶的",
+          "柔和的"
+        ],
+        "answer_index": 1,
+        "example": "The monks led an austere life in the monastery.",
+        "example_translation": "修道士在修道院里过着简朴的生活。"
+      }
+    },
+    {
+      "id": "gre_wc_0012",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "bellicose",
+        "phonetic": "/ˈbelɪkəʊs/",
+        "pos": "adj.",
+        "definitions": [
+          "好战的",
+          "好斗的"
+        ],
+        "options": [
+          "和平的",
+          "好战的",
+          "友好的",
+          "胆怯的"
+        ],
+        "answer_index": 1,
+        "example": "His bellicose rhetoric alarmed the neighboring nations.",
+        "example_translation": "他好战的言辞使邻国感到警觉。"
+      }
+    },
+    {
+      "id": "gre_wc_0013",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "bombastic",
+        "phonetic": "/bɒmˈbæstɪk/",
+        "pos": "adj.",
+        "definitions": [
+          "夸夸其谈的",
+          "浮夸的"
+        ],
+        "options": [
+          "谦逊的",
+          "夸夸其谈的",
+          "简洁的",
+          "朴实的"
+        ],
+        "answer_index": 1,
+        "example": "The politician delivered a bombastic speech that impressed few.",
+        "example_translation": "那位政客发表了一篇夸夸其谈的演讲，却几乎无人被打动。"
+      }
+    },
+    {
+      "id": "gre_wc_0014",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "capricious",
+        "phonetic": "/kəˈprɪʃəs/",
+        "pos": "adj.",
+        "definitions": [
+          "反复无常的",
+          "多变的"
+        ],
+        "options": [
+          "稳定的",
+          "反复无常的",
+          "坚定的",
+          "持久的"
+        ],
+        "answer_index": 1,
+        "example": "The capricious weather made planning impossible.",
+        "example_translation": "多变的天气让人无法做出计划。"
+      }
+    },
+    {
+      "id": "gre_wc_0015",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "noun"
+      ],
+      "payload": {
+        "word": "chicanery",
+        "phonetic": "/ʃɪˈkeɪnəri/",
+        "pos": "n.",
+        "definitions": [
+          "诡计",
+          "欺骗"
+        ],
+        "options": [
+          "诚实",
+          "诡计",
+          "慷慨",
+          "正义"
+        ],
+        "answer_index": 1,
+        "example": "The lawyer was disbarred for using chicanery to win cases.",
+        "example_translation": "那位律师因使用诡计打赢官司而被取消资格。"
+      }
+    },
+    {
+      "id": "gre_wc_0016",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "cogent",
+        "phonetic": "/ˈkəʊdʒənt/",
+        "pos": "adj.",
+        "definitions": [
+          "令人信服的",
+          "有说服力的"
+        ],
+        "options": [
+          "薄弱的",
+          "令人信服的",
+          "无关的",
+          "模糊的"
+        ],
+        "answer_index": 1,
+        "example": "She presented a cogent argument for the reform.",
+        "example_translation": "她为改革提出了令人信服的论据。"
+      }
+    },
+    {
+      "id": "gre_wc_0017",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "vocabulary",
+        "noun"
+      ],
+      "payload": {
+        "word": "diatribe",
+        "phonetic": "/ˈdaɪətraɪb/",
+        "pos": "n.",
+        "definitions": [
+          "抨击",
+          "谴责"
+        ],
+        "options": [
+          "赞扬",
+          "抨击",
+          "祝福",
+          "悼词"
+        ],
+        "answer_index": 1,
+        "example": "The essay was a lengthy diatribe against modern education.",
+        "example_translation": "这篇文章是对现代教育的一篇长篇抨击。"
+      }
+    },
+    {
+      "id": "gre_wc_0018",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "ephemeral",
+        "phonetic": "/ɪˈfemərəl/",
+        "pos": "adj.",
+        "definitions": [
+          "短暂的",
+          "瞬息的"
+        ],
+        "options": [
+          "永恒的",
+          "短暂的",
+          "持久的",
+          "不朽的"
+        ],
+        "answer_index": 1,
+        "example": "Fame in the age of social media is largely ephemeral.",
+        "example_translation": "在社交媒体时代，名声大多是短暂的。"
+      }
+    },
+    {
+      "id": "gre_wc_0019",
+      "type": "word_choice",
+      "difficulty": 5,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "egregious",
+        "phonetic": "/ɪˈɡriːdʒiəs/",
+        "pos": "adj.",
+        "definitions": [
+          "极坏的",
+          "惊人的"
+        ],
+        "options": [
+          "优秀的",
+          "极坏的",
+          "平凡的",
+          "微小的"
+        ],
+        "answer_index": 1,
+        "example": "The referee made an egregious error in the final minute.",
+        "example_translation": "裁判在最后时刻犯了一个极其严重的错误。"
+      }
+    },
+    {
+      "id": "gre_wc_0020",
+      "type": "word_choice",
+      "difficulty": 5,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "esoteric",
+        "phonetic": "/ˌesəˈterɪk/",
+        "pos": "adj.",
+        "definitions": [
+          "深奥的",
+          "秘传的"
+        ],
+        "options": [
+          "通俗的",
+          "深奥的",
+          "常见的",
+          "浅显的"
+        ],
+        "answer_index": 1,
+        "example": "The professor's lecture was too esoteric for undergraduates.",
+        "example_translation": "教授的讲座对本科生来说过于深奥。"
+      }
+    },
+    {
+      "id": "gre_wc_0021",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "fastidious",
+        "phonetic": "/fæˈstɪdiəs/",
+        "pos": "adj.",
+        "definitions": [
+          "挑剔的",
+          "一丝不苟的"
+        ],
+        "options": [
+          "随便的",
+          "挑剔的",
+          "马虎的",
+          "粗心的"
+        ],
+        "answer_index": 1,
+        "example": "The fastidious editor corrected every comma in the manuscript.",
+        "example_translation": "那位一丝不苟的编辑修改了手稿中的每一个逗号。"
+      }
+    },
+    {
+      "id": "gre_dc_0001",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "definition": "有害的，恶性的",
+        "phonetic_hint": "/pəˈnɪʃəs/",
+        "options": [
+          "pernicious",
+          "auspicious",
+          "judicious",
+          "delicious"
+        ],
+        "answer_index": 0,
+        "example": "The pernicious rumor destroyed her reputation."
+      }
+    },
+    {
+      "id": "gre_dc_0002",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "verb"
+      ],
+      "payload": {
+        "definition": "使迷惑，混淆",
+        "phonetic_hint": "/kənˈfaʊnd/",
+        "options": [
+          "confound",
+          "compound",
+          "confront",
+          "confute"
+        ],
+        "answer_index": 0,
+        "example": "The results confounded the scientists' expectations."
+      }
+    },
+    {
+      "id": "gre_dc_0003",
+      "type": "definition_choice",
+      "difficulty": 5,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "definition": "难以理解的，神秘难解的",
+        "phonetic_hint": "/ɪnˈskruːtəbl/",
+        "options": [
+          "inscrutable",
+          "irresolute",
+          "executable",
+          "ineffable"
+        ],
+        "answer_index": 0,
+        "example": "His inscrutable expression gave nothing away."
+      }
+    },
+    {
+      "id": "gre_dc_0004",
+      "type": "definition_choice",
+      "difficulty": 5,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "definition": "谩骂的，辱骂的",
+        "phonetic_hint": "/vɪˈtjuːpərətɪv/",
+        "options": [
+          "vituperative",
+          "vindicative",
+          "venerative",
+          "vegetative"
+        ],
+        "answer_index": 0,
+        "example": "The critic wrote a vituperative review of the play."
+      }
+    },
+    {
+      "id": "gre_dc_0005",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "definition": "挥霍的，放荡的",
+        "phonetic_hint": "/ˈprɒflɪɡət/",
+        "options": [
+          "profligate",
+          "prolific",
+          "profound",
+          "profuse"
+        ],
+        "answer_index": 0,
+        "example": "The heir led a profligate lifestyle that bankrupted the family."
+      }
+    },
+    {
+      "id": "gre_dc_0006",
+      "type": "definition_choice",
+      "difficulty": 5,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "definition": "谄媚的，奉承的",
+        "phonetic_hint": "/əbˈsiːkwiəs/",
+        "options": [
+          "obsequious",
+          "oblivious",
+          "obnoxious",
+          "obstreperous"
+        ],
+        "answer_index": 0,
+        "example": "The obsequious assistant agreed with every word the boss said."
+      }
+    },
+    {
+      "id": "gre_dc_0007",
+      "type": "definition_choice",
+      "difficulty": 5,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "definition": "顺从的，殷勤的",
+        "phonetic_hint": "/kəmˈpleɪzsnt/",
+        "options": [
+          "complaisant",
+          "complacent",
+          "coalescent",
+          "opalescent"
+        ],
+        "answer_index": 0,
+        "example": "The complaisant host agreed to every guest's request."
+      }
+    },
+    {
+      "id": "gre_dc_0008",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "verb"
+      ],
+      "payload": {
+        "definition": "挥霍，浪费",
+        "phonetic_hint": "/ˈskwɒndə(r)/",
+        "options": [
+          "squander",
+          "wander",
+          "saunter",
+          "slander"
+        ],
+        "answer_index": 0,
+        "example": "He squandered his inheritance on gambling within a year."
+      }
+    },
+    {
+      "id": "gre_dc_0009",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "definition": "冗长的，啰嗦的",
+        "phonetic_hint": "/ˈprɒlɪks/",
+        "options": [
+          "prolix",
+          "prolific",
+          "prodigal",
+          "profound"
+        ],
+        "answer_index": 0,
+        "example": "The professor's prolix lectures tried the students' patience."
+      }
+    },
+    {
+      "id": "gre_dc_0010",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "definition": "反复无常的，善变的",
+        "phonetic_hint": "/mɜːˈkjʊəriəl/",
+        "options": [
+          "mercurial",
+          "muscular",
+          "secular",
+          "singular"
+        ],
+        "answer_index": 0,
+        "example": "The boss's mercurial moods made the office atmosphere tense."
+      }
+    },
+    {
+      "id": "gre_dc_0011",
+      "type": "definition_choice",
+      "difficulty": 5,
+      "tags": [
+        "vocabulary",
+        "verb"
+      ],
+      "payload": {
+        "definition": "搪塞，支吾其词",
+        "phonetic_hint": "/prɪˈværɪkeɪt/",
+        "options": [
+          "prevaricate",
+          "procrastinate",
+          "perseverate",
+          "provocate"
+        ],
+        "answer_index": 0,
+        "example": "The witness prevaricated when asked about his whereabouts."
+      }
+    },
+    {
+      "id": "gre_dc_0012",
+      "type": "definition_choice",
+      "difficulty": 5,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "definition": "难以理解的，晦涩的",
+        "phonetic_hint": "/rɪˈkɒndaɪt/",
+        "options": [
+          "recondite",
+          "requisite",
+          "recumbent",
+          "recalcitrant"
+        ],
+        "answer_index": 0,
+        "example": "The philosopher's recondite works are read by only a few scholars."
+      }
+    },
+    {
+      "id": "gre_sc_0001",
+      "type": "single_choice",
+      "difficulty": 5,
+      "tags": [
+        "sentence_completion",
+        "gre"
+      ],
+      "payload": {
+        "question": "Despite the novel's ___ prose, critics praised its profound themes.",
+        "options": [
+          "turgid",
+          "lucid",
+          "pellucid",
+          "cogent",
+          "succinct"
+        ],
+        "answer_index": 0,
+        "explanation": "turgid 意为「冗长浮夸的」，与后半句的「critics praised its profound themes」形成转折对比；lucid/pellucid/cogent/succinct 均为褒义，与 despite 转折不符。"
+      }
+    },
+    {
+      "id": "gre_sc_0002",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "sentence_completion",
+        "gre"
+      ],
+      "payload": {
+        "question": "The dictator's speech was filled with ___, making it difficult to discern any actual policy proposals.",
+        "options": [
+          "cogency",
+          "specifics",
+          "platitudes",
+          "evidence",
+          "data"
+        ],
+        "answer_index": 2,
+        "explanation": "platitudes 意为「陈词滥调」，符合「难以辨别实际政策提案」的语境；cogency/specifics/evidence/data 均会使讲话内容清晰而非难辨。"
+      }
+    },
+    {
+      "id": "gre_sc_0003",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "sentence_completion",
+        "gre"
+      ],
+      "payload": {
+        "question": "The scientist's findings were ___ by subsequent studies, lending credibility to her original hypothesis.",
+        "options": [
+          "refuted",
+          "corroborated",
+          "undermined",
+          "contradicted",
+          "impugned"
+        ],
+        "answer_index": 1,
+        "explanation": "corroborate 意为「证实，支持」，与「lending credibility（增加可信度）」语义一致；refuted/undermined/contradicted/impugned 均表示否定，与语境相反。"
+      }
+    },
+    {
+      "id": "gre_sc_0004",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "sentence_completion",
+        "gre"
+      ],
+      "payload": {
+        "question": "Rather than ___ the conflict, the mediator's intervention only served to exacerbate tensions between the parties.",
+        "options": [
+          "ameliorate",
+          "aggravate",
+          "prolong",
+          "escalate",
+          "intensify"
+        ],
+        "answer_index": 0,
+        "explanation": "句首 Rather than 与后续 only served to exacerbate 形成对比，故空格应填 exacerbate 的反义词；ameliorate「缓和」符合，而 aggravate/prolong/escalate/intensify 与 exacerbate 同义，造成语义矛盾。"
+      }
+    },
+    {
+      "id": "gre_sc_0005",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "sentence_completion",
+        "gre"
+      ],
+      "payload": {
+        "question": "The candidate's ___ responses to reporters' questions revealed her reluctance to take a clear stance on the issue.",
+        "options": [
+          "candid",
+          "equivocal",
+          "unequivocal",
+          "forthright",
+          "categorical"
+        ],
+        "answer_index": 1,
+        "explanation": "equivocal 意为「模棱两可的」，与「reluctance to take a clear stance」相符；candid/unequivocal/forthright/categorical 均表示明确坦诚，与语境相反。"
+      }
+    },
+    {
+      "id": "gre_sc_0006",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "sentence_completion",
+        "gre"
+      ],
+      "payload": {
+        "question": "The artist's work was so ___ that it defied categorization, drawing from traditions as disparate as Baroque and Minimalism.",
+        "options": [
+          "homogeneous",
+          "monolithic",
+          "eclectic",
+          "uniform",
+          "consistent"
+        ],
+        "answer_index": 2,
+        "explanation": "eclectic 意为「折衷的，兼收并蓄的」，与「drawing from disparate traditions」相符；homogeneous/monolithic/uniform/consistent 均表示单一一致，与 disparate 形成矛盾。"
+      }
+    },
+    {
+      "id": "gre_sc_0007",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "sentence_completion",
+        "gre"
+      ],
+      "payload": {
+        "question": "Although the professor's lectures were ___, his published writings were notably concise.",
+        "options": [
+          "terse",
+          "succinct",
+          "prolix",
+          "pithy",
+          "laconic"
+        ],
+        "answer_index": 2,
+        "explanation": "Although 提示前后转折，后句为 concise，故空格应填 concise 的反义词；prolix「冗长的」符合；terse/succinct/pithy/laconic 均表示简洁。"
+      }
+    },
+    {
+      "id": "gre_sc_0008",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "sentence_completion",
+        "gre"
+      ],
+      "payload": {
+        "question": "The committee's decision was ___, ignoring the concerns of numerous stakeholders and proceeding without deliberation.",
+        "options": [
+          "deliberate",
+          "arbitrary",
+          "systematic",
+          "methodical",
+          "judicious"
+        ],
+        "answer_index": 1,
+        "explanation": "arbitrary 意为「任意的，武断的」，与「ignoring concerns」和「without deliberation」相符；deliberate/systematic/methodical/judicious 均表示审慎有据，与语境相反。"
+      }
+    },
+    {
+      "id": "gre_sc_0009",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "sentence_completion",
+        "gre"
+      ],
+      "payload": {
+        "question": "The critic's ___ review of the novel, written before its publication, proved remarkably accurate once readers engaged with the text.",
+        "options": [
+          "prescient",
+          "retrospective",
+          "belated",
+          "tardy",
+          "hindsight"
+        ],
+        "answer_index": 0,
+        "explanation": "prescient 意为「有先见之明的」，与「written before its publication」和「proved remarkably accurate」相符；retrospective/belated/tardy/hindsight 均表示事后回顾或迟缓，与「before publication」矛盾。"
+      }
+    },
+    {
+      "id": "gre_sf_0001",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "sentence_fill",
+        "verb"
+      ],
+      "payload": {
+        "sentence": "After the new CEO implemented cost-cutting measures, the company's deteriorating profits began to ___.",
+        "answer": "ameliorate",
+        "options": [
+          "ameliorate",
+          "deteriorate",
+          "flag",
+          "wane"
+        ],
+        "answer_index": 0,
+        "translation": "新CEO实施削减成本措施后，公司不断恶化的利润开始好转。"
+      }
+    },
+    {
+      "id": "gre_sf_0002",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "sentence_fill",
+        "adj"
+      ],
+      "payload": {
+        "sentence": "Despite hours of negotiation, the two sides remained ___, unwilling to compromise on any issue.",
+        "answer": "intransigent",
+        "options": [
+          "intransigent",
+          "compliant",
+          "conciliatory",
+          "pliant"
+        ],
+        "answer_index": 0,
+        "translation": "尽管谈判数小时，双方仍不肯妥协，在任何问题上都不愿让步。"
+      }
+    },
+    {
+      "id": "gre_sf_0003",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "sentence_fill",
+        "noun"
+      ],
+      "payload": {
+        "sentence": "The critic's review was a scathing ___, attacking every aspect of the film without mercy.",
+        "answer": "diatribe",
+        "options": [
+          "eulogy",
+          "diatribe",
+          "panegyric",
+          "paean"
+        ],
+        "answer_index": 1,
+        "translation": "评论家的评论是一篇尖锐的抨击，毫不留情地攻击电影的方方面面。"
+      }
+    },
+    {
+      "id": "gre_sf_0004",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "sentence_fill",
+        "verb"
+      ],
+      "payload": {
+        "sentence": "The politician attempted to ___ the issue with technical jargon, hoping voters would lose interest.",
+        "answer": "obfuscate",
+        "options": [
+          "obfuscate",
+          "elucidate",
+          "clarify",
+          "explicate"
+        ],
+        "answer_index": 0,
+        "translation": "政客试图用技术术语混淆这一问题，希望选民会失去兴趣。"
+      }
+    },
+    {
+      "id": "gre_sf_0005",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "sentence_fill",
+        "noun"
+      ],
+      "payload": {
+        "sentence": "Born into ___, the artist rose to fame through sheer perseverance and talent.",
+        "answer": "penury",
+        "options": [
+          "penury",
+          "affluence",
+          "opulence",
+          "prosperity"
+        ],
+        "answer_index": 0,
+        "translation": "出生于贫困之中，这位艺术家凭借纯粹的毅力和才华一举成名。"
+      }
+    },
+    {
+      "id": "gre_sf_0006",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "sentence_fill",
+        "adj"
+      ],
+      "payload": {
+        "sentence": "The CEO's ___ lifestyle stood in stark contrast to the company's struggling workforce.",
+        "answer": "profligate",
+        "options": [
+          "profligate",
+          "frugal",
+          "abstemious",
+          "ascetic"
+        ],
+        "answer_index": 0,
+        "translation": "CEO 挥霍的生活方式与公司苦苦挣扎的员工形成鲜明对比。"
+      }
+    },
+    {
+      "id": "gre_sf_0007",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "sentence_fill",
+        "adj"
+      ],
+      "payload": {
+        "sentence": "The discovery of the manuscript was ___, surprising scholars who believed all the author's works had been catalogued.",
+        "answer": "unprecedented",
+        "options": [
+          "unprecedented",
+          "predictable",
+          "routine",
+          "commonplace"
+        ],
+        "answer_index": 0,
+        "translation": "手稿的发现是史无前例的，令那些以为该作者所有作品都已被编目的学者感到惊讶。"
+      }
+    },
+    {
+      "id": "gre_sf_0008",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "sentence_fill",
+        "adj"
+      ],
+      "payload": {
+        "sentence": "The diplomat's ___ reply managed to offend neither side while committing to nothing.",
+        "answer": "equivocal",
+        "options": [
+          "unequivocal",
+          "equivocal",
+          "categorical",
+          "explicit"
+        ],
+        "answer_index": 1,
+        "translation": "外交官模棱两可的回复既没有冒犯任何一方，也没有做出任何承诺。"
+      }
+    },
+    {
+      "id": "gre_sf_0009",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "sentence_fill",
+        "adj"
+      ],
+      "payload": {
+        "sentence": "The committee chair's ___ nature made her beloved by colleagues who valued her generous spirit.",
+        "answer": "magnanimous",
+        "options": [
+          "magnanimous",
+          "petulant",
+          "vindictive",
+          "mercenary"
+        ],
+        "answer_index": 0,
+        "translation": "委员会主席宽宏大量的品性使她受到珍视她慷慨精神的同事们的喜爱。"
+      }
+    },
+    {
+      "id": "gre_sp_0001",
+      "type": "spelling",
+      "difficulty": 4,
+      "tags": [
+        "spelling",
+        "adj"
+      ],
+      "payload": {
+        "definition": "短暂的，瞬息的",
+        "answer": "ephemeral",
+        "phonetic": "/ɪˈfemərəl/",
+        "pos": "adj.",
+        "hint_letters": [
+          0,
+          4
+        ],
+        "example": "Fame is often ephemeral."
+      }
+    },
+    {
+      "id": "gre_sp_0002",
+      "type": "spelling",
+      "difficulty": 4,
+      "tags": [
+        "spelling",
+        "adj"
+      ],
+      "payload": {
+        "definition": "极坏的，惊人的",
+        "answer": "egregious",
+        "phonetic": "/ɪˈɡriːdʒiəs/",
+        "pos": "adj.",
+        "hint_letters": [
+          0,
+          4
+        ],
+        "example": "An egregious error cost the team the championship."
+      }
+    },
+    {
+      "id": "gre_sp_0003",
+      "type": "spelling",
+      "difficulty": 4,
+      "tags": [
+        "spelling",
+        "adj"
+      ],
+      "payload": {
+        "definition": "深奥的，秘传的",
+        "answer": "esoteric",
+        "phonetic": "/ˌesəˈterɪk/",
+        "pos": "adj.",
+        "hint_letters": [
+          0,
+          4
+        ],
+        "example": "His lectures were too esoteric for most students."
+      }
+    },
+    {
+      "id": "gre_sp_0004",
+      "type": "spelling",
+      "difficulty": 4,
+      "tags": [
+        "spelling",
+        "adj"
+      ],
+      "payload": {
+        "definition": "无处不在的，普遍存在的",
+        "answer": "ubiquitous",
+        "phonetic": "/juːˈbɪkwɪtəs/",
+        "pos": "adj.",
+        "hint_letters": [
+          0,
+          5
+        ],
+        "example": "Smartphones have become ubiquitous in modern life."
+      }
+    },
+    {
+      "id": "gre_sp_0005",
+      "type": "spelling",
+      "difficulty": 4,
+      "tags": [
+        "spelling",
+        "adj"
+      ],
+      "payload": {
+        "definition": "勤勉的，刻苦的",
+        "answer": "assiduous",
+        "phonetic": "/əˈsɪdjuəs/",
+        "pos": "adj.",
+        "hint_letters": [
+          0,
+          4
+        ],
+        "example": "Her assiduous preparation paid off in the exam."
+      }
+    },
+    {
+      "id": "gre_sp_0006",
+      "type": "spelling",
+      "difficulty": 4,
+      "tags": [
+        "spelling",
+        "adj"
+      ],
+      "payload": {
+        "definition": "反复无常的，多变的",
+        "answer": "mercurial",
+        "phonetic": "/mɜːˈkjʊəriəl/",
+        "pos": "adj.",
+        "hint_letters": [
+          0,
+          5
+        ],
+        "example": "His mercurial temper made him difficult to work with."
+      }
+    },
+    {
+      "id": "gre_tf_0001",
+      "type": "true_false",
+      "difficulty": 4,
+      "tags": [
+        "true_false",
+        "vocabulary"
+      ],
+      "payload": {
+        "statement": "The word 'laconic' means using few words; concise.",
+        "answer": true,
+        "explanation": "laconic 源自古希腊拉科尼亚（Laconia，斯巴达所在地区），意为「简练的，言简意赅的」。"
+      }
+    },
+    {
+      "id": "gre_tf_0002",
+      "type": "true_false",
+      "difficulty": 4,
+      "tags": [
+        "true_false",
+        "vocabulary"
+      ],
+      "payload": {
+        "statement": "The word 'profligate' is best defined as frugal and economical in one's spending.",
+        "answer": false,
+        "explanation": "profligate 意为「极其浪费的，挥霍的」，与 frugal/economical 互为反义。"
+      }
+    },
+    {
+      "id": "gre_tf_0003",
+      "type": "true_false",
+      "difficulty": 4,
+      "tags": [
+        "true_false",
+        "vocabulary"
+      ],
+      "payload": {
+        "statement": "An 'iconoclast' is someone who attacks cherished beliefs or institutions.",
+        "answer": true,
+        "explanation": "iconoclast 字面意为「打碎圣像者」，引申为「打破传统信仰或制度的人」。"
+      }
+    }
+  ]
+}

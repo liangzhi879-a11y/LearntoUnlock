@@ -1,0 +1,919 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "bank_id": "english.tem8.real",
+    "subject": "english",
+    "category": "tem8",
+    "name": "英语专八真题核心",
+    "name_en": "TEM-8 Real Exam Core",
+    "cefr_level": "C2",
+    "total_items": 40,
+    "source": "TEM-8 历年真题整理",
+    "license": "CC-BY-SA 4.0",
+    "updated_at": "2026-07-05"
+  },
+  "items": [
+    {
+      "id": "tem8_wc_0001",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "high_freq",
+        "adj",
+        "formal"
+      ],
+      "payload": {
+        "word": "eloquent",
+        "phonetic": "/ˈeləkwənt/",
+        "pos": "adj.",
+        "definitions": [
+          "雄辩的",
+          "有口才的"
+        ],
+        "options": [
+          "沉默的",
+          "雄辩的",
+          "笨拙的",
+          "啰嗦的"
+        ],
+        "answer_index": 1,
+        "example": "She made an eloquent appeal for human rights.",
+        "example_translation": "她为人权作了雄辩有力的呼吁。"
+      }
+    },
+    {
+      "id": "tem8_wc_0002",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "high_freq",
+        "adj"
+      ],
+      "payload": {
+        "word": "meticulous",
+        "phonetic": "/məˈtɪkjələs/",
+        "pos": "adj.",
+        "definitions": [
+          "一丝不苟的",
+          "细致的"
+        ],
+        "options": [
+          "粗心的",
+          "一丝不苟的",
+          "草率的",
+          "马虎的"
+        ],
+        "answer_index": 1,
+        "example": "He is meticulous about every detail of his work.",
+        "example_translation": "他对工作的每个细节都一丝不苟。"
+      }
+    },
+    {
+      "id": "tem8_wc_0003",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "high_freq",
+        "adj"
+      ],
+      "payload": {
+        "word": "ubiquitous",
+        "phonetic": "/juːˈbɪkwɪtəs/",
+        "pos": "adj.",
+        "definitions": [
+          "无处不在的",
+          "普遍存在的"
+        ],
+        "options": [
+          "罕见的",
+          "无处不在的",
+          "稀有的",
+          "局部的"
+        ],
+        "answer_index": 1,
+        "example": "Mobile phones have become ubiquitous in modern life.",
+        "example_translation": "手机在现代生活中已无处不在。"
+      }
+    },
+    {
+      "id": "tem8_wc_0004",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "high_freq",
+        "adj"
+      ],
+      "payload": {
+        "word": "pragmatic",
+        "phonetic": "/præɡˈmætɪk/",
+        "pos": "adj.",
+        "definitions": [
+          "务实的",
+          "实用主义的"
+        ],
+        "options": [
+          "务实的",
+          "空想的",
+          "教条的",
+          "浪漫的"
+        ],
+        "answer_index": 0,
+        "example": "We need a pragmatic approach to the problem.",
+        "example_translation": "我们需要用务实的方法来处理这个问题。"
+      }
+    },
+    {
+      "id": "tem8_wc_0005",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "high_freq",
+        "adj",
+        "formal"
+      ],
+      "payload": {
+        "word": "superfluous",
+        "phonetic": "/suːˈpɜːfluəs/",
+        "pos": "adj.",
+        "definitions": [
+          "多余的",
+          "过剩的"
+        ],
+        "options": [
+          "必要的",
+          "多余的",
+          "核心的",
+          "必需的"
+        ],
+        "answer_index": 1,
+        "example": "Her reply was full of superfluous details.",
+        "example_translation": "她的回答充满了多余的细节。"
+      }
+    },
+    {
+      "id": "tem8_wc_0006",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "high_freq",
+        "adj"
+      ],
+      "payload": {
+        "word": "lucid",
+        "phonetic": "/ˈluːsɪd/",
+        "pos": "adj.",
+        "definitions": [
+          "清晰的",
+          "明白易懂的"
+        ],
+        "options": [
+          "清晰的",
+          "晦涩的",
+          "模糊的",
+          "混乱的"
+        ],
+        "answer_index": 0,
+        "example": "He gave a lucid explanation of the theory.",
+        "example_translation": "他对这一理论作了清晰的解释。"
+      }
+    },
+    {
+      "id": "tem8_wc_0007",
+      "type": "word_choice",
+      "difficulty": 5,
+      "tags": [
+        "high_freq",
+        "adj",
+        "formal"
+      ],
+      "payload": {
+        "word": "vehement",
+        "phonetic": "/ˈviːəmənt/",
+        "pos": "adj.",
+        "definitions": [
+          "激烈的",
+          "猛烈的"
+        ],
+        "options": [
+          "温和的",
+          "激烈的",
+          "冷漠的",
+          "平静的"
+        ],
+        "answer_index": 1,
+        "example": "She was vehement in her opposition to the plan.",
+        "example_translation": "她强烈反对这一计划。"
+      }
+    },
+    {
+      "id": "tem8_wc_0008",
+      "type": "word_choice",
+      "difficulty": 5,
+      "tags": [
+        "high_freq",
+        "adj"
+      ],
+      "payload": {
+        "word": "fastidious",
+        "phonetic": "/fæˈstɪdiəs/",
+        "pos": "adj.",
+        "definitions": [
+          "挑剔的",
+          "难以取悦的"
+        ],
+        "options": [
+          "随和的",
+          "挑剔的",
+          "宽容的",
+          "随便的"
+        ],
+        "answer_index": 1,
+        "example": "He is fastidious about his food and clothing.",
+        "example_translation": "他对衣食十分挑剔。"
+      }
+    },
+    {
+      "id": "tem8_wc_0009",
+      "type": "word_choice",
+      "difficulty": 5,
+      "tags": [
+        "high_freq",
+        "adj",
+        "formal"
+      ],
+      "payload": {
+        "word": "magnanimous",
+        "phonetic": "/mæɡˈnænɪməs/",
+        "pos": "adj.",
+        "definitions": [
+          "宽宏大量的",
+          "慷慨的"
+        ],
+        "options": [
+          "小气的",
+          "宽宏大量的",
+          "刻薄的",
+          "自私的"
+        ],
+        "answer_index": 1,
+        "example": "He was magnanimous in victory and praised his opponent.",
+        "example_translation": "他在胜利时表现得宽宏大量，并称赞了对手。"
+      }
+    },
+    {
+      "id": "tem8_wc_0010",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "high_freq",
+        "adj"
+      ],
+      "payload": {
+        "word": "obstinate",
+        "phonetic": "/ˈɒbstɪnət/",
+        "pos": "adj.",
+        "definitions": [
+          "固执的",
+          "顽固的"
+        ],
+        "options": [
+          "顺从的",
+          "灵活的",
+          "固执的",
+          "柔软的"
+        ],
+        "answer_index": 2,
+        "example": "The obstinate child refused to eat his vegetables.",
+        "example_translation": "这个倔强的孩子拒绝吃蔬菜。"
+      }
+    },
+    {
+      "id": "tem8_wc_0011",
+      "type": "word_choice",
+      "difficulty": 5,
+      "tags": [
+        "high_freq",
+        "adj",
+        "formal"
+      ],
+      "payload": {
+        "word": "sagacious",
+        "phonetic": "/səˈɡeɪʃəs/",
+        "pos": "adj.",
+        "definitions": [
+          "睿智的",
+          "聪慧的"
+        ],
+        "options": [
+          "愚蠢的",
+          "睿智的",
+          "迟钝的",
+          "鲁莽的"
+        ],
+        "answer_index": 1,
+        "example": "The sagacious leader guided the nation through the crisis.",
+        "example_translation": "这位睿智的领导人引领国家度过危机。"
+      }
+    },
+    {
+      "id": "tem8_wc_0012",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "high_freq",
+        "adj"
+      ],
+      "payload": {
+        "word": "volatile",
+        "phonetic": "/ˈvɒlətaɪl/",
+        "pos": "adj.",
+        "definitions": [
+          "易挥发的",
+          "反复无常的"
+        ],
+        "options": [
+          "稳定的",
+          "持久的",
+          "反复无常的",
+          "坚固的"
+        ],
+        "answer_index": 2,
+        "example": "The stock market has been highly volatile this week.",
+        "example_translation": "本周股市波动剧烈。"
+      }
+    },
+    {
+      "id": "tem8_dc_0001",
+      "type": "definition_choice",
+      "difficulty": 5,
+      "tags": [
+        "adj",
+        "formal"
+      ],
+      "payload": {
+        "definition": "炫耀的，卖弄的",
+        "phonetic_hint": "/ˌɒstenˈteɪʃəs/",
+        "options": [
+          "ostentatious",
+          "obstreperous",
+          "obsequious",
+          "oblivious"
+        ],
+        "answer_index": 0,
+        "example": "She wore an ostentatious diamond necklace to the party."
+      }
+    },
+    {
+      "id": "tem8_dc_0002",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "adj"
+      ],
+      "payload": {
+        "definition": "权宜之计的，权宜的",
+        "phonetic_hint": "/ɪkˈspiːdiənt/",
+        "options": [
+          "expedient",
+          "exquisite",
+          "explicit",
+          "exotic"
+        ],
+        "answer_index": 0,
+        "example": "It is expedient to postpone the decision for now."
+      }
+    },
+    {
+      "id": "tem8_dc_0003",
+      "type": "definition_choice",
+      "difficulty": 5,
+      "tags": [
+        "adj",
+        "formal"
+      ],
+      "payload": {
+        "definition": "深奥的，只有少数人懂的",
+        "phonetic_hint": "/ˌesəˈterɪk/",
+        "options": [
+          "esoteric",
+          "ecstatic",
+          "eccentric",
+          "exotic"
+        ],
+        "answer_index": 0,
+        "example": "The lecture was full of esoteric references."
+      }
+    },
+    {
+      "id": "tem8_dc_0004",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "adj"
+      ],
+      "payload": {
+        "definition": "爱社交的，群居的",
+        "phonetic_hint": "/ɡrɪˈɡeəriəs/",
+        "options": [
+          "gregarious",
+          "gruesome",
+          "gullible",
+          "garrulous"
+        ],
+        "answer_index": 0,
+        "example": "He is a gregarious person who loves parties."
+      }
+    },
+    {
+      "id": "tem8_dc_0005",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "adj"
+      ],
+      "payload": {
+        "definition": "萎靡不振的，昏睡的",
+        "phonetic_hint": "/ləˈθɑːdʒɪk/",
+        "options": [
+          "lethal",
+          "lethargic",
+          "lucid",
+          "luminous"
+        ],
+        "answer_index": 1,
+        "example": "The hot weather made everyone feel lethargic."
+      }
+    },
+    {
+      "id": "tem8_dc_0006",
+      "type": "definition_choice",
+      "difficulty": 5,
+      "tags": [
+        "adj",
+        "formal"
+      ],
+      "payload": {
+        "definition": "桀骜不驯的，难以管教的",
+        "phonetic_hint": "/rɪˈkælsɪtrənt/",
+        "options": [
+          "recalcitrant",
+          "resilient",
+          "redundant",
+          "reticent"
+        ],
+        "answer_index": 0,
+        "example": "The recalcitrant student refused to follow the rules."
+      }
+    },
+    {
+      "id": "tem8_mc_0001",
+      "type": "multi_choice",
+      "difficulty": 3,
+      "tags": [
+        "literature",
+        "shakespeare"
+      ],
+      "payload": {
+        "question": "Which of the following is NOT a tragedy written by William Shakespeare?",
+        "options": [
+          "Hamlet",
+          "Macbeth",
+          "A Midsummer Night's Dream",
+          "Othello"
+        ],
+        "explanation": "《仲夏夜之梦》是莎士比亚的喜剧，而非悲剧。其余三部均为莎翁四大悲剧之一。",
+        "answer_indices": [
+          2
+        ]
+      }
+    },
+    {
+      "id": "tem8_mc_0002",
+      "type": "multi_choice",
+      "difficulty": 3,
+      "tags": [
+        "literature",
+        "victorian"
+      ],
+      "payload": {
+        "question": "The author of 'A Tale of Two Cities' is ___.",
+        "options": [
+          "Charles Dickens",
+          "Thomas Hardy",
+          "George Eliot",
+          "Jane Austen"
+        ],
+        "explanation": "《双城记》是英国维多利亚时代小说家查尔斯·狄更斯的代表作。",
+        "answer_indices": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "tem8_mc_0003",
+      "type": "multi_choice",
+      "difficulty": 4,
+      "tags": [
+        "translation_studies"
+      ],
+      "payload": {
+        "question": "翻译策略中的 '归化' (domestication) 与下列哪一项相对立？",
+        "options": [
+          "literal translation",
+          "free translation",
+          "foreignization",
+          "transliteration"
+        ],
+        "explanation": "Venuti 提出归化 (domestication) 与异化 (foreignization) 这一对翻译策略：前者迎合目的语文化，后者保留源语文化色彩。",
+        "answer_indices": [
+          2
+        ]
+      }
+    },
+    {
+      "id": "tem8_mc_0004",
+      "type": "multi_choice",
+      "difficulty": 4,
+      "tags": [
+        "translation_studies"
+      ],
+      "payload": {
+        "question": "Skopos theory (目的论) 的主要代表人物是 ___。",
+        "options": [
+          "Eugene Nida",
+          "Hans J. Vermeer",
+          "Lawrence Venuti",
+          "George Steiner"
+        ],
+        "explanation": "目的论 (Skopos theory) 由德国功能学派代表 Hans J. Vermeer 提出，强调翻译由其目的决定。",
+        "answer_indices": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "tem8_mc_0005",
+      "type": "multi_choice",
+      "difficulty": 4,
+      "tags": [
+        "literature",
+        "american"
+      ],
+      "payload": {
+        "question": "Which of the following writers is regarded as a representative of American Romanticism?",
+        "options": [
+          "Mark Twain",
+          "Washington Irving",
+          "Ernest Hemingway",
+          "F. Scott Fitzgerald"
+        ],
+        "explanation": "华盛顿·欧文是美国浪漫主义早期代表，《见闻札记》为其代表作。马克·吐温属现实主义，海明威与菲茨杰拉德属现代主义。",
+        "answer_indices": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "tem8_mc_0006",
+      "type": "multi_choice",
+      "difficulty": 3,
+      "tags": [
+        "translation_studies",
+        "chinese"
+      ],
+      "payload": {
+        "question": "'信、达、雅' 这一翻译标准的提出者是 ___。",
+        "options": [
+          "林纾",
+          "严复",
+          "傅雷",
+          "鲁迅"
+        ],
+        "explanation": "严复在《天演论·译例言》中提出'译事三难：信、达、雅'，成为近代中国影响深远的翻译标准。",
+        "answer_indices": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "tem8_mc_0007",
+      "type": "multi_choice",
+      "difficulty": 4,
+      "tags": [
+        "literature",
+        "period"
+      ],
+      "payload": {
+        "question": "The Romantic Period in English literature is generally considered to span from ___.",
+        "options": [
+          "1660-1798",
+          "1798-1837",
+          "1837-1901",
+          "1901-1945"
+        ],
+        "explanation": "英国浪漫主义时期通常以 1798 年华兹华斯与柯勒律治合著《抒情歌谣集》为起点，至 1837 年维多利亚登基为止。",
+        "answer_indices": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "tem8_mc_0008",
+      "type": "multi_choice",
+      "difficulty": 4,
+      "tags": [
+        "translation_studies"
+      ],
+      "payload": {
+        "question": "Translationese (翻译腔) 主要指 ___。",
+        "options": [
+          "源语对目的语的过度影响而产生的生硬译文",
+          "译者个人的语言风格",
+          "翻译中漏译造成的错误",
+          "口译中的方言干扰"
+        ],
+        "explanation": "Translationese 指因源语结构、表达习惯对译文过度渗透，使译文不自然、生硬，是译评关注的重要现象。",
+        "answer_indices": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "tem8_mc_0009",
+      "type": "multi_choice",
+      "difficulty": 4,
+      "tags": [
+        "literature",
+        "modernism"
+      ],
+      "payload": {
+        "question": "Which writer is considered a leading figure of literary Modernism?",
+        "options": [
+          "James Joyce",
+          "Charles Dickens",
+          "Jane Austen",
+          "Daniel Defoe"
+        ],
+        "explanation": "詹姆斯·乔伊斯是现代主义文学代表，《尤利西斯》开创意识流写作。狄更斯、奥斯汀、笛福均不属现代主义。",
+        "answer_indices": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "tem8_mc_0010",
+      "type": "multi_choice",
+      "difficulty": 5,
+      "tags": [
+        "vocabulary",
+        "advanced"
+      ],
+      "payload": {
+        "question": "The professor's criticism was so ___ that the student burst into tears.",
+        "options": [
+          "poignant",
+          "poisonous",
+          "polished",
+          "plausible"
+        ],
+        "explanation": "poignant 直击人心、尖锐深刻；poisonous 有毒的；polished 优雅的；plausible 似有道理的。语境为'批评尖锐让人落泪'，选 poignant。",
+        "answer_indices": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "tem8_sf_0001",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "cloze",
+        "adj"
+      ],
+      "payload": {
+        "sentence": "His remarks were ___ with the official party line.",
+        "answer": "inconsistent",
+        "options": [
+          "inconsistent",
+          "consistent",
+          "insistent",
+          "content"
+        ],
+        "answer_index": 0,
+        "translation": "他的言论与党的官方立场不一致。"
+      }
+    },
+    {
+      "id": "tem8_sf_0002",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "cloze",
+        "phrase"
+      ],
+      "payload": {
+        "sentence": "The new regulation will ___ on January 1st next year.",
+        "answer": "take effect",
+        "options": [
+          "take effect",
+          "take part",
+          "take place",
+          "take heart"
+        ],
+        "answer_index": 0,
+        "translation": "新规定将于明年1月1日生效。"
+      }
+    },
+    {
+      "id": "tem8_sf_0003",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "cloze",
+        "verb"
+      ],
+      "payload": {
+        "sentence": "She tried to ___ her absence by claiming to be ill.",
+        "answer": "justify",
+        "options": [
+          "justify",
+          "rectify",
+          "simplify",
+          "exemplify"
+        ],
+        "answer_index": 0,
+        "translation": "她试图以生病为由为自己的缺席辩解。"
+      }
+    },
+    {
+      "id": "tem8_sf_0004",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "cloze",
+        "adj"
+      ],
+      "payload": {
+        "sentence": "The government's response was widely regarded as ___.",
+        "answer": "inadequate",
+        "options": [
+          "inadequate",
+          "inevitable",
+          "industrious",
+          "ingenious"
+        ],
+        "answer_index": 0,
+        "translation": "政府的回应被普遍认为是不充分的。"
+      }
+    },
+    {
+      "id": "tem8_sf_0005",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "cloze",
+        "noun"
+      ],
+      "payload": {
+        "sentence": "He has a(n) ___ for languages and speaks five fluently.",
+        "answer": "aptitude",
+        "options": [
+          "aptitude",
+          "attitude",
+          "altitude",
+          "gratitude"
+        ],
+        "answer_index": 0,
+        "translation": "他有语言天赋，能流利地说五种语言。"
+      }
+    },
+    {
+      "id": "tem8_sf_0006",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "cloze",
+        "verb"
+      ],
+      "payload": {
+        "sentence": "We should not ___ the importance of cultural differences in translation.",
+        "answer": "overlook",
+        "options": [
+          "overlook",
+          "overcome",
+          "overthrow",
+          "overflow"
+        ],
+        "answer_index": 0,
+        "translation": "我们不应忽视翻译中文化差异的重要性。"
+      }
+    },
+    {
+      "id": "tem8_sp_0001",
+      "type": "spelling",
+      "difficulty": 4,
+      "tags": [
+        "noun",
+        "formal"
+      ],
+      "payload": {
+        "definition": "雄辩，口才 (n.)",
+        "answer": "eloquence",
+        "phonetic": "/ˈeləkwəns/",
+        "pos": "n.",
+        "hint_letters": [
+          0,
+          3
+        ],
+        "example": "He spoke with eloquence and passion."
+      }
+    },
+    {
+      "id": "tem8_sp_0002",
+      "type": "spelling",
+      "difficulty": 5,
+      "tags": [
+        "noun",
+        "formal"
+      ],
+      "payload": {
+        "definition": "无处不在，普遍存在 (n.)",
+        "answer": "ubiquity",
+        "phonetic": "/juːˈbɪkwəti/",
+        "pos": "n.",
+        "hint_letters": [
+          0,
+          4
+        ],
+        "example": "The ubiquity of smartphones has changed our lives."
+      }
+    },
+    {
+      "id": "tem8_sp_0003",
+      "type": "spelling",
+      "difficulty": 5,
+      "tags": [
+        "adj",
+        "formal"
+      ],
+      "payload": {
+        "definition": "含糊其辞的，模棱两可的 (adj.)",
+        "answer": "equivocal",
+        "phonetic": "/ɪˈkwɪvəkəl/",
+        "pos": "adj.",
+        "hint_letters": [
+          0,
+          4
+        ],
+        "example": "His equivocal answer failed to satisfy the reporters."
+      }
+    },
+    {
+      "id": "tem8_sp_0004",
+      "type": "spelling",
+      "difficulty": 5,
+      "tags": [
+        "noun",
+        "formal"
+      ],
+      "payload": {
+        "definition": "严厉，严酷 (n.)",
+        "answer": "stringency",
+        "phonetic": "/ˈstrɪndʒənsi/",
+        "pos": "n.",
+        "hint_letters": [
+          0,
+          3
+        ],
+        "example": "The stringency of the new rules surprised everyone."
+      }
+    },
+    {
+      "id": "tem8_tf_0001",
+      "type": "true_false",
+      "difficulty": 4,
+      "tags": [
+        "translation_studies"
+      ],
+      "payload": {
+        "statement": "尤金·奈达提出的'动态对等'(dynamic equivalence) 强调译文应让目的语读者获得与源语读者相似的反应。",
+        "answer": true,
+        "explanation": "奈达的动态对等理论核心在于：译文读者对译文的反应应与源语读者对原文的反应基本一致。"
+      }
+    },
+    {
+      "id": "tem8_tf_0002",
+      "type": "true_false",
+      "difficulty": 4,
+      "tags": [
+        "literature",
+        "modernism"
+      ],
+      "payload": {
+        "statement": "T. S. Eliot 的《荒原》是用严格的十四行诗体写成的浪漫主义代表作。",
+        "answer": false,
+        "explanation": "《荒原》是现代主义诗歌代表作，而非浪漫主义；其形式为碎片化的自由诗体，并非十四行诗。"
+      }
+    }
+  ]
+}

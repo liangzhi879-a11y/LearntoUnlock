@@ -52,20 +52,19 @@
         },
         "difficulty": { "type": "integer", "minimum": 1, "maximum": 5 },
         "tags": { "type": "array", "items": { "type": "string" } },
-        "payload": {
-          "oneOf": [
-            { "$ref": "#/$defs/WordChoicePayload" },
-            { "$ref": "#/$defs/DefinitionChoicePayload" },
-            { "$ref": "#/$defs/SpellingPayload" },
-            { "$ref": "#/$defs/ListeningChoicePayload" },
-            { "$ref": "#/$defs/SentenceFillPayload" },
-            { "$ref": "#/$defs/SingleChoicePayload" },
-            { "$ref": "#/$defs/MultiChoicePayload" },
-            { "$ref": "#/$defs/TrueFalsePayload" },
-            { "$ref": "#/$defs/FormulaChoicePayload" }
-          ]
-        }
-      }
+        "payload": { "type": "object" }
+      },
+      "allOf": [
+        { "if": { "properties": { "type": { "const": "word_choice" } }, "required": ["type"] }, "then": { "properties": { "payload": { "$ref": "#/$defs/WordChoicePayload" } } } },
+        { "if": { "properties": { "type": { "const": "definition_choice" } }, "required": ["type"] }, "then": { "properties": { "payload": { "$ref": "#/$defs/DefinitionChoicePayload" } } } },
+        { "if": { "properties": { "type": { "const": "spelling" } }, "required": ["type"] }, "then": { "properties": { "payload": { "$ref": "#/$defs/SpellingPayload" } } } },
+        { "if": { "properties": { "type": { "const": "listening_choice" } }, "required": ["type"] }, "then": { "properties": { "payload": { "$ref": "#/$defs/ListeningChoicePayload" } } } },
+        { "if": { "properties": { "type": { "const": "sentence_fill" } }, "required": ["type"] }, "then": { "properties": { "payload": { "$ref": "#/$defs/SentenceFillPayload" } } } },
+        { "if": { "properties": { "type": { "const": "single_choice" } }, "required": ["type"] }, "then": { "properties": { "payload": { "$ref": "#/$defs/SingleChoicePayload" } } } },
+        { "if": { "properties": { "type": { "const": "multi_choice" } }, "required": ["type"] }, "then": { "properties": { "payload": { "$ref": "#/$defs/MultiChoicePayload" } } } },
+        { "if": { "properties": { "type": { "const": "true_false" } }, "required": ["type"] }, "then": { "properties": { "payload": { "$ref": "#/$defs/TrueFalsePayload" } } } },
+        { "if": { "properties": { "type": { "const": "formula_choice" } }, "required": ["type"] }, "then": { "properties": { "payload": { "$ref": "#/$defs/FormulaChoicePayload" } } } }
+      ]
     },
     "WordChoicePayload": {
       "type": "object",

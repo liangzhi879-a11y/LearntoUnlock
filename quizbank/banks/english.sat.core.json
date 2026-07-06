@@ -1,0 +1,1155 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "bank_id": "english.sat.core",
+    "subject": "english",
+    "category": "sat",
+    "name": "SAT 核心词汇",
+    "name_en": "SAT Core Vocabulary",
+    "cefr_level": "C1",
+    "total_items": 50,
+    "source": "SAT 官方指南 + 历年真题整理",
+    "license": "CC-BY-SA 4.0",
+    "updated_at": "2026-07-05"
+  },
+  "items": [
+    {
+      "id": "sat_wc_0001",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "abstract",
+        "phonetic": "/ˈæbstrækt/",
+        "pos": "adj.",
+        "definitions": [
+          "抽象的"
+        ],
+        "options": [
+          "具体的",
+          "抽象的",
+          "物质的",
+          "实在的"
+        ],
+        "answer_index": 1,
+        "example": "The concept of justice is rather abstract.",
+        "example_translation": "正义的概念相当抽象。"
+      }
+    },
+    {
+      "id": "sat_wc_0002",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "vocabulary",
+        "verb"
+      ],
+      "payload": {
+        "word": "accommodate",
+        "phonetic": "/əˈkɒmədeɪt/",
+        "pos": "v.",
+        "definitions": [
+          "容纳",
+          "适应"
+        ],
+        "options": [
+          "拒绝",
+          "容纳",
+          "排斥",
+          "驱逐"
+        ],
+        "answer_index": 1,
+        "example": "The hotel can accommodate up to 500 guests.",
+        "example_translation": "这家酒店最多可容纳500位客人。"
+      }
+    },
+    {
+      "id": "sat_wc_0003",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "adept",
+        "phonetic": "/əˈdept/",
+        "pos": "adj.",
+        "definitions": [
+          "熟练的",
+          "擅长的"
+        ],
+        "options": [
+          "生疏的",
+          "熟练的",
+          "笨拙的",
+          "无能的"
+        ],
+        "answer_index": 1,
+        "example": "She is adept at solving complex puzzles.",
+        "example_translation": "她擅长解决复杂的谜题。"
+      }
+    },
+    {
+      "id": "sat_wc_0004",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "affable",
+        "phonetic": "/ˈæfəbl/",
+        "pos": "adj.",
+        "definitions": [
+          "和蔼的",
+          "友善的"
+        ],
+        "options": [
+          "冷漠的",
+          "和蔼的",
+          "傲慢的",
+          "敌意的"
+        ],
+        "answer_index": 1,
+        "example": "The host's affable manner put everyone at ease.",
+        "example_translation": "主人和蔼的态度让所有人都感到自在。"
+      }
+    },
+    {
+      "id": "sat_wc_0005",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "altruistic",
+        "phonetic": "/ˌæltruˈɪstɪk/",
+        "pos": "adj.",
+        "definitions": [
+          "利他的",
+          "无私的"
+        ],
+        "options": [
+          "自私的",
+          "利他的",
+          "贪婪的",
+          "冷漠的"
+        ],
+        "answer_index": 1,
+        "example": "Her altruistic deeds earned her the community's respect.",
+        "example_translation": "她无私的善举赢得了社区的尊重。"
+      }
+    },
+    {
+      "id": "sat_wc_0006",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "ambiguous",
+        "phonetic": "/æmˈbɪɡjuəs/",
+        "pos": "adj.",
+        "definitions": [
+          "模棱两可的",
+          "含糊的"
+        ],
+        "options": [
+          "明确的",
+          "模棱两可的",
+          "清晰的",
+          "肯定的"
+        ],
+        "answer_index": 1,
+        "example": "His ambiguous answer left everyone confused.",
+        "example_translation": "他模棱两可的回答让所有人都感到困惑。"
+      }
+    },
+    {
+      "id": "sat_wc_0007",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "analogous",
+        "phonetic": "/əˈnæləɡəs/",
+        "pos": "adj.",
+        "definitions": [
+          "类似的",
+          "可比拟的"
+        ],
+        "options": [
+          "不同的",
+          "类似的",
+          "相反的",
+          "无关的"
+        ],
+        "answer_index": 1,
+        "example": "The two situations are analogous in several respects.",
+        "example_translation": "这两种情况在几个方面是类似的。"
+      }
+    },
+    {
+      "id": "sat_wc_0008",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "astute",
+        "phonetic": "/əˈstjuːt/",
+        "pos": "adj.",
+        "definitions": [
+          "敏锐的",
+          "精明的"
+        ],
+        "options": [
+          "愚钝的",
+          "敏锐的",
+          "天真的",
+          "粗心的"
+        ],
+        "answer_index": 1,
+        "example": "Her astute observations impressed the board.",
+        "example_translation": "她敏锐的观察力令董事会印象深刻。"
+      }
+    },
+    {
+      "id": "sat_wc_0009",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "audacious",
+        "phonetic": "/ɔːˈdeɪʃəs/",
+        "pos": "adj.",
+        "definitions": [
+          "大胆的",
+          "鲁莽的"
+        ],
+        "options": [
+          "胆怯的",
+          "大胆的",
+          "谨慎的",
+          "保守的"
+        ],
+        "answer_index": 1,
+        "example": "The explorer made an audacious attempt to cross the Antarctic.",
+        "example_translation": "探险家大胆地尝试横穿南极。"
+      }
+    },
+    {
+      "id": "sat_wc_0010",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "benevolent",
+        "phonetic": "/bəˈnevələnt/",
+        "pos": "adj.",
+        "definitions": [
+          "仁慈的",
+          "慈善的"
+        ],
+        "options": [
+          "残忍的",
+          "仁慈的",
+          "恶意的",
+          "冷酷的"
+        ],
+        "answer_index": 1,
+        "example": "The benevolent donor funded the new library.",
+        "example_translation": "那位仁慈的捐赠者资助了新图书馆。"
+      }
+    },
+    {
+      "id": "sat_wc_0011",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "candid",
+        "phonetic": "/ˈkændɪd/",
+        "pos": "adj.",
+        "definitions": [
+          "坦率的",
+          "直言的"
+        ],
+        "options": [
+          "虚伪的",
+          "坦率的",
+          "隐晦的",
+          "圆滑的"
+        ],
+        "answer_index": 1,
+        "example": "She gave a candid assessment of the project.",
+        "example_translation": "她对项目做了坦率的评估。"
+      }
+    },
+    {
+      "id": "sat_wc_0012",
+      "type": "word_choice",
+      "difficulty": 5,
+      "tags": [
+        "vocabulary",
+        "verb"
+      ],
+      "payload": {
+        "word": "capitulate",
+        "phonetic": "/kəˈpɪtʃuleɪt/",
+        "pos": "v.",
+        "definitions": [
+          "投降",
+          "屈服"
+        ],
+        "options": [
+          "抵抗",
+          "投降",
+          "进攻",
+          "坚持"
+        ],
+        "answer_index": 1,
+        "example": "The defenders refused to capitulate to the siege.",
+        "example_translation": "守军拒绝向围攻者投降。"
+      }
+    },
+    {
+      "id": "sat_wc_0013",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "cogent",
+        "phonetic": "/ˈkəʊdʒənt/",
+        "pos": "adj.",
+        "definitions": [
+          "令人信服的",
+          "有说服力的"
+        ],
+        "options": [
+          "无力的",
+          "令人信服的",
+          "无关的",
+          "含糊的"
+        ],
+        "answer_index": 1,
+        "example": "He presented a cogent case for reform.",
+        "example_translation": "他为改革提出了令人信服的理由。"
+      }
+    },
+    {
+      "id": "sat_wc_0014",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "complacent",
+        "phonetic": "/kəmˈpleɪsnt/",
+        "pos": "adj.",
+        "definitions": [
+          "自满的",
+          "得意的"
+        ],
+        "options": [
+          "谦虚的",
+          "自满的",
+          "谨慎的",
+          "焦虑的"
+        ],
+        "answer_index": 1,
+        "example": "After winning three games, the team grew complacent.",
+        "example_translation": "赢得三场比赛后，球队变得自满了。"
+      }
+    },
+    {
+      "id": "sat_wc_0015",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "convoluted",
+        "phonetic": "/ˈkɒnvəluːtɪd/",
+        "pos": "adj.",
+        "definitions": [
+          "复杂的",
+          "费解的"
+        ],
+        "options": [
+          "简单的",
+          "复杂的",
+          "清晰的",
+          "直接的"
+        ],
+        "answer_index": 1,
+        "example": "The plot of the novel was too convoluted to follow.",
+        "example_translation": "这部小说的情节过于复杂，难以理解。"
+      }
+    },
+    {
+      "id": "sat_wc_0016",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "cynical",
+        "phonetic": "/ˈsɪnɪkl/",
+        "pos": "adj.",
+        "definitions": [
+          "愤世嫉俗的",
+          "怀疑的"
+        ],
+        "options": [
+          "天真的",
+          "愤世嫉俗的",
+          "乐观的",
+          "信任的"
+        ],
+        "answer_index": 1,
+        "example": "His cynical view of politics discouraged young voters.",
+        "example_translation": "他对政治愤世嫉俗的看法让年轻选民感到沮丧。"
+      }
+    },
+    {
+      "id": "sat_wc_0017",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "eloquent",
+        "phonetic": "/ˈeləkwənt/",
+        "pos": "adj.",
+        "definitions": [
+          "雄辩的",
+          "有口才的"
+        ],
+        "options": [
+          "笨嘴的",
+          "雄辩的",
+          "沉默的",
+          "结巴的"
+        ],
+        "answer_index": 1,
+        "example": "She delivered an eloquent speech at the ceremony.",
+        "example_translation": "她在典礼上发表了一篇雄辩的演讲。"
+      }
+    },
+    {
+      "id": "sat_wc_0018",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "word": "meticulous",
+        "phonetic": "/məˈtɪkjələs/",
+        "pos": "adj.",
+        "definitions": [
+          "一丝不苟的",
+          "细心的"
+        ],
+        "options": [
+          "马虎的",
+          "一丝不苟的",
+          "草率的",
+          "粗心的"
+        ],
+        "answer_index": 1,
+        "example": "The meticulous accountant checked every figure twice.",
+        "example_translation": "那位一丝不苟的会计把每个数字都核对了两遍。"
+      }
+    },
+    {
+      "id": "sat_dc_0001",
+      "type": "definition_choice",
+      "difficulty": 5,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "definition": "短暂的，瞬息的",
+        "phonetic_hint": "/ɪˈfemərəl/",
+        "options": [
+          "ephemeral",
+          "funeral",
+          "femoral",
+          "several"
+        ],
+        "answer_index": 0,
+        "example": "Fame on social media is often ephemeral."
+      }
+    },
+    {
+      "id": "sat_dc_0002",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "noun"
+      ],
+      "payload": {
+        "definition": "谜，难解之事",
+        "phonetic_hint": "/ɪˈnɪɡmə/",
+        "options": [
+          "enigma",
+          "stigma",
+          "edema",
+          "aroma"
+        ],
+        "answer_index": 0,
+        "example": "The Mona Lisa's smile remains an enigma."
+      }
+    },
+    {
+      "id": "sat_dc_0003",
+      "type": "definition_choice",
+      "difficulty": 5,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "definition": "颓废的，堕落的",
+        "phonetic_hint": "/ˈdekədənt/",
+        "options": [
+          "decadent",
+          "decedent",
+          "defendant",
+          "descendant"
+        ],
+        "answer_index": 0,
+        "example": "The empire fell into decadent decline."
+      }
+    },
+    {
+      "id": "sat_dc_0004",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "verb"
+      ],
+      "payload": {
+        "definition": "安抚，平息",
+        "phonetic_hint": "/pləˈkeɪt/",
+        "options": [
+          "placate",
+          "placebo",
+          "placard",
+          "plateau"
+        ],
+        "answer_index": 0,
+        "example": "He tried to placate his angry boss."
+      }
+    },
+    {
+      "id": "sat_dc_0005",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "definition": "无瑕疵的，完美的",
+        "phonetic_hint": "/ɪmˈpekəbl/",
+        "options": [
+          "impeccable",
+          "impossible",
+          "invisible",
+          "inaccessible"
+        ],
+        "answer_index": 0,
+        "example": "Her impeccable manners impressed everyone."
+      }
+    },
+    {
+      "id": "sat_dc_0006",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "definition": "辛辣的，刺鼻的",
+        "phonetic_hint": "/ˈpʌndʒənt/",
+        "options": [
+          "pungent",
+          "urgent",
+          "potent",
+          "patient"
+        ],
+        "answer_index": 0,
+        "example": "The pungent aroma filled the kitchen."
+      }
+    },
+    {
+      "id": "sat_dc_0007",
+      "type": "definition_choice",
+      "difficulty": 5,
+      "tags": [
+        "vocabulary",
+        "noun"
+      ],
+      "payload": {
+        "definition": "关切，挂念",
+        "phonetic_hint": "/səˈlɪsɪtjuːd/",
+        "options": [
+          "solicitude",
+          "solitude",
+          "fortitude",
+          "gratitude"
+        ],
+        "answer_index": 0,
+        "example": "The solicitous nurse showed great solicitude for her patient."
+      }
+    },
+    {
+      "id": "sat_dc_0008",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "noun"
+      ],
+      "payload": {
+        "definition": "愤世嫉俗的人",
+        "phonetic_hint": "/ˈsɪnɪk/",
+        "options": [
+          "cynic",
+          "ionic",
+          "clinic",
+          "comic"
+        ],
+        "answer_index": 0,
+        "example": "As a cynic, he doubted every politician's motives."
+      }
+    },
+    {
+      "id": "sat_dc_0009",
+      "type": "definition_choice",
+      "difficulty": 5,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "definition": "悲伤的，忧郁的",
+        "phonetic_hint": "/luːˈɡuːbriəs/",
+        "options": [
+          "lugubrious",
+          "ludicrous",
+          "laborious",
+          "luxurious"
+        ],
+        "answer_index": 0,
+        "example": "The actor's lugubrious expression suited the tragic role."
+      }
+    },
+    {
+      "id": "sat_dc_0010",
+      "type": "definition_choice",
+      "difficulty": 5,
+      "tags": [
+        "vocabulary",
+        "adj"
+      ],
+      "payload": {
+        "definition": "悦耳的，流畅的",
+        "phonetic_hint": "/meˈlɪfluəs/",
+        "options": [
+          "mellifluous",
+          "strenuous",
+          "ambiguous",
+          "pretentious"
+        ],
+        "answer_index": 0,
+        "example": "Her mellifluous voice captivated the audience."
+      }
+    },
+    {
+      "id": "sat_sc_0001",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "sentence_completion",
+        "sat"
+      ],
+      "payload": {
+        "question": "Although the scientist's theory was initially ___, it eventually gained widespread acceptance after extensive testing.",
+        "options": [
+          "dismissed",
+          "controversial",
+          "celebrated",
+          "endorsed",
+          "validated"
+        ],
+        "answer_index": 1,
+        "explanation": "Although 提示转折，后句为「gained widespread acceptance」，故空格应填其反义；controversial「有争议的」符合；celebrated/endorsed/validated 与后句同向，dismissed 语义过强且与后句「eventually」搭配不当。"
+      }
+    },
+    {
+      "id": "sat_sc_0002",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "sentence_completion",
+        "sat"
+      ],
+      "payload": {
+        "question": "The author's tone in the passage is best described as ___, given her dry wit and understated criticism of the bureaucracy.",
+        "options": [
+          "solemn",
+          "satirical",
+          "melodramatic",
+          "earnest",
+          "eulogistic"
+        ],
+        "answer_index": 1,
+        "explanation": "satirical 意为「讽刺的」，与「dry wit」和「understated criticism」相符；solemn/earnest 均为严肃认真，melodramatic 过于夸张，eulogistic 为颂扬，均不符。"
+      }
+    },
+    {
+      "id": "sat_sc_0003",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "sentence_completion",
+        "sat"
+      ],
+      "payload": {
+        "question": "Despite the storm's ___, the coastal town escaped with only minor damage.",
+        "options": [
+          "ferocity",
+          "mildness",
+          "brevity",
+          "absence",
+          "weakness"
+        ],
+        "answer_index": 0,
+        "explanation": "Despite 提示转折，后句「escaped with only minor damage」与风暴的猛烈形成对比；ferocity「猛烈」符合；mildness/brevity/absence/weakness 与 despite 转折不符。"
+      }
+    },
+    {
+      "id": "sat_sc_0004",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "sentence_completion",
+        "sat"
+      ],
+      "payload": {
+        "question": "The mayor's speech was so filled with ___ that voters remained uncertain about her actual plans.",
+        "options": [
+          "specifics",
+          "platitudes",
+          "details",
+          "proposals",
+          "statistics"
+        ],
+        "answer_index": 1,
+        "explanation": "platitudes 意为「陈词滥调」，符合「voters remained uncertain」的语境；specifics/details/proposals/statistics 均为具体内容，会使选民明确而非困惑。"
+      }
+    },
+    {
+      "id": "sat_sc_0005",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "sentence_completion",
+        "sat"
+      ],
+      "payload": {
+        "question": "The novel's protagonist is a ___ figure, torn between loyalty to her family and her desire for independence.",
+        "options": [
+          "resolute",
+          "ambivalent",
+          "apathetic",
+          "indifferent",
+          "decisive"
+        ],
+        "answer_index": 1,
+        "explanation": "ambivalent 意为「矛盾的」，与「torn between」相符；resolute/decisive 表示坚决，apathetic/indifferent 表示冷漠，均与「torn」不符。"
+      }
+    },
+    {
+      "id": "sat_sc_0006",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "sentence_completion",
+        "sat"
+      ],
+      "payload": {
+        "question": "The professor's explanation was so ___ that even the most confused students grasped the concept immediately.",
+        "options": [
+          "obscure",
+          "convoluted",
+          "lucid",
+          "cryptic",
+          "ambiguous"
+        ],
+        "answer_index": 2,
+        "explanation": "lucid 意为「清晰的，易懂的」，与「grasped the concept immediately」相符；obscure/convoluted/cryptic/ambiguous 均表示难懂，与语境相反。"
+      }
+    },
+    {
+      "id": "sat_sc_0007",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "sentence_completion",
+        "sat"
+      ],
+      "payload": {
+        "question": "Rather than ___ the issue, the principal chose to address the students' concerns directly.",
+        "options": [
+          "confront",
+          "ignore",
+          "tackle",
+          "examine",
+          "acknowledge"
+        ],
+        "answer_index": 1,
+        "explanation": "Rather than 提示选择相反动作，后句为「directly address」，故空格应填其反义；ignore「忽视」符合；confront/tackle/examine/acknowledge 与 address 同向。"
+      }
+    },
+    {
+      "id": "sat_sc_0008",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": [
+        "sentence_completion",
+        "sat"
+      ],
+      "payload": {
+        "question": "The athlete's ___ training regimen, undertaken with religious devotion, ultimately led to her Olympic victory.",
+        "options": [
+          "sporadic",
+          "rigorous",
+          "haphazard",
+          "occasional",
+          "casual"
+        ],
+        "answer_index": 1,
+        "explanation": "rigorous 意为「严格的，严酷的」，与「religious devotion」和「Olympic victory」相符；sporadic/haphazard/occasional/casual 均表示零散随意，与语境相反。"
+      }
+    },
+    {
+      "id": "sat_sf_0001",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "sentence_fill",
+        "verb"
+      ],
+      "payload": {
+        "sentence": "The teacher tried to ___ the angry student by listening patiently to his complaints.",
+        "answer": "placate",
+        "options": [
+          "placate",
+          "agitate",
+          "provoke",
+          "irritate"
+        ],
+        "answer_index": 0,
+        "translation": "老师试图通过耐心倾听这位愤怒学生的抱怨来安抚他。"
+      }
+    },
+    {
+      "id": "sat_sf_0002",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "sentence_fill",
+        "noun"
+      ],
+      "payload": {
+        "sentence": "After hours of debate, the committee finally reached a ___.",
+        "answer": "consensus",
+        "options": [
+          "consensus",
+          "census",
+          "censure",
+          "cancer"
+        ],
+        "answer_index": 0,
+        "translation": "经过数小时的辩论，委员会最终达成了共识。"
+      }
+    },
+    {
+      "id": "sat_sf_0003",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "sentence_fill",
+        "adj"
+      ],
+      "payload": {
+        "sentence": "The comedian's ___ remarks had the audience in stitches.",
+        "answer": "facetious",
+        "options": [
+          "facetious",
+          "serious",
+          "somber",
+          "grave"
+        ],
+        "answer_index": 0,
+        "translation": "喜剧演员滑稽的话语让观众捧腹大笑。"
+      }
+    },
+    {
+      "id": "sat_sf_0004",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "sentence_fill",
+        "verb"
+      ],
+      "payload": {
+        "sentence": "The scientist's findings were ___ by independent researchers, confirming the original results.",
+        "answer": "corroborated",
+        "options": [
+          "corroborated",
+          "contradicted",
+          "refuted",
+          "disputed"
+        ],
+        "answer_index": 0,
+        "translation": "科学家的发现被独立研究人员证实，确认了最初的结果。"
+      }
+    },
+    {
+      "id": "sat_sf_0005",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "sentence_fill",
+        "adj"
+      ],
+      "payload": {
+        "sentence": "The novel's ending was deliberately ___, leaving readers to draw their own conclusions.",
+        "answer": "ambiguous",
+        "options": [
+          "ambiguous",
+          "explicit",
+          "definitive",
+          "certain"
+        ],
+        "answer_index": 0,
+        "translation": "小说的结局刻意留下模糊，让读者自行得出结论。"
+      }
+    },
+    {
+      "id": "sat_sf_0006",
+      "type": "sentence_fill",
+      "difficulty": 5,
+      "tags": [
+        "sentence_fill",
+        "adj"
+      ],
+      "payload": {
+        "sentence": "Despite the hardships, she remained ___, tackling each obstacle with unwavering courage.",
+        "answer": "intrepid",
+        "options": [
+          "intrepid",
+          "timid",
+          "fearful",
+          "cowardly"
+        ],
+        "answer_index": 0,
+        "translation": "尽管面临艰难困苦，她依然勇猛无畏，以坚定的勇气攻克每一道障碍。"
+      }
+    },
+    {
+      "id": "sat_sf_0007",
+      "type": "sentence_fill",
+      "difficulty": 5,
+      "tags": [
+        "sentence_fill",
+        "noun"
+      ],
+      "payload": {
+        "sentence": "The critic's review was filled with ___, attacking the artist's work at every turn.",
+        "answer": "invective",
+        "options": [
+          "invective",
+          "praise",
+          "acclaim",
+          "applause"
+        ],
+        "answer_index": 0,
+        "translation": "评论家的评论中充满猛烈抨击，处处攻击艺术家的作品。"
+      }
+    },
+    {
+      "id": "sat_sp_0001",
+      "type": "spelling",
+      "difficulty": 4,
+      "tags": [
+        "spelling",
+        "adj"
+      ],
+      "payload": {
+        "definition": "模棱两可的，含糊的",
+        "answer": "ambiguous",
+        "phonetic": "/æmˈbɪɡjuəs/",
+        "pos": "adj.",
+        "hint_letters": [
+          0,
+          4
+        ],
+        "example": "His ambiguous answer confused everyone."
+      }
+    },
+    {
+      "id": "sat_sp_0002",
+      "type": "spelling",
+      "difficulty": 4,
+      "tags": [
+        "spelling",
+        "adj"
+      ],
+      "payload": {
+        "definition": "雄辩的，有口才的",
+        "answer": "eloquent",
+        "phonetic": "/ˈeləkwənt/",
+        "pos": "adj.",
+        "hint_letters": [
+          0,
+          4
+        ],
+        "example": "She gave an eloquent speech."
+      }
+    },
+    {
+      "id": "sat_sp_0003",
+      "type": "spelling",
+      "difficulty": 4,
+      "tags": [
+        "spelling",
+        "adj"
+      ],
+      "payload": {
+        "definition": "一丝不苟的，细心的",
+        "answer": "meticulous",
+        "phonetic": "/məˈtɪkjələs/",
+        "pos": "adj.",
+        "hint_letters": [
+          0,
+          5
+        ],
+        "example": "He is meticulous about details."
+      }
+    },
+    {
+      "id": "sat_sp_0004",
+      "type": "spelling",
+      "difficulty": 4,
+      "tags": [
+        "spelling",
+        "adj"
+      ],
+      "payload": {
+        "definition": "复杂的，费解的",
+        "answer": "convoluted",
+        "phonetic": "/ˈkɒnvəluːtɪd/",
+        "pos": "adj.",
+        "hint_letters": [
+          0,
+          5
+        ],
+        "example": "The plot was convoluted and hard to follow."
+      }
+    },
+    {
+      "id": "sat_sp_0005",
+      "type": "spelling",
+      "difficulty": 4,
+      "tags": [
+        "spelling",
+        "adj"
+      ],
+      "payload": {
+        "definition": "仁慈的，慈善的",
+        "answer": "benevolent",
+        "phonetic": "/bəˈnevələnt/",
+        "pos": "adj.",
+        "hint_letters": [
+          0,
+          5
+        ],
+        "example": "The benevolent man donated generously."
+      }
+    },
+    {
+      "id": "sat_tf_0001",
+      "type": "true_false",
+      "difficulty": 4,
+      "tags": [
+        "true_false",
+        "vocabulary"
+      ],
+      "payload": {
+        "statement": "The word 'candid' means being honest and straightforward in speech.",
+        "answer": true,
+        "explanation": "candid 意为「坦率的，直言的」，源自拉丁语 candidus「白色、纯洁」，引申为不加掩饰的诚实。"
+      }
+    },
+    {
+      "id": "sat_tf_0002",
+      "type": "true_false",
+      "difficulty": 4,
+      "tags": [
+        "true_false",
+        "vocabulary"
+      ],
+      "payload": {
+        "statement": "The word 'apathy' refers to a strong feeling of enthusiasm or passion.",
+        "answer": false,
+        "explanation": "apathy 意为「冷漠，无动于衷」，a-（无）+ pathy（情感），与热情激情相反。"
+      }
+    }
+  ]
+}

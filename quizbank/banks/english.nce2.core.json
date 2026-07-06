@@ -1,0 +1,712 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "bank_id": "english.nce2.core",
+    "subject": "english",
+    "category": "nce2",
+    "name": "新概念英语 第二册",
+    "name_en": "New Concept English 2",
+    "cefr_level": "B1",
+    "total_items": 50,
+    "source": "新概念英语第二册课文整理",
+    "license": "CC-BY-SA 4.0",
+    "updated_at": "2026-07-05"
+  },
+  "items": [
+    {
+      "id": "nce2_wc_0001",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["noun", "abstract", "lesson1"],
+      "payload": {
+        "word": "private",
+        "phonetic": "/ˈpraɪvət/",
+        "pos": "adj.",
+        "definitions": ["私人的", "私密的"],
+        "options": ["公开的", "私人的", "公共的", "普遍的"],
+        "answer_index": 1,
+        "example": "It's none of your business. This is a private conversation!",
+        "example_translation": "这不关你的事。这是私人谈话！"
+      }
+    },
+    {
+      "id": "nce2_wc_0002",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["noun", "abstract", "lesson1"],
+      "payload": {
+        "word": "conversation",
+        "phonetic": "/ˌkɒnvəˈseɪʃn/",
+        "pos": "n.",
+        "definitions": ["谈话", "交谈"],
+        "options": ["会议", "谈话", "演讲", "报告"],
+        "answer_index": 1,
+        "example": "I had a pleasant conversation with him.",
+        "example_translation": "我和他进行了一次愉快的交谈。"
+      }
+    },
+    {
+      "id": "nce2_wc_0003",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["noun", "lesson1"],
+      "payload": {
+        "word": "theatre",
+        "phonetic": "/ˈθɪətə(r)/",
+        "pos": "n.",
+        "definitions": ["剧场", "戏院"],
+        "options": ["剧场", "餐厅", "学校", "工厂"],
+        "answer_index": 0,
+        "example": "Last week I went to the theatre.",
+        "example_translation": "上周我去了剧院。"
+      }
+    },
+    {
+      "id": "nce2_wc_0004",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["adj", "lesson1"],
+      "payload": {
+        "word": "rude",
+        "phonetic": "/ruːd/",
+        "pos": "adj.",
+        "definitions": ["粗鲁的", "无礼的"],
+        "options": ["礼貌的", "友好的", "粗鲁的", "安静的"],
+        "answer_index": 2,
+        "example": "The young man said rudely, 'It's none of your business!'",
+        "example_translation": "那个年轻人粗鲁地说：这不关你的事！"
+      }
+    },
+    {
+      "id": "nce2_wc_0005",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["adj", "emotion", "lesson1"],
+      "payload": {
+        "word": "angry",
+        "phonetic": "/ˈæŋɡri/",
+        "pos": "adj.",
+        "definitions": ["生气的", "愤怒的"],
+        "options": ["高兴的", "生气的", "满足的", "惊讶的"],
+        "answer_index": 1,
+        "example": "I got very angry.",
+        "example_translation": "我变得非常生气。"
+      }
+    },
+    {
+      "id": "nce2_wc_0006",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["noun", "abstract", "lesson1"],
+      "payload": {
+        "word": "attention",
+        "phonetic": "/əˈtenʃn/",
+        "pos": "n.",
+        "definitions": ["注意", "专心"],
+        "options": ["注意", "忽视", "遗忘", "麻烦"],
+        "answer_index": 0,
+        "example": "They did not pay any attention.",
+        "example_translation": "他们没有给予任何注意。"
+      }
+    },
+    {
+      "id": "nce2_wc_0007",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["verb", "lesson1"],
+      "payload": {
+        "word": "bear",
+        "phonetic": "/beə(r)/",
+        "pos": "v.",
+        "definitions": ["忍受", "承受"],
+        "options": ["喜欢", "忍受", "拒绝", "享受"],
+        "answer_index": 1,
+        "example": "In the end, I could not bear it.",
+        "example_translation": "最后，我无法忍受了。"
+      }
+    },
+    {
+      "id": "nce2_wc_0008",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["noun", "place", "lesson3"],
+      "payload": {
+        "word": "museum",
+        "phonetic": "/mjuˈziːəm/",
+        "pos": "n.",
+        "definitions": ["博物馆"],
+        "options": ["博物馆", "图书馆", "体育馆", "实验室"],
+        "answer_index": 0,
+        "example": "I visited museums and sat in public gardens.",
+        "example_translation": "我参观了博物馆，坐在公共花园里。"
+      }
+    },
+    {
+      "id": "nce2_wc_0009",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["noun", "abstract", "lesson3"],
+      "payload": {
+        "word": "decision",
+        "phonetic": "/dɪˈsɪʒn/",
+        "pos": "n.",
+        "definitions": ["决定", "决心"],
+        "options": ["借口", "决定", "后悔", "解释"],
+        "answer_index": 1,
+        "example": "I made a big decision.",
+        "example_translation": "我做了一个重大决定。"
+      }
+    },
+    {
+      "id": "nce2_wc_0010",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["adj", "lesson3"],
+      "payload": {
+        "word": "whole",
+        "phonetic": "/həʊl/",
+        "pos": "adj.",
+        "definitions": ["整个的", "全部的"],
+        "options": ["部分的", "整个的", "单独的", "破碎的"],
+        "answer_index": 1,
+        "example": "I spent the whole day in my room.",
+        "example_translation": "我在房间里待了一整天。"
+      }
+    },
+    {
+      "id": "nce2_wc_0011",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["verb", "lesson4"],
+      "payload": {
+        "word": "receive",
+        "phonetic": "/rɪˈsiːv/",
+        "pos": "v.",
+        "definitions": ["收到", "接收"],
+        "options": ["发送", "收到", "拒绝", "丢失"],
+        "answer_index": 1,
+        "example": "I have just received a letter from my brother.",
+        "example_translation": "我刚收到哥哥的来信。"
+      }
+    },
+    {
+      "id": "nce2_wc_0012",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["adv", "lesson4"],
+      "payload": {
+        "word": "abroad",
+        "phonetic": "/əˈbrɔːd/",
+        "pos": "adv.",
+        "definitions": ["在国外", "出国"],
+        "options": ["在家", "在国外", "在学校", "在工作"],
+        "answer_index": 1,
+        "example": "He has gone abroad for a holiday.",
+        "example_translation": "他出国度假去了。"
+      }
+    },
+    {
+      "id": "nce2_wc_0013",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["noun", "lesson5"],
+      "payload": {
+        "word": "message",
+        "phonetic": "/ˈmesɪdʒ/",
+        "pos": "n.",
+        "definitions": ["信息", "消息"],
+        "options": ["礼物", "信息", "邀请", "道歉"],
+        "answer_index": 1,
+        "example": "The pigeon carried the first message.",
+        "example_translation": "鸽子带去了第一条信息。"
+      }
+    },
+    {
+      "id": "nce2_wc_0014",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["noun", "abstract", "lesson5"],
+      "payload": {
+        "word": "distance",
+        "phonetic": "/ˈdɪstəns/",
+        "pos": "n.",
+        "definitions": ["距离", "远方"],
+        "options": ["距离", "速度", "时间", "重量"],
+        "answer_index": 0,
+        "example": "The bird covered the distance in three minutes.",
+        "example_translation": "这只鸟三分钟飞完了这段距离。"
+      }
+    },
+    {
+      "id": "nce2_wc_0015",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["noun", "abstract", "lesson5"],
+      "payload": {
+        "word": "service",
+        "phonetic": "/ˈsɜːvɪs/",
+        "pos": "n.",
+        "definitions": ["服务", "业务"],
+        "options": ["服务", "产品", "价格", "广告"],
+        "answer_index": 0,
+        "example": "He has begun his own private telephone service.",
+        "example_translation": "他开始了自己的私人电话服务。"
+      }
+    },
+    {
+      "id": "nce2_wc_0016",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["adj", "lesson7"],
+      "payload": {
+        "word": "valuable",
+        "phonetic": "/ˈvæljuəbl/",
+        "pos": "adj.",
+        "definitions": ["贵重的", "有价值的"],
+        "options": ["便宜的", "贵重的", "普通的", "无用的"],
+        "answer_index": 1,
+        "example": "They were expecting a valuable parcel of diamonds.",
+        "example_translation": "他们正在等候一包贵重的钻石。"
+      }
+    },
+    {
+      "id": "nce2_wc_0017",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["noun", "lesson7"],
+      "payload": {
+        "word": "diamond",
+        "phonetic": "/ˈdaɪmənd/",
+        "pos": "n.",
+        "definitions": ["钻石", "菱形"],
+        "options": ["黄金", "钻石", "白银", "珍珠"],
+        "answer_index": 1,
+        "example": "A valuable parcel of diamonds arrived from South Africa.",
+        "example_translation": "一包贵重的钻石从南非运到。"
+      }
+    },
+    {
+      "id": "nce2_wc_0018",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["verb", "lesson7"],
+      "payload": {
+        "word": "steal",
+        "phonetic": "/stiːl/",
+        "pos": "v.",
+        "definitions": ["偷", "窃取"],
+        "options": ["购买", "偷", "归还", "展示"],
+        "answer_index": 1,
+        "example": "Someone had stolen the diamonds.",
+        "example_translation": "有人偷走了钻石。"
+      }
+    },
+    {
+      "id": "nce2_sf_0001",
+      "type": "sentence_fill",
+      "difficulty": 2,
+      "tags": ["grammar", "lesson1"],
+      "payload": {
+        "sentence": "This is a ___ conversation!",
+        "answer": "private",
+        "options": ["public", "private", "open", "common"],
+        "answer_index": 1,
+        "translation": "这是私人谈话！"
+      }
+    },
+    {
+      "id": "nce2_sf_0002",
+      "type": "sentence_fill",
+      "difficulty": 2,
+      "tags": ["grammar", "preposition", "lesson2"],
+      "payload": {
+        "sentence": "I never get up early ___ Sundays.",
+        "answer": "on",
+        "options": ["in", "on", "at", "by"],
+        "answer_index": 1,
+        "translation": "我星期天从不早起。"
+      }
+    },
+    {
+      "id": "nce2_sf_0003",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": ["lesson3"],
+      "payload": {
+        "sentence": "I made a big ___.",
+        "answer": "decision",
+        "options": ["mistake", "decision", "promise", "wish"],
+        "answer_index": 1,
+        "translation": "我做了一个重大决定。"
+      }
+    },
+    {
+      "id": "nce2_sf_0004",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": ["tense", "lesson4"],
+      "payload": {
+        "sentence": "I have just ___ a letter from my brother, Tim.",
+        "answer": "received",
+        "options": ["sent", "written", "received", "posted"],
+        "answer_index": 2,
+        "translation": "我刚收到哥哥蒂姆的来信。"
+      }
+    },
+    {
+      "id": "nce2_sf_0005",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": ["lesson5"],
+      "payload": {
+        "sentence": "Yesterday, a pigeon carried the first ___ from Pinhurst to Silbury.",
+        "answer": "message",
+        "options": ["package", "message", "letter", "passenger"],
+        "answer_index": 1,
+        "translation": "昨天，一只鸽子把第一条信息从平赫斯特带到西尔伯里。"
+      }
+    },
+    {
+      "id": "nce2_sf_0006",
+      "type": "sentence_fill",
+      "difficulty": 2,
+      "tags": ["lesson6"],
+      "payload": {
+        "sentence": "He asked me for a meal and a glass of ___.",
+        "answer": "beer",
+        "options": ["milk", "water", "beer", "juice"],
+        "answer_index": 2,
+        "translation": "他向我要了一顿饭和一杯啤酒。"
+      }
+    },
+    {
+      "id": "nce2_sf_0007",
+      "type": "sentence_fill",
+      "difficulty": 2,
+      "tags": ["lesson7"],
+      "payload": {
+        "sentence": "Detectives were waiting at the ___ all morning.",
+        "answer": "airport",
+        "options": ["station", "airport", "harbour", "market"],
+        "answer_index": 1,
+        "translation": "侦探们在机场等了一上午。"
+      }
+    },
+    {
+      "id": "nce2_sf_0008",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": ["lesson9"],
+      "payload": {
+        "sentence": "A large crowd of people had gathered under the Town Hall ___.",
+        "answer": "clock",
+        "options": ["tower", "clock", "roof", "window"],
+        "answer_index": 1,
+        "translation": "一大群人聚集在市政厅的钟下。"
+      }
+    },
+    {
+      "id": "nce2_sf_0009",
+      "type": "sentence_fill",
+      "difficulty": 2,
+      "tags": ["preposition", "lesson11"],
+      "payload": {
+        "sentence": "He has never borrowed money ___ me.",
+        "answer": "from",
+        "options": ["to", "from", "with", "by"],
+        "answer_index": 1,
+        "translation": "他从未向我借过钱。"
+      }
+    },
+    {
+      "id": "nce2_sf_0010",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": ["lesson12"],
+      "payload": {
+        "sentence": "Our neighbour, Captain Charles Alison, will ___ from Portsmouth tomorrow.",
+        "answer": "sail",
+        "options": ["fly", "sail", "drive", "walk"],
+        "answer_index": 1,
+        "translation": "我们的邻居查尔斯·艾利森船长明天将从朴茨茅斯启航。"
+      }
+    },
+    {
+      "id": "nce2_sc_0001",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": ["grammar", "tense", "lesson1"],
+      "payload": {
+        "question": "When I ___ the play, the people behind me were talking loudly.",
+        "options": ["enjoy", "enjoyed", "was enjoying", "have enjoyed"],
+        "answer_index": 2,
+        "explanation": "过去进行时was enjoying表示过去某一时刻正在进行的动作，与背景动作并列，强调'正在欣赏'时背后的人在说话。"
+      }
+    },
+    {
+      "id": "nce2_sc_0002",
+      "type": "single_choice",
+      "difficulty": 2,
+      "tags": ["grammar", "adverb", "lesson2"],
+      "payload": {
+        "question": "I ___ get up so late on Sundays.",
+        "options": ["never", "am never", "never am", "do never"],
+        "answer_index": 0,
+        "explanation": "频度副词never通常置于实义动词之前，表示'从不'，无需助动词。"
+      }
+    },
+    {
+      "id": "nce2_sc_0003",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": ["grammar", "tense", "lesson4"],
+      "payload": {
+        "question": "I ___ a letter from my brother. He is in Australia.",
+        "options": ["just receive", "just received", "have just received", "am just receiving"],
+        "answer_index": 2,
+        "explanation": "just常与现在完成时连用，强调动作刚刚完成并对现在有影响，结构为have/has + 过去分词。"
+      }
+    },
+    {
+      "id": "nce2_sc_0004",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": ["grammar", "tense", "lesson4"],
+      "payload": {
+        "question": "He ___ in Australia for six months.",
+        "options": ["is", "was", "has been", "had been"],
+        "answer_index": 2,
+        "explanation": "'for six months'表示一段时间，与现在完成时连用，表示从过去持续到现在的状态。"
+      }
+    },
+    {
+      "id": "nce2_sc_0005",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": ["grammar", "comparison", "lesson8"],
+      "payload": {
+        "question": "Bill Frith's garden is ___ than Joe's.",
+        "options": ["large", "larger", "largest", "more large"],
+        "answer_index": 1,
+        "explanation": "单音节形容词large的比较级直接加-er，'larger than'表示'比……更大'。"
+      }
+    },
+    {
+      "id": "nce2_sc_0006",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": ["grammar", "passive", "lesson10"],
+      "payload": {
+        "question": "The clavichord ___ in Germany in 1681.",
+        "options": ["made", "was made", "has made", "makes"],
+        "answer_index": 1,
+        "explanation": "主语clavichord是make的承受者，且动作发生在过去，用一般过去时的被动语态was made。"
+      }
+    },
+    {
+      "id": "nce2_sc_0007",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": ["grammar", "future", "lesson37"],
+      "payload": {
+        "question": "Workers ___ new hotels, an immense stadium, and a fine new swimming pool for the Olympic Games.",
+        "options": ["will build", "will have built", "will be building", "build"],
+        "answer_index": 2,
+        "explanation": "将来进行时will be building表示在未来某段时间内将持续进行的动作。"
+      }
+    },
+    {
+      "id": "nce2_sc_0008",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": ["grammar", "tense", "lesson38"],
+      "payload": {
+        "question": "He had no sooner ___ than his wife began to complain.",
+        "options": ["return", "returned", "returns", "returning"],
+        "answer_index": 1,
+        "explanation": "no sooner...than...结构中，no sooner后接过去完成时had + 过去分词，than后接一般过去时。"
+      }
+    },
+    {
+      "id": "nce2_sc_0009",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": ["grammar", "used_to", "lesson31"],
+      "payload": {
+        "question": "He ___ in a small workshop before he became successful.",
+        "options": ["used to work", "used to working", "is used to work", "was used to work"],
+        "answer_index": 0,
+        "explanation": "'used to + 动词原形'表示过去经常做某事，现已不再如此；be used to后接动名词。"
+      }
+    },
+    {
+      "id": "nce2_sc_0010",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": ["grammar", "indirect_question", "lesson39"],
+      "payload": {
+        "question": "He asked the doctor ___ the operation had been successful.",
+        "options": ["that", "if", "what", "why to"],
+        "answer_index": 1,
+        "explanation": "间接一般疑问句用if或whether引导，主句动词为asked，宾语从句用陈述语序。"
+      }
+    },
+    {
+      "id": "nce2_dc_0001",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": ["adj", "lesson1"],
+      "payload": {
+        "definition": "粗鲁的，无礼的",
+        "phonetic_hint": "/ruːd/",
+        "options": ["rude", "crude", "bare", "mere"],
+        "answer_index": 0,
+        "example": "The young man spoke rudely to the narrator."
+      }
+    },
+    {
+      "id": "nce2_dc_0002",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": ["noun", "lesson3"],
+      "payload": {
+        "definition": "决定，决心",
+        "phonetic_hint": "/dɪˈsɪʒn/",
+        "options": ["decision", "vision", "mission", "session"],
+        "answer_index": 0,
+        "example": "I made a big decision."
+      }
+    },
+    {
+      "id": "nce2_dc_0003",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": ["adv", "lesson4"],
+      "payload": {
+        "definition": "在国外，出国",
+        "phonetic_hint": "/əˈbrɔːd/",
+        "options": ["abroad", "board", "aboard", "broad"],
+        "answer_index": 0,
+        "example": "He has gone abroad."
+      }
+    },
+    {
+      "id": "nce2_dc_0004",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": ["adj", "lesson7"],
+      "payload": {
+        "definition": "贵重的，有价值的",
+        "phonetic_hint": "/ˈvæljuəbl/",
+        "options": ["valuable", "available", "reliable", "variable"],
+        "answer_index": 0,
+        "example": "They were expecting a valuable parcel of diamonds."
+      }
+    },
+    {
+      "id": "nce2_dc_0005",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": ["verb", "lesson9"],
+      "payload": {
+        "definition": "拒绝，回绝",
+        "phonetic_hint": "/rɪˈfjuːz/",
+        "options": ["refuse", "confuse", "excuse", "accuse"],
+        "answer_index": 0,
+        "example": "The big clock refused to welcome the New Year."
+      }
+    },
+    {
+      "id": "nce2_lc_0001",
+      "type": "listening_choice",
+      "difficulty": 2,
+      "tags": ["noun", "place", "lesson1"],
+      "payload": {
+        "word": "theatre",
+        "phonetic": "/ˈθɪətə(r)/",
+        "definitions": ["剧场", "戏院"],
+        "options": ["剧场", "餐厅", "学校", "工厂"],
+        "answer_index": 0,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "nce2_lc_0002",
+      "type": "listening_choice",
+      "difficulty": 3,
+      "tags": ["noun", "lesson1"],
+      "payload": {
+        "word": "conversation",
+        "phonetic": "/ˌkɒnvəˈseɪʃn/",
+        "definitions": ["谈话", "交谈"],
+        "options": ["会议", "谈话", "演讲", "报告"],
+        "answer_index": 1,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "nce2_lc_0003",
+      "type": "listening_choice",
+      "difficulty": 2,
+      "tags": ["noun", "place", "lesson7"],
+      "payload": {
+        "word": "airport",
+        "phonetic": "/ˈeəpɔːt/",
+        "definitions": ["机场"],
+        "options": ["车站", "港口", "机场", "市场"],
+        "answer_index": 2,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "nce2_lc_0004",
+      "type": "listening_choice",
+      "difficulty": 3,
+      "tags": ["noun", "place", "lesson3"],
+      "payload": {
+        "word": "museum",
+        "phonetic": "/mjuˈziːəm/",
+        "definitions": ["博物馆"],
+        "options": ["博物馆", "图书馆", "体育馆", "实验室"],
+        "answer_index": 0,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "nce2_lc_0005",
+      "type": "listening_choice",
+      "difficulty": 3,
+      "tags": ["noun", "abstract", "lesson5"],
+      "payload": {
+        "word": "distance",
+        "phonetic": "/ˈdɪstəns/",
+        "definitions": ["距离", "远方"],
+        "options": ["距离", "速度", "时间", "重量"],
+        "answer_index": 0,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "nce2_tf_0001",
+      "type": "true_false",
+      "difficulty": 2,
+      "tags": ["comprehension", "lesson1"],
+      "payload": {
+        "statement": "In Lesson 1, the phrase 'It's none of your business' means the narrator has no right to interfere in the young couple's conversation.",
+        "answer": true,
+        "explanation": "课文中年轻人认为叙述者无权干涉他们的私人谈话，'none of your business'意为'不关你的事'。"
+      }
+    },
+    {
+      "id": "nce2_tf_0002",
+      "type": "true_false",
+      "difficulty": 3,
+      "tags": ["comprehension", "lesson7"],
+      "payload": {
+        "statement": "In Lesson 7, the detectives successfully prevented the diamonds from being stolen.",
+        "answer": false,
+        "explanation": "课文结尾钻石还是被偷了——包裹里装满了石头，钻石不翼而飞，侦探们没能阻止盗窃。"
+      }
+    }
+  ]
+}

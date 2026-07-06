@@ -1,0 +1,571 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "bank_id": "english.nce3.core",
+    "subject": "english",
+    "category": "nce3",
+    "name": "新概念英语 第三册",
+    "name_en": "New Concept English 3",
+    "cefr_level": "C1",
+    "total_items": 40,
+    "source": "新概念英语第三册课文整理",
+    "license": "CC-BY-SA 4.0",
+    "updated_at": "2026-07-05"
+  },
+  "items": [
+    {
+      "id": "nce3_wc_0001",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["verb", "lesson10"],
+      "payload": {
+        "word": "abandon",
+        "phonetic": "/əˈbændən/",
+        "pos": "v.",
+        "definitions": ["抛弃", "放弃"],
+        "options": ["拥抱", "抛弃", "收集", "保存"],
+        "answer_index": 1,
+        "example": "The captain gave the order to abandon ship.",
+        "example_translation": "船长下令弃船。"
+      }
+    },
+    {
+      "id": "nce3_wc_0002",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["verb", "lesson1"],
+      "payload": {
+        "word": "accumulate",
+        "phonetic": "/əˈkjuːmjəleɪt/",
+        "pos": "v.",
+        "definitions": ["积累", "积聚"],
+        "options": ["消耗", "积累", "分散", "减少"],
+        "answer_index": 1,
+        "example": "Evidence began to accumulate.",
+        "example_translation": "证据开始积累起来。"
+      }
+    },
+    {
+      "id": "nce3_wc_0003",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["verb", "formal", "lesson1"],
+      "payload": {
+        "word": "oblige",
+        "phonetic": "/əˈblaɪdʒ/",
+        "pos": "v.",
+        "definitions": ["迫使", "责成"],
+        "options": ["允许", "迫使", "邀请", "鼓励"],
+        "answer_index": 1,
+        "example": "The experts felt obliged to investigate.",
+        "example_translation": "专家们感到有必要进行调查。"
+      }
+    },
+    {
+      "id": "nce3_wc_0004",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["noun", "abstract", "lesson1"],
+      "payload": {
+        "word": "evidence",
+        "phonetic": "/ˈevɪdəns/",
+        "pos": "n.",
+        "definitions": ["证据", "迹象"],
+        "options": ["借口", "证据", "谜团", "谣言"],
+        "answer_index": 1,
+        "example": "The police gathered enough evidence to convict him.",
+        "example_translation": "警方收集了足够的证据来定他的罪。"
+      }
+    },
+    {
+      "id": "nce3_wc_0005",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["verb", "lesson1"],
+      "payload": {
+        "word": "spot",
+        "phonetic": "/spɒt/",
+        "pos": "v.",
+        "definitions": ["发现", "看出"],
+        "options": ["隐藏", "发现", "释放", "追逐"],
+        "answer_index": 1,
+        "example": "A wild puma had been spotted forty-five miles south of London.",
+        "example_translation": "在伦敦以南45英里处有人发现了一只野生美洲狮。"
+      }
+    },
+    {
+      "id": "nce3_wc_0006",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["noun", "animal", "lesson1"],
+      "payload": {
+        "word": "puma",
+        "phonetic": "/ˈpjuːmə/",
+        "pos": "n.",
+        "definitions": ["美洲狮"],
+        "options": ["美洲狮", "美洲豹", "美洲虎", "美洲熊"],
+        "answer_index": 0,
+        "example": "Pumas are large, cat-like animals which are found in America.",
+        "example_translation": "美洲狮是产于美洲的大型猫科动物。"
+      }
+    },
+    {
+      "id": "nce3_wc_0007",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["verb", "lesson19"],
+      "payload": {
+        "word": "astound",
+        "phonetic": "/əˈstaʊnd/",
+        "pos": "v.",
+        "definitions": ["使震惊", "使大吃一惊"],
+        "options": ["使愉快", "使震惊", "使放松", "使安心"],
+        "answer_index": 1,
+        "example": "The news astounded everyone in the room.",
+        "example_translation": "这个消息让房间里所有人都震惊了。"
+      }
+    },
+    {
+      "id": "nce3_wc_0008",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["noun", "person", "lesson22"],
+      "payload": {
+        "word": "aristocrat",
+        "phonetic": "/ˈærɪstəkræt/",
+        "pos": "n.",
+        "definitions": ["贵族"],
+        "options": ["平民", "贵族", "商人", "农民"],
+        "answer_index": 1,
+        "example": "The aristocrat was imprisoned for years in the play.",
+        "example_translation": "剧中那位贵族被囚禁了多年。"
+      }
+    },
+    {
+      "id": "nce3_wc_0009",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["verb", "lesson11"],
+      "payload": {
+        "word": "baffle",
+        "phonetic": "/ˈbæfl/",
+        "pos": "v.",
+        "definitions": ["使困惑", "难住"],
+        "options": ["使清楚", "使困惑", "使满意", "使兴奋"],
+        "answer_index": 1,
+        "example": "The strange case baffled the police.",
+        "example_translation": "这桩奇案让警方困惑不解。"
+      }
+    },
+    {
+      "id": "nce3_wc_0010",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["verb", "lesson33"],
+      "payload": {
+        "word": "bewilder",
+        "phonetic": "/bɪˈwɪldə(r)/",
+        "pos": "v.",
+        "definitions": ["使迷惑", "使不知所措"],
+        "options": ["使安心", "使迷惑", "使确信", "使兴奋"],
+        "answer_index": 1,
+        "example": "The sudden noise bewildered the baby.",
+        "example_translation": "突然的声响让婴儿不知所措。"
+      }
+    },
+    {
+      "id": "nce3_wc_0011",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["adj", "lesson49"],
+      "payload": {
+        "word": "abundant",
+        "phonetic": "/əˈbʌndənt/",
+        "pos": "adj.",
+        "definitions": ["丰富的", "充裕的"],
+        "options": ["稀少的", "丰富的", "缺乏的", "微弱的"],
+        "answer_index": 1,
+        "example": "There was an abundant supply of fresh water.",
+        "example_translation": "有充足的淡水供应。"
+      }
+    },
+    {
+      "id": "nce3_wc_0012",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["adj", "lesson11"],
+      "payload": {
+        "word": "absurd",
+        "phonetic": "/əbˈsɜːd/",
+        "pos": "adj.",
+        "definitions": ["荒谬的", "荒唐的"],
+        "options": ["合理的", "荒谬的", "严肃的", "真实的"],
+        "answer_index": 1,
+        "example": "It would be absurd to spend so much money on a hat.",
+        "example_translation": "在一顶帽子上花这么多钱太荒唐了。"
+      }
+    },
+    {
+      "id": "nce3_wc_0013",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["verb", "lesson5"],
+      "payload": {
+        "word": "anticipate",
+        "phonetic": "/ænˈtɪsɪpeɪt/",
+        "pos": "v.",
+        "definitions": ["预料", "期望"],
+        "options": ["回忆", "预料", "后悔", "忽略"],
+        "answer_index": 1,
+        "example": "We anticipated that the journey would take three hours.",
+        "example_translation": "我们预计这段路程需要三个小时。"
+      }
+    },
+    {
+      "id": "nce3_wc_0014",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["verb", "lesson1"],
+      "payload": {
+        "word": "convince",
+        "phonetic": "/kənˈvɪns/",
+        "pos": "v.",
+        "definitions": ["使确信", "说服"],
+        "options": ["使怀疑", "使确信", "使失望", "使厌烦"],
+        "answer_index": 1,
+        "example": "The experts were fully convinced that the animal was a puma.",
+        "example_translation": "专家们完全确信那是一只美洲狮。"
+      }
+    },
+    {
+      "id": "nce3_sf_0001",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": ["lesson1"],
+      "payload": {
+        "sentence": "Pumas are large, ___ animals which are found in America.",
+        "answer": "cat-like",
+        "options": ["dog-like", "cat-like", "wolf-like", "bear-like"],
+        "answer_index": 1,
+        "translation": "美洲狮是产于美洲的大型猫科动物。"
+      }
+    },
+    {
+      "id": "nce3_sf_0002",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": ["idiom", "lesson1"],
+      "payload": {
+        "sentence": "It is disturbing to think that a dangerous wild animal is still ___ large.",
+        "answer": "at",
+        "options": ["in", "on", "at", "by"],
+        "answer_index": 2,
+        "translation": "一想到一头危险野兽仍然逍遥在外就令人不安。"
+      }
+    },
+    {
+      "id": "nce3_sf_0003",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": ["lesson2"],
+      "payload": {
+        "sentence": "Our vicar is always raising money for one cause or ___.",
+        "answer": "another",
+        "options": ["another", "other", "others", "the other"],
+        "answer_index": 0,
+        "translation": "我们的牧师总是在为这样或那样的事业筹款。"
+      }
+    },
+    {
+      "id": "nce3_sf_0004",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": ["lesson2"],
+      "payload": {
+        "sentence": "Thirteen ___ one.",
+        "answer": "equals",
+        "options": ["equal", "equals", "equaled", "equaling"],
+        "answer_index": 1,
+        "translation": "十三等于一。"
+      }
+    },
+    {
+      "id": "nce3_sf_0005",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": ["preposition", "lesson4"],
+      "payload": {
+        "sentence": "He works ___ the Corporation as a dustman.",
+        "answer": "for",
+        "options": ["in", "for", "at", "on"],
+        "answer_index": 1,
+        "translation": "他在公司当清洁工。"
+      }
+    },
+    {
+      "id": "nce3_sf_0006",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": ["lesson10"],
+      "payload": {
+        "sentence": "She was carrying 1,316 passengers and a ___ of 891.",
+        "answer": "crew",
+        "options": ["team", "crew", "group", "staff"],
+        "answer_index": 1,
+        "translation": "船上载着1316名乘客和891名船员。"
+      }
+    },
+    {
+      "id": "nce3_sf_0007",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": ["lesson38"],
+      "payload": {
+        "sentence": "Future historians will be in a ___ position when they come to record the history of our own times.",
+        "answer": "unique",
+        "options": ["common", "unique", "ordinary", "usual"],
+        "answer_index": 1,
+        "translation": "未来的历史学家在记录我们这个时代的历史时将处于一个独特的位置。"
+      }
+    },
+    {
+      "id": "nce3_sf_0008",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": ["lesson50"],
+      "payload": {
+        "sentence": "Punctuality is a ___ that is not always appreciated.",
+        "answer": "virtue",
+        "options": ["fault", "habit", "virtue", "weakness"],
+        "answer_index": 2,
+        "translation": "守时是一种并不总是被欣赏的美德。"
+      }
+    },
+    {
+      "id": "nce3_sc_0001",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": ["grammar", "passive", "lesson1"],
+      "payload": {
+        "question": "When reports came into London Zoo that a wild puma ___ 45 miles south of London, they were not taken seriously.",
+        "options": ["spotted", "had spotted", "had been spotted", "was spotted"],
+        "answer_index": 2,
+        "explanation": "主语puma是spot的承受者，且动作发生在reports came之前，用过去完成时的被动语态had been spotted。"
+      }
+    },
+    {
+      "id": "nce3_sc_0002",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": ["grammar", "participle", "lesson1"],
+      "payload": {
+        "question": "Puma fur was found ___ to bushes.",
+        "options": ["cling", "clung", "clinging", "to cling"],
+        "answer_index": 2,
+        "explanation": "现在分词clinging作主语补足语，表示主动和正在进行的动作，意为'发现毛粘在灌木上'。"
+      }
+    },
+    {
+      "id": "nce3_sc_0003",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": ["grammar", "used_to", "lesson2"],
+      "payload": {
+        "question": "The big clock which ___ to strike the hours day and night was damaged many years ago.",
+        "options": ["used", "uses", "is used", "using"],
+        "answer_index": 0,
+        "explanation": "'used to + 动词原形'表示过去经常做某事，现已不再如此，此处修饰strike。"
+      }
+    },
+    {
+      "id": "nce3_sc_0004",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": ["grammar", "passive", "lesson10"],
+      "payload": {
+        "question": "The captain realized that the ship ___ by an iceberg.",
+        "options": ["damaged", "had damaged", "had been damaged", "was damaging"],
+        "answer_index": 2,
+        "explanation": "主语ship是damage的承受者，且发生在realized之前，用过去完成时的被动语态had been damaged。"
+      }
+    },
+    {
+      "id": "nce3_sc_0005",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": ["grammar", "tense", "lesson16"],
+      "payload": {
+        "question": "His wife told him that she ___ a lamb.",
+        "options": ["has lost", "had lost", "lost", "loses"],
+        "answer_index": 1,
+        "explanation": "间接引语中，主句told是过去时，从句'丢失'发生在told之前，用过去完成时had lost。"
+      }
+    },
+    {
+      "id": "nce3_sc_0006",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": ["grammar", "subjunctive", "lesson23"],
+      "payload": {
+        "question": "If you ___ in the Mediterranean, you would consider octopus a great delicacy.",
+        "options": ["live", "lived", "had lived", "will live"],
+        "answer_index": 1,
+        "explanation": "与现在事实相反的虚拟语气条件句，if从句用一般过去时lived，主句用would + 动词原形。"
+      }
+    },
+    {
+      "id": "nce3_sc_0007",
+      "type": "single_choice",
+      "difficulty": 3,
+      "tags": ["grammar", "tense", "lesson38"],
+      "payload": {
+        "question": "Future historians ___ in a unique position when they come to record the history of our own times.",
+        "options": ["are", "will be", "would be", "have been"],
+        "answer_index": 1,
+        "explanation": "when引导的时间状语从句用一般现在时come表将来，主句用一般将来时will be。"
+      }
+    },
+    {
+      "id": "nce3_sc_0008",
+      "type": "single_choice",
+      "difficulty": 4,
+      "tags": ["grammar", "infinitive", "lesson59"],
+      "payload": {
+        "question": "People tend ___ possessions without being aware of doing so.",
+        "options": ["amass", "to amass", "amassing", "amassed"],
+        "answer_index": 1,
+        "explanation": "tend后接带to的不定式，tend to do sth.表示'倾向于做某事'。"
+      }
+    },
+    {
+      "id": "nce3_dc_0001",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": ["verb", "lesson1"],
+      "payload": {
+        "definition": "积累，积聚",
+        "phonetic_hint": "/əˈkjuːmjəleɪt/",
+        "options": ["accumulate", "accommodate", "activate", "accelerate"],
+        "answer_index": 0,
+        "example": "Evidence began to accumulate."
+      }
+    },
+    {
+      "id": "nce3_dc_0002",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": ["verb", "lesson11"],
+      "payload": {
+        "definition": "使困惑，难住",
+        "phonetic_hint": "/ˈbæfl/",
+        "options": ["baffle", "battle", "bottle", "bubble"],
+        "answer_index": 0,
+        "example": "The case baffled the police."
+      }
+    },
+    {
+      "id": "nce3_dc_0003",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": ["verb", "lesson19"],
+      "payload": {
+        "definition": "使震惊，使大吃一惊",
+        "phonetic_hint": "/əˈstaʊnd/",
+        "options": ["astound", "abound", "absent", "absorb"],
+        "answer_index": 0,
+        "example": "She was astounded by the news."
+      }
+    },
+    {
+      "id": "nce3_dc_0004",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": ["adj", "lesson49"],
+      "payload": {
+        "definition": "丰富的，充裕的",
+        "phonetic_hint": "/əˈbʌndənt/",
+        "options": ["abundant", "arrogant", "absolute", "abstract"],
+        "answer_index": 0,
+        "example": "There was an abundant supply of fresh water."
+      }
+    },
+    {
+      "id": "nce3_lc_0001",
+      "type": "listening_choice",
+      "difficulty": 3,
+      "tags": ["noun", "animal", "lesson1"],
+      "payload": {
+        "word": "puma",
+        "phonetic": "/ˈpjuːmə/",
+        "definitions": ["美洲狮"],
+        "options": ["美洲狮", "美洲豹", "美洲虎", "美洲熊"],
+        "answer_index": 0,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "nce3_lc_0002",
+      "type": "listening_choice",
+      "difficulty": 3,
+      "tags": ["noun", "abstract", "lesson1"],
+      "payload": {
+        "word": "evidence",
+        "phonetic": "/ˈevɪdəns/",
+        "definitions": ["证据", "迹象"],
+        "options": ["借口", "证据", "谜团", "谣言"],
+        "answer_index": 1,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "nce3_lc_0003",
+      "type": "listening_choice",
+      "difficulty": 4,
+      "tags": ["verb", "lesson1"],
+      "payload": {
+        "word": "accumulate",
+        "phonetic": "/əˈkjuːmjəleɪt/",
+        "definitions": ["积累", "积聚"],
+        "options": ["消耗", "积累", "分散", "减少"],
+        "answer_index": 1,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "nce3_lc_0004",
+      "type": "listening_choice",
+      "difficulty": 4,
+      "tags": ["noun", "person", "lesson22"],
+      "payload": {
+        "word": "aristocrat",
+        "phonetic": "/ˈærɪstəkræt/",
+        "definitions": ["贵族"],
+        "options": ["平民", "贵族", "商人", "农民"],
+        "answer_index": 1,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "nce3_tf_0001",
+      "type": "true_false",
+      "difficulty": 3,
+      "tags": ["comprehension", "lesson1"],
+      "payload": {
+        "statement": "In Lesson 1, the puma was finally captured by the police.",
+        "answer": false,
+        "explanation": "课文标题'A Puma at Large'即暗示美洲狮逍遥在外，课文结尾它仍然没有被捕获。"
+      }
+    },
+    {
+      "id": "nce3_tf_0002",
+      "type": "true_false",
+      "difficulty": 3,
+      "tags": ["comprehension", "lesson2"],
+      "payload": {
+        "statement": "In Lesson 2, the church clock had been silent for many years before it suddenly struck thirteen times at one o'clock in the morning.",
+        "answer": true,
+        "explanation": "课文中教堂大钟多年前损坏后一直沉默，直到某日凌晨1点突然敲响了13次。"
+      }
+    }
+  ]
+}

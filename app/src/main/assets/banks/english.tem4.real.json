@@ -1,0 +1,1147 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "bank_id": "english.tem4.real",
+    "subject": "english",
+    "category": "tem4",
+    "name": "英语专四真题核心",
+    "name_en": "TEM-4 Real Exam Core",
+    "cefr_level": "C1",
+    "total_items": 50,
+    "source": "TEM-4 历年真题整理",
+    "license": "CC-BY-SA 4.0",
+    "updated_at": "2026-07-05"
+  },
+  "items": [
+    {
+      "id": "tem4_wc_0001",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": [
+        "high_freq",
+        "verb"
+      ],
+      "payload": {
+        "word": "abandon",
+        "phonetic": "/əˈbændən/",
+        "pos": "v.",
+        "definitions": [
+          "放弃",
+          "遗弃",
+          "抛弃"
+        ],
+        "options": [
+          "放弃",
+          "保护",
+          "增加",
+          "保持"
+        ],
+        "answer_index": 0,
+        "example": "The sailors had to abandon the sinking ship.",
+        "example_translation": "水手们不得不弃下沉船。"
+      }
+    },
+    {
+      "id": "tem4_wc_0002",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": [
+        "high_freq",
+        "noun"
+      ],
+      "payload": {
+        "word": "benefit",
+        "phonetic": "/ˈbenɪfɪt/",
+        "pos": "n./v.",
+        "definitions": [
+          "利益",
+          "好处",
+          "受益"
+        ],
+        "options": [
+          "损害",
+          "利益",
+          "成本",
+          "义务"
+        ],
+        "answer_index": 1,
+        "example": "Regular exercise benefits your health.",
+        "example_translation": "规律运动有益健康。"
+      }
+    },
+    {
+      "id": "tem4_wc_0003",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "high_freq",
+        "noun"
+      ],
+      "payload": {
+        "word": "capacity",
+        "phonetic": "/kəˈpæsəti/",
+        "pos": "n.",
+        "definitions": [
+          "能力",
+          "容量",
+          "资格"
+        ],
+        "options": [
+          "能力",
+          "机会",
+          "理由",
+          "方法"
+        ],
+        "answer_index": 0,
+        "example": "The hall has a seating capacity of 500.",
+        "example_translation": "这个大厅可容纳500人入座。"
+      }
+    },
+    {
+      "id": "tem4_wc_0004",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "high_freq",
+        "verb"
+      ],
+      "payload": {
+        "word": "emphasize",
+        "phonetic": "/ˈemfəsaɪz/",
+        "pos": "v.",
+        "definitions": [
+          "强调",
+          "着重"
+        ],
+        "options": [
+          "忽略",
+          "否认",
+          "强调",
+          "推迟"
+        ],
+        "answer_index": 2,
+        "example": "The teacher emphasized the importance of reading aloud.",
+        "example_translation": "老师强调了朗读的重要性。"
+      }
+    },
+    {
+      "id": "tem4_wc_0005",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "high_freq",
+        "verb"
+      ],
+      "payload": {
+        "word": "accommodate",
+        "phonetic": "/əˈkɒmədeɪt/",
+        "pos": "v.",
+        "definitions": [
+          "容纳",
+          "提供住宿"
+        ],
+        "options": [
+          "拒绝",
+          "容纳",
+          "排除",
+          "减少"
+        ],
+        "answer_index": 1,
+        "example": "The hotel can accommodate up to 300 guests.",
+        "example_translation": "这家酒店最多可容纳300位客人。"
+      }
+    },
+    {
+      "id": "tem4_wc_0006",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "high_freq",
+        "verb"
+      ],
+      "payload": {
+        "word": "allocate",
+        "phonetic": "/ˈæləkeɪt/",
+        "pos": "v.",
+        "definitions": [
+          "分配",
+          "拨给"
+        ],
+        "options": [
+          "分配",
+          "保留",
+          "收集",
+          "浪费"
+        ],
+        "answer_index": 0,
+        "example": "The government allocated funds for rural education.",
+        "example_translation": "政府为乡村教育拨付了资金。"
+      }
+    },
+    {
+      "id": "tem4_wc_0007",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "high_freq",
+        "adj"
+      ],
+      "payload": {
+        "word": "ambiguous",
+        "phonetic": "/æmˈbɪɡjuəs/",
+        "pos": "adj.",
+        "definitions": [
+          "模糊的",
+          "引起歧义的"
+        ],
+        "options": [
+          "明确的",
+          "模糊的",
+          "完整的",
+          "精确的"
+        ],
+        "answer_index": 1,
+        "example": "His ambiguous reply left us confused.",
+        "example_translation": "他含糊其辞的回答让我们感到困惑。"
+      }
+    },
+    {
+      "id": "tem4_wc_0008",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "high_freq",
+        "verb"
+      ],
+      "payload": {
+        "word": "anticipate",
+        "phonetic": "/ænˈtɪsɪpeɪt/",
+        "pos": "v.",
+        "definitions": [
+          "预料",
+          "预期",
+          "期盼"
+        ],
+        "options": [
+          "回顾",
+          "预料",
+          "拒绝",
+          "忽视"
+        ],
+        "answer_index": 1,
+        "example": "We anticipate a steady growth in sales next year.",
+        "example_translation": "我们预期明年销售额会稳步增长。"
+      }
+    },
+    {
+      "id": "tem4_wc_0009",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "high_freq",
+        "adj"
+      ],
+      "payload": {
+        "word": "appropriate",
+        "phonetic": "/əˈprəʊpriət/",
+        "pos": "adj.",
+        "definitions": [
+          "适当的",
+          "合适的"
+        ],
+        "options": [
+          "适当的",
+          "荒谬的",
+          "危险的",
+          "无关的"
+        ],
+        "answer_index": 0,
+        "example": "Wear something appropriate for the interview.",
+        "example_translation": "面试时穿得体一点。"
+      }
+    },
+    {
+      "id": "tem4_wc_0010",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "high_freq",
+        "verb"
+      ],
+      "payload": {
+        "word": "attribute",
+        "phonetic": "/əˈtrɪbjuːt/",
+        "pos": "v.",
+        "definitions": [
+          "归因于",
+          "把……归咎于"
+        ],
+        "options": [
+          "比较",
+          "归因于",
+          "贡献",
+          "归还"
+        ],
+        "answer_index": 1,
+        "example": "She attributes her success to hard work.",
+        "example_translation": "她把自己的成功归因于勤奋。"
+      }
+    },
+    {
+      "id": "tem4_wc_0011",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "high_freq",
+        "adj"
+      ],
+      "payload": {
+        "word": "conscious",
+        "phonetic": "/ˈkɒnʃəs/",
+        "pos": "adj.",
+        "definitions": [
+          "有意识的",
+          "神志清醒的"
+        ],
+        "options": [
+          "无意识的",
+          "有意识的",
+          "昏迷的",
+          "麻木的"
+        ],
+        "answer_index": 1,
+        "example": "The patient was conscious but unable to speak.",
+        "example_translation": "病人神志清醒，但说不出话来。"
+      }
+    },
+    {
+      "id": "tem4_wc_0012",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "high_freq",
+        "noun"
+      ],
+      "payload": {
+        "word": "consequence",
+        "phonetic": "/ˈkɒnsɪkwəns/",
+        "pos": "n.",
+        "definitions": [
+          "后果",
+          "结果"
+        ],
+        "options": [
+          "原因",
+          "后果",
+          "前提",
+          "条件"
+        ],
+        "answer_index": 1,
+        "example": "He must face the consequences of his actions.",
+        "example_translation": "他必须承担自己行为的后果。"
+      }
+    },
+    {
+      "id": "tem4_wc_0013",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "high_freq",
+        "verb"
+      ],
+      "payload": {
+        "word": "distinguish",
+        "phonetic": "/dɪˈstɪŋɡwɪʃ/",
+        "pos": "v.",
+        "definitions": [
+          "区分",
+          "辨别"
+        ],
+        "options": [
+          "混合",
+          "区分",
+          "忽略",
+          "混淆"
+        ],
+        "answer_index": 1,
+        "example": "Children can distinguish between right and wrong.",
+        "example_translation": "孩子能辨别是非。"
+      }
+    },
+    {
+      "id": "tem4_wc_0014",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": [
+        "high_freq",
+        "adj"
+      ],
+      "payload": {
+        "word": "fundamental",
+        "phonetic": "/ˌfʌndəˈmentl/",
+        "pos": "adj.",
+        "definitions": [
+          "基本的",
+          "根本的"
+        ],
+        "options": [
+          "次要的",
+          "基本的",
+          "表面的",
+          "复杂的"
+        ],
+        "answer_index": 1,
+        "example": "Fresh air is fundamental to good health.",
+        "example_translation": "新鲜空气是身体健康的基础。"
+      }
+    },
+    {
+      "id": "tem4_wc_0015",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": [
+        "high_freq",
+        "adj"
+      ],
+      "payload": {
+        "word": "subsequent",
+        "phonetic": "/ˈsʌbsɪkwənt/",
+        "pos": "adj.",
+        "definitions": [
+          "随后的",
+          "后来的"
+        ],
+        "options": [
+          "先前的",
+          "随后的",
+          "同时的",
+          "永久的"
+        ],
+        "answer_index": 1,
+        "example": "Subsequent events proved him right.",
+        "example_translation": "后来的事件证明他是对的。"
+      }
+    },
+    {
+      "id": "tem4_dc_0001",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "verb",
+        "formal"
+      ],
+      "payload": {
+        "definition": "详细说明，阐述",
+        "phonetic_hint": "/ɪˈlæbəreɪt/",
+        "options": [
+          "elaborate",
+          "eliminate",
+          "elapse",
+          "elevate"
+        ],
+        "answer_index": 0,
+        "example": "Could you elaborate on your proposal?"
+      }
+    },
+    {
+      "id": "tem4_dc_0002",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "verb"
+      ],
+      "payload": {
+        "definition": "恶化，变坏",
+        "phonetic_hint": "/dɪˈtɪəriəreɪt/",
+        "options": [
+          "deteriorate",
+          "decorate",
+          "determine",
+          "dedicate"
+        ],
+        "answer_index": 0,
+        "example": "His health deteriorated rapidly after the operation."
+      }
+    },
+    {
+      "id": "tem4_dc_0003",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "adj"
+      ],
+      "payload": {
+        "definition": "不可避免的，必然的",
+        "phonetic_hint": "/ɪnˈevɪtəbl/",
+        "options": [
+          "inevitable",
+          "incredible",
+          "invisible",
+          "informal"
+        ],
+        "answer_index": 0,
+        "example": "Given the weather, the delay was inevitable."
+      }
+    },
+    {
+      "id": "tem4_dc_0004",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "adj"
+      ],
+      "payload": {
+        "definition": "同时发生的",
+        "phonetic_hint": "/ˌsɪmlˈteɪniəs/",
+        "options": [
+          "spontaneous",
+          "simultaneous",
+          "suspicious",
+          "superficial"
+        ],
+        "answer_index": 1,
+        "example": "The two explosions were almost simultaneous."
+      }
+    },
+    {
+      "id": "tem4_dc_0005",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "adj"
+      ],
+      "payload": {
+        "definition": "不情愿的，勉强的",
+        "phonetic_hint": "/rɪˈlʌktənt/",
+        "options": [
+          "reluctant",
+          "relevant",
+          "redundant",
+          "resistant"
+        ],
+        "answer_index": 0,
+        "example": "She was reluctant to leave her hometown."
+      }
+    },
+    {
+      "id": "tem4_dc_0006",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "adj"
+      ],
+      "payload": {
+        "definition": "臭名昭著的",
+        "phonetic_hint": "/nəʊˈtɔːriəs/",
+        "options": [
+          "notable",
+          "notorious",
+          "nourishing",
+          "novel"
+        ],
+        "answer_index": 1,
+        "example": "The city was notorious for its bad traffic."
+      }
+    },
+    {
+      "id": "tem4_dc_0007",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": [
+        "adj"
+      ],
+      "payload": {
+        "definition": "可行的，可做的",
+        "phonetic_hint": "/ˈfiːzəbl/",
+        "options": [
+          "flexible",
+          "feasible",
+          "fragile",
+          "fertile"
+        ],
+        "answer_index": 1,
+        "example": "It is feasible to finish the project within a month."
+      }
+    },
+    {
+      "id": "tem4_dc_0008",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": [
+        "adj"
+      ],
+      "payload": {
+        "definition": "一致同意的，无异议的",
+        "phonetic_hint": "/juˈnænɪməs/",
+        "options": [
+          "unanimous",
+          "anonymous",
+          "autonomous",
+          "enormous"
+        ],
+        "answer_index": 0,
+        "example": "The committee reached a unanimous decision."
+      }
+    },
+    {
+      "id": "tem4_mc_0001",
+      "type": "multi_choice",
+      "difficulty": 4,
+      "tags": [
+        "grammar",
+        "cleft_sentence"
+      ],
+      "payload": {
+        "question": "It was not until she arrived home ___ she remembered her appointment with the doctor.",
+        "options": [
+          "that",
+          "when",
+          "and",
+          "then"
+        ],
+        "explanation": "考查强调句型 It is/was not until... that...，强调时间状语时用 that 引导，不可用 when。",
+        "answer_indices": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "tem4_mc_0002",
+      "type": "multi_choice",
+      "difficulty": 4,
+      "tags": [
+        "grammar",
+        "inversion"
+      ],
+      "payload": {
+        "question": "Not until he got off the bus ___ that his wallet was missing.",
+        "options": [
+          "did he realize",
+          "he realized",
+          "he did realize",
+          "realized he"
+        ],
+        "explanation": "Not until 置于句首，主句需部分倒装，借助助动词 did 并提前，故选 did he realize。",
+        "answer_indices": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "tem4_mc_0003",
+      "type": "multi_choice",
+      "difficulty": 4,
+      "tags": [
+        "grammar",
+        "subjunctive_mood"
+      ],
+      "payload": {
+        "question": "If I ___ your advice, I would have succeeded in the interview.",
+        "options": [
+          "had taken",
+          "took",
+          "take",
+          "would take"
+        ],
+        "explanation": "对过去的虚拟：条件句用 had + 过去分词，主句用 would have + 过去分词。",
+        "answer_indices": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "tem4_mc_0004",
+      "type": "multi_choice",
+      "difficulty": 4,
+      "tags": [
+        "grammar",
+        "subjunctive_mood"
+      ],
+      "payload": {
+        "question": "I would rather you ___ about it for the time being.",
+        "options": [
+          "didn't say anything",
+          "don't say anything",
+          "won't say anything",
+          "haven't said anything"
+        ],
+        "explanation": "would rather 后接从句时，对现在/将来的虚拟用一般过去时。",
+        "answer_indices": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "tem4_mc_0005",
+      "type": "multi_choice",
+      "difficulty": 5,
+      "tags": [
+        "grammar",
+        "concession"
+      ],
+      "payload": {
+        "question": "___, he could not solve the problem.",
+        "options": [
+          "Try as he might",
+          "As he might try",
+          "Might he as try",
+          "Try although he might"
+        ],
+        "explanation": "as 引导让步状语从句时，需将表语/动词原形/副词提前，结构为 动词原形 + as + 主语 + 情态动词。",
+        "answer_indices": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "tem4_mc_0006",
+      "type": "multi_choice",
+      "difficulty": 3,
+      "tags": [
+        "grammar",
+        "comparative"
+      ],
+      "payload": {
+        "question": "The more you practice, ___ you will become.",
+        "options": [
+          "the more confident",
+          "the confidenter",
+          "more confident",
+          "the most confident"
+        ],
+        "explanation": "the + 比较级 ..., the + 比较级 ... 结构，两个比较级前都要加 the。",
+        "answer_indices": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "tem4_mc_0007",
+      "type": "multi_choice",
+      "difficulty": 3,
+      "tags": [
+        "vocabulary",
+        "confusable"
+      ],
+      "payload": {
+        "question": "The new policy will ___ every employee in the company.",
+        "options": [
+          "affect",
+          "effect",
+          "infect",
+          "defect"
+        ],
+        "explanation": "affect 通常作动词，意为'影响'；effect 多作名词'效果'。此处需动词，选 affect。",
+        "answer_indices": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "tem4_mc_0008",
+      "type": "multi_choice",
+      "difficulty": 3,
+      "tags": [
+        "vocabulary",
+        "confusable"
+      ],
+      "payload": {
+        "question": "The orphan was ___ by a kind-hearted couple last year.",
+        "options": [
+          "adopted",
+          "adapted",
+          "adept",
+          "adjusted"
+        ],
+        "explanation": "adopt 收养/采纳；adapt 适应；adept 熟练的；adjust 调整。语境为收养，选 adopted。",
+        "answer_indices": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "tem4_mc_0009",
+      "type": "multi_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "confusable"
+      ],
+      "payload": {
+        "question": "The wine is a perfect ___ to the dish.",
+        "options": [
+          "complement",
+          "compliment",
+          "completion",
+          "compound"
+        ],
+        "explanation": "complement 补充、相配；compliment 赞美；语境为酒与菜相得益彰，选 complement。",
+        "answer_indices": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "tem4_mc_0010",
+      "type": "multi_choice",
+      "difficulty": 3,
+      "tags": [
+        "grammar",
+        "subject_verb_agreement"
+      ],
+      "payload": {
+        "question": "Each of the students ___ a different topic for the presentation.",
+        "options": [
+          "has chosen",
+          "have chosen",
+          "choosing",
+          "are choosing"
+        ],
+        "explanation": "each of + 复数名词作主语，谓语用单数，故选 has chosen。",
+        "answer_indices": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "tem4_mc_0011",
+      "type": "multi_choice",
+      "difficulty": 4,
+      "tags": [
+        "grammar",
+        "tense"
+      ],
+      "payload": {
+        "question": "By the end of next month, she ___ in this company for ten years.",
+        "options": [
+          "will have worked",
+          "will work",
+          "has worked",
+          "works"
+        ],
+        "explanation": "by the end of + 将来时间，主句用将来完成时 will have + 过去分词。",
+        "answer_indices": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "tem4_mc_0012",
+      "type": "multi_choice",
+      "difficulty": 4,
+      "tags": [
+        "vocabulary",
+        "confusable"
+      ],
+      "payload": {
+        "question": "The two theories are quite ___; you cannot confuse one with the other.",
+        "options": [
+          "distinct",
+          "distant",
+          "distinctive",
+          "distinguished"
+        ],
+        "explanation": "distinct 截然不同的、明显不同的；distant 遥远的；distinctive 有特色的；distinguished 杰出的。语境为'截然不同'，选 distinct。",
+        "answer_indices": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "tem4_sf_0001",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "cloze",
+        "verb"
+      ],
+      "payload": {
+        "sentence": "The new bridge will ___ the traffic between the two cities.",
+        "answer": "facilitate",
+        "options": [
+          "facilitate",
+          "frustrate",
+          "fluctuate",
+          "fabricate"
+        ],
+        "answer_index": 0,
+        "translation": "新桥将促进两城市之间的交通。"
+      }
+    },
+    {
+      "id": "tem4_sf_0002",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "cloze",
+        "collocation"
+      ],
+      "payload": {
+        "sentence": "We must ___ every effort to complete the project on time.",
+        "answer": "exert",
+        "options": [
+          "exert",
+          "exist",
+          "exhibit",
+          "exit"
+        ],
+        "answer_index": 0,
+        "translation": "我们必须尽一切努力按时完成项目。"
+      }
+    },
+    {
+      "id": "tem4_sf_0003",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "cloze",
+        "verb"
+      ],
+      "payload": {
+        "sentence": "The teacher's encouragement ___ him to work even harder.",
+        "answer": "inspired",
+        "options": [
+          "inspired",
+          "expired",
+          "inspected",
+          "installed"
+        ],
+        "answer_index": 0,
+        "translation": "老师的鼓励激发了他更加努力地工作。"
+      }
+    },
+    {
+      "id": "tem4_sf_0004",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "cloze",
+        "verb"
+      ],
+      "payload": {
+        "sentence": "It took her a long time to ___ from the shock of the accident.",
+        "answer": "recover",
+        "options": [
+          "recover",
+          "discover",
+          "uncover",
+          "cover"
+        ],
+        "answer_index": 0,
+        "translation": "她花了很长时间才从这次事故的震惊中恢复过来。"
+      }
+    },
+    {
+      "id": "tem4_sf_0005",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "cloze",
+        "adj"
+      ],
+      "payload": {
+        "sentence": "His explanation was so ___ that everyone understood it at once.",
+        "answer": "explicit",
+        "options": [
+          "explicit",
+          "implicit",
+          "elusive",
+          "exclusive"
+        ],
+        "answer_index": 0,
+        "translation": "他的解释十分明确，大家一下子就懂了。"
+      }
+    },
+    {
+      "id": "tem4_sf_0006",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "cloze",
+        "verb"
+      ],
+      "payload": {
+        "sentence": "The committee will ___ the proposal before making a final decision.",
+        "answer": "evaluate",
+        "options": [
+          "evaluate",
+          "estimate",
+          "elevate",
+          "eliminate"
+        ],
+        "answer_index": 0,
+        "translation": "委员会将在做最终决定前评估这项提议。"
+      }
+    },
+    {
+      "id": "tem4_sf_0007",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": [
+        "cloze",
+        "noun"
+      ],
+      "payload": {
+        "sentence": "She has a strong ___ for classical music.",
+        "answer": "preference",
+        "options": [
+          "preference",
+          "reference",
+          "conference",
+          "inference"
+        ],
+        "answer_index": 0,
+        "translation": "她十分偏爱古典音乐。"
+      }
+    },
+    {
+      "id": "tem4_sf_0008",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": [
+        "cloze",
+        "adj"
+      ],
+      "payload": {
+        "sentence": "The evidence is ___ to support his claim.",
+        "answer": "sufficient",
+        "options": [
+          "sufficient",
+          "deficient",
+          "efficient",
+          "proficient"
+        ],
+        "answer_index": 0,
+        "translation": "证据足以支持他的主张。"
+      }
+    },
+    {
+      "id": "tem4_sp_0001",
+      "type": "spelling",
+      "difficulty": 3,
+      "tags": [
+        "high_freq",
+        "verb"
+      ],
+      "payload": {
+        "definition": "保证，担保 (n./v.)",
+        "answer": "guarantee",
+        "phonetic": "/ˌɡærənˈtiː/",
+        "pos": "n./v.",
+        "hint_letters": [
+          0,
+          2
+        ],
+        "example": "We guarantee the quality of our products."
+      }
+    },
+    {
+      "id": "tem4_sp_0002",
+      "type": "spelling",
+      "difficulty": 5,
+      "tags": [
+        "high_freq",
+        "adj"
+      ],
+      "payload": {
+        "definition": "必要的，不可或缺的 (adj.)",
+        "answer": "indispensable",
+        "phonetic": "/ˌɪndɪˈspensəbl/",
+        "pos": "adj.",
+        "hint_letters": [
+          0,
+          4
+        ],
+        "example": "Water is indispensable to life."
+      }
+    },
+    {
+      "id": "tem4_sp_0003",
+      "type": "spelling",
+      "difficulty": 3,
+      "tags": [
+        "high_freq",
+        "noun"
+      ],
+      "payload": {
+        "definition": "机会，场合 (n.)",
+        "answer": "occasion",
+        "phonetic": "/əˈkeɪʒn/",
+        "pos": "n.",
+        "hint_letters": [
+          0,
+          3
+        ],
+        "example": "I met her on one occasion."
+      }
+    },
+    {
+      "id": "tem4_sp_0004",
+      "type": "spelling",
+      "difficulty": 3,
+      "tags": [
+        "high_freq",
+        "verb"
+      ],
+      "payload": {
+        "definition": "获得，得到 (v.)",
+        "answer": "acquire",
+        "phonetic": "/əˈkwaɪə(r)/",
+        "pos": "v.",
+        "hint_letters": [
+          0,
+          4
+        ],
+        "example": "She acquired fluency in French during her stay in Paris."
+      }
+    },
+    {
+      "id": "tem4_sp_0005",
+      "type": "spelling",
+      "difficulty": 3,
+      "tags": [
+        "high_freq",
+        "noun"
+      ],
+      "payload": {
+        "definition": "环境，周围状况 (n.)",
+        "answer": "environment",
+        "phonetic": "/ɪnˈvaɪrənmənt/",
+        "pos": "n.",
+        "hint_letters": [
+          0,
+          5
+        ],
+        "example": "We must protect the environment."
+      }
+    },
+    {
+      "id": "tem4_tf_0001",
+      "type": "true_false",
+      "difficulty": 4,
+      "tags": [
+        "grammar",
+        "cleft_sentence"
+      ],
+      "payload": {
+        "statement": "在强调句型中，强调人时只能用 who，不能用 that。",
+        "answer": false,
+        "explanation": "强调句强调人时，无论主语还是宾语，都可用 that；在非正式场合强调人作主语时也可用 who。"
+      }
+    },
+    {
+      "id": "tem4_tf_0002",
+      "type": "true_false",
+      "difficulty": 4,
+      "tags": [
+        "grammar",
+        "subjunctive_mood"
+      ],
+      "payload": {
+        "statement": "would rather 后接从句时，从句谓语动词要用虚拟语气，对现在/将来的情况用一般过去时。",
+        "answer": true,
+        "explanation": "would rather 后接从句表虚拟：对现在/将来用过去时，对过去用过去完成时。"
+      }
+    }
+  ]
+}

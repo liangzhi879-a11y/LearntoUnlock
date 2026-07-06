@@ -1,0 +1,571 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "bank_id": "english.bec.core",
+    "subject": "english",
+    "category": "bec",
+    "name": "BEC 商务英语核心",
+    "name_en": "BEC Business English Core",
+    "cefr_level": "C1",
+    "total_items": 40,
+    "source": "BEC 中高级真题整理",
+    "license": "CC-BY-SA 4.0",
+    "updated_at": "2026-07-05"
+  },
+  "items": [
+    {
+      "id": "bec_wc_0001",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["meeting", "noun"],
+      "payload": {
+        "word": "agenda",
+        "phonetic": "/əˈdʒendə/",
+        "pos": "n.",
+        "definitions": ["议程", "议事日程"],
+        "options": ["议程", "预算", "资产", "债务"],
+        "answer_index": 0,
+        "example": "Please review the agenda before the board meeting.",
+        "example_translation": "请在董事会会议前查阅议程。"
+      }
+    },
+    {
+      "id": "bec_wc_0002",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["finance", "verb"],
+      "payload": {
+        "word": "allocate",
+        "phonetic": "/ˈæləkeɪt/",
+        "pos": "v.",
+        "definitions": ["分配", "拨给"],
+        "options": ["回收", "分配", "取消", "保留"],
+        "answer_index": 1,
+        "example": "The board decided to allocate more funds to research and development.",
+        "example_translation": "董事会决定向研发部门拨付更多资金。"
+      }
+    },
+    {
+      "id": "bec_wc_0003",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["accounting", "verb"],
+      "payload": {
+        "word": "amortize",
+        "phonetic": "/əˈmɔːtaɪz/",
+        "pos": "v.",
+        "definitions": ["摊销", "分期偿还"],
+        "options": ["摊销", "增值", "结算", "提取"],
+        "answer_index": 0,
+        "example": "The intangible asset will be amortized over five years.",
+        "example_translation": "该无形资产将在五年内摊销。"
+      }
+    },
+    {
+      "id": "bec_wc_0004",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["hr", "noun"],
+      "payload": {
+        "word": "appraisal",
+        "phonetic": "/əˈpreɪzl/",
+        "pos": "n.",
+        "definitions": ["评估", "估价"],
+        "options": ["上诉", "评估", "批准", "采购"],
+        "answer_index": 1,
+        "example": "The annual performance appraisal will take place in December.",
+        "example_translation": "年度绩效评估将于十二月进行。"
+      }
+    },
+    {
+      "id": "bec_wc_0005",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["finance", "noun"],
+      "payload": {
+        "word": "asset",
+        "phonetic": "/ˈæset/",
+        "pos": "n.",
+        "definitions": ["资产", "财产"],
+        "options": ["负债", "资产", "收入", "成本"],
+        "answer_index": 1,
+        "example": "Property and equipment are recorded as fixed assets on the balance sheet.",
+        "example_translation": "房产和设备作为固定资产记入资产负债表。"
+      }
+    },
+    {
+      "id": "bec_wc_0006",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["accounting", "noun"],
+      "payload": {
+        "word": "audit",
+        "phonetic": "/ˈɔːdɪt/",
+        "pos": "n./v.",
+        "definitions": ["审计", "稽核"],
+        "options": ["审计", "招标", "谈判", "融资"],
+        "answer_index": 0,
+        "example": "The external audit confirmed that the accounts were accurate.",
+        "example_translation": "外部审计确认账目准确无误。"
+      }
+    },
+    {
+      "id": "bec_wc_0007",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["finance", "adj"],
+      "payload": {
+        "word": "bankrupt",
+        "phonetic": "/ˈbæŋkrʌpt/",
+        "pos": "adj.",
+        "definitions": ["破产的", "倒闭的"],
+        "options": ["盈利的", "扩张的", "破产的", "控股的"],
+        "answer_index": 2,
+        "example": "The retailer went bankrupt after years of declining sales.",
+        "example_translation": "该零售商在多年销售下滑后破产。"
+      }
+    },
+    {
+      "id": "bec_wc_0008",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["management", "noun"],
+      "payload": {
+        "word": "benchmark",
+        "phonetic": "/ˈbentʃmɑːk/",
+        "pos": "n./v.",
+        "definitions": ["基准", "标杆"],
+        "options": ["基准", "折扣", "补贴", "红利"],
+        "answer_index": 0,
+        "example": "We use industry benchmarks to evaluate our performance.",
+        "example_translation": "我们以行业基准来评估自身业绩。"
+      }
+    },
+    {
+      "id": "bec_wc_0009",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["finance", "noun"],
+      "payload": {
+        "word": "bond",
+        "phonetic": "/bɒnd/",
+        "pos": "n.",
+        "definitions": ["债券", "公债"],
+        "options": ["股票", "债券", "期权", "红利"],
+        "answer_index": 1,
+        "example": "The government issued ten-year bonds to finance the infrastructure project.",
+        "example_translation": "政府发行十年期债券为基础设施项目融资。"
+      }
+    },
+    {
+      "id": "bec_wc_0010",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["finance", "noun"],
+      "payload": {
+        "word": "collateral",
+        "phonetic": "/kəˈlætərəl/",
+        "pos": "n.",
+        "definitions": ["抵押品", "担保物"],
+        "options": ["抵押品", "合伙人", "债权人", "股东"],
+        "answer_index": 0,
+        "example": "The bank requires collateral before approving the loan.",
+        "example_translation": "银行在批准贷款前要求提供抵押品。"
+      }
+    },
+    {
+      "id": "bec_wc_0011",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["trade", "noun"],
+      "payload": {
+        "word": "commodity",
+        "phonetic": "/kəˈmɒdəti/",
+        "pos": "n.",
+        "definitions": ["商品", "大宗商品"],
+        "options": ["佣金", "商品", "关税", "配额"],
+        "answer_index": 1,
+        "example": "Oil and gold are among the most traded commodities in the world.",
+        "example_translation": "石油和黄金是世界上交易量最大的大宗商品。"
+      }
+    },
+    {
+      "id": "bec_wc_0012",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["finance", "verb"],
+      "payload": {
+        "word": "consolidate",
+        "phonetic": "/kənˈsɒlɪdeɪt/",
+        "pos": "v.",
+        "definitions": ["合并", "巩固"],
+        "options": ["分散", "合并", "清算", "撤销"],
+        "answer_index": 1,
+        "example": "The group plans to consolidate its overseas operations into one division.",
+        "example_translation": "该集团计划将海外业务合并为一个部门。"
+      }
+    },
+    {
+      "id": "bec_wc_0013",
+      "type": "word_choice",
+      "difficulty": 4,
+      "tags": ["accounting", "verb"],
+      "payload": {
+        "word": "depreciate",
+        "phonetic": "/dɪˈpriːʃieɪt/",
+        "pos": "v.",
+        "definitions": ["折旧", "贬值"],
+        "options": ["升值", "折旧", "摊销", "保值"],
+        "answer_index": 1,
+        "example": "Machinery depreciates over its useful life.",
+        "example_translation": "机械设备在其使用寿命内折旧。"
+      }
+    },
+    {
+      "id": "bec_wc_0014",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["finance", "noun"],
+      "payload": {
+        "word": "dividend",
+        "phonetic": "/ˈdɪvɪdend/",
+        "pos": "n.",
+        "definitions": ["股息", "红利"],
+        "options": ["股息", "税收", "罚金", "回扣"],
+        "answer_index": 0,
+        "example": "Shareholders will receive a quarterly dividend of 25 cents per share.",
+        "example_translation": "股东将获得每股 25 美分的季度股息。"
+      }
+    },
+    {
+      "id": "bec_sf_0001",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": ["accounting", "verb"],
+      "payload": {
+        "sentence": "The accountant needs to ___ the bank statement with the company ledger.",
+        "answer": "reconcile",
+        "options": ["reconcile", "recollect", "recommend", "recover"],
+        "answer_index": 0,
+        "translation": "会计需要将银行对账单与公司分类账进行核对。"
+      }
+    },
+    {
+      "id": "bec_sf_0002",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": ["payment", "verb"],
+      "payload": {
+        "sentence": "Please ___ the payment by wire transfer before the due date.",
+        "answer": "remit",
+        "options": ["remit", "submit", "permit", "commit"],
+        "answer_index": 0,
+        "translation": "请在到期日前通过电汇汇出款项。"
+      }
+    },
+    {
+      "id": "bec_sf_0003",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": ["finance", "noun"],
+      "payload": {
+        "sentence": "If the borrower fails to repay on time, the loan will be in ___.",
+        "answer": "default",
+        "options": ["default", "deficit", "defect", "defend"],
+        "answer_index": 0,
+        "translation": "如果借款人未能按时还款，贷款将构成违约。"
+      }
+    },
+    {
+      "id": "bec_sf_0004",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": ["finance", "verb"],
+      "payload": {
+        "sentence": "The investment bank agreed to ___ the new bond issue.",
+        "answer": "underwrite",
+        "options": ["underwrite", "undercut", "undertake", "undergo"],
+        "answer_index": 0,
+        "translation": "投资银行同意承销新发行的债券。"
+      }
+    },
+    {
+      "id": "bec_sf_0005",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": ["pricing", "verb"],
+      "payload": {
+        "sentence": "To win the contract, they decided to ___ their competitors' prices.",
+        "answer": "undercut",
+        "options": ["undercut", "overcharge", "upgrade", "update"],
+        "answer_index": 0,
+        "translation": "为了赢得合同，他们决定以低于竞争对手的价格竞标。"
+      }
+    },
+    {
+      "id": "bec_sf_0006",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": ["finance", "verb"],
+      "payload": {
+        "sentence": "The firm used futures contracts to ___ against currency risk.",
+        "answer": "hedge",
+        "options": ["hedge", "hunt", "host", "halt"],
+        "answer_index": 0,
+        "translation": "公司利用期货合约对冲汇率风险。"
+      }
+    },
+    {
+      "id": "bec_sf_0007",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": ["finance", "verb"],
+      "payload": {
+        "sentence": "The board voted to ___ the company's assets and pay off all creditors.",
+        "answer": "liquidate",
+        "options": ["liquidate", "allocate", "evaluate", "validate"],
+        "answer_index": 0,
+        "translation": "董事会投票决定清算公司资产以偿还所有债权人。"
+      }
+    },
+    {
+      "id": "bec_sf_0008",
+      "type": "sentence_fill",
+      "difficulty": 4,
+      "tags": ["finance", "verb"],
+      "payload": {
+        "sentence": "They decided to ___ the mortgage to take advantage of lower interest rates.",
+        "answer": "refinance",
+        "options": ["refinance", "finance", "refund", "resolve"],
+        "answer_index": 0,
+        "translation": "他们决定为抵押贷款再融资，以享受较低的利率。"
+      }
+    },
+    {
+      "id": "bec_mc_0001",
+      "type": "multi_choice",
+      "difficulty": 3,
+      "tags": ["negotiation", "dialogue"],
+      "payload": {
+        "question": "— Would you be willing to ___ on the price? — I'm afraid the price is non-negotiable.",
+        "options": ["negotiate", "navigate", "nominate", "notify"],
+        "answer_indices": [0],
+        "explanation": "negotiate 意为'谈判、协商'，符合商务议价场景；navigate 航行/导航，nominate 提名，notify 通知，均不符句意。"
+      }
+    },
+    {
+      "id": "bec_mc_0002",
+      "type": "multi_choice",
+      "difficulty": 4,
+      "tags": ["finance", "concept"],
+      "payload": {
+        "question": "The company is profitable on paper, but it faces serious ___ problems because clients pay late.",
+        "options": ["cash flow", "market share", "brand image", "unit cost"],
+        "answer_indices": [0],
+        "explanation": "客户延迟付款会导致现金流（cash flow）问题，而非市场份额、品牌形象或单位成本问题。"
+      }
+    },
+    {
+      "id": "bec_mc_0003",
+      "type": "multi_choice",
+      "difficulty": 4,
+      "tags": ["corporate", "concept"],
+      "payload": {
+        "question": "The ___ between the two firms will create the largest retailer in the region.",
+        "options": ["merger", "withdrawal", "default", "discount"],
+        "answer_indices": [0],
+        "explanation": "merger 意为'合并'，两家公司合并形成更大的零售商；withdrawal 撤回，default 违约，discount 折扣，均不合语境。"
+      }
+    },
+    {
+      "id": "bec_mc_0004",
+      "type": "multi_choice",
+      "difficulty": 4,
+      "tags": ["corporate", "concept"],
+      "payload": {
+        "question": "Before acquiring the startup, our legal team will conduct thorough ___.",
+        "options": ["due diligence", "goodwill", "forecast", "royalty"],
+        "answer_indices": [0],
+        "explanation": "due diligence 意为'尽职调查'，是收购前必须进行的审查程序；goodwill 商誉，forecast 预测，royalty 特许权使用费。"
+      }
+    },
+    {
+      "id": "bec_mc_0005",
+      "type": "multi_choice",
+      "difficulty": 4,
+      "tags": ["economics", "concept"],
+      "payload": {
+        "question": "By producing in larger quantities, the firm benefits from ___, reducing the cost per unit.",
+        "options": ["economies of scale", "diseconomies of scale", "opportunity cost", "sunk cost"],
+        "answer_indices": [0],
+        "explanation": "economies of scale 规模经济，指产量增加使单位成本下降；diseconomies of scale 规模不经济，方向相反；opportunity cost 机会成本，sunk cost 沉没成本。"
+      }
+    },
+    {
+      "id": "bec_mc_0006",
+      "type": "multi_choice",
+      "difficulty": 3,
+      "tags": ["management", "concept"],
+      "payload": {
+        "question": "The CFO will present the sales ___ for the next quarter at the board meeting.",
+        "options": ["forecast", "balance", "voucher", "tender"],
+        "answer_indices": [0],
+        "explanation": "forecast 意为'预测'，sales forecast 销售预测；balance 余额，voucher 凭证，tender 投标，均不符。"
+      }
+    },
+    {
+      "id": "bec_mc_0007",
+      "type": "multi_choice",
+      "difficulty": 3,
+      "tags": ["corporate", "concept"],
+      "payload": {
+        "question": "The proposal must be approved by the ___ before it can be implemented.",
+        "options": ["board of directors", "market share", "annual report", "balance sheet"],
+        "answer_indices": [0],
+        "explanation": "board of directors 董事会，重大提案需董事会批准；annual report 年报，balance sheet 资产负债表，market share 市场份额，均非决策机构。"
+      }
+    },
+    {
+      "id": "bec_mc_0008",
+      "type": "multi_choice",
+      "difficulty": 4,
+      "tags": ["economics", "concept"],
+      "payload": {
+        "question": "The government's ___ policy includes new tax incentives for exporters.",
+        "options": ["fiscal", "physical", "futile", "fertile"],
+        "answer_indices": [0],
+        "explanation": "fiscal policy 财政政策，涉及税收和政府支出；physical 物理的，futile 徒劳的，fertile 肥沃的，均不符。"
+      }
+    },
+    {
+      "id": "bec_dc_0001",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": ["accounting", "noun"],
+      "payload": {
+        "definition": "An intangible asset representing the value of a company's reputation and customer relationships.",
+        "phonetic_hint": "/ˌɡʊdˈwɪl/",
+        "options": ["goodwill", "patent", "inventory", "payroll"],
+        "answer_index": 0,
+        "example": "The acquisition price included a large amount for goodwill."
+      }
+    },
+    {
+      "id": "bec_dc_0002",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": ["economics", "noun"],
+      "payload": {
+        "definition": "A market structure in which a few firms dominate the industry.",
+        "phonetic_hint": "/ˌɒlɪˈɡɒpəli/",
+        "options": ["monopoly", "oligopoly", "partnership", "franchise"],
+        "answer_index": 1,
+        "example": "The airline industry is often cited as an example of an oligopoly."
+      }
+    },
+    {
+      "id": "bec_dc_0003",
+      "type": "definition_choice",
+      "difficulty": 4,
+      "tags": ["finance", "noun"],
+      "payload": {
+        "definition": "A formal legal document describing the details of an investment offering for potential investors.",
+        "phonetic_hint": "/prəˈspektəs/",
+        "options": ["prospectus", "agenda", "voucher", "invoice"],
+        "answer_index": 0,
+        "example": "Investors should read the prospectus carefully before subscribing to the shares."
+      }
+    },
+    {
+      "id": "bec_dc_0004",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": ["business", "noun"],
+      "payload": {
+        "definition": "A business arrangement in which an individual pays for the right to sell a company's products.",
+        "phonetic_hint": "/ˈfræntʃaɪz/",
+        "options": ["franchise", "subsidy", "tender", "tariff"],
+        "answer_index": 0,
+        "example": "She opened a fast-food franchise in the new shopping mall."
+      }
+    },
+    {
+      "id": "bec_lc_0001",
+      "type": "listening_choice",
+      "difficulty": 3,
+      "tags": ["meeting", "noun"],
+      "payload": {
+        "word": "schedule",
+        "phonetic": "/ˈʃedjuːl/",
+        "definitions": ["日程", "安排"],
+        "options": ["日程", "预算", "订单", "收据"],
+        "answer_index": 0,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "bec_lc_0002",
+      "type": "listening_choice",
+      "difficulty": 4,
+      "tags": ["accounting", "noun"],
+      "payload": {
+        "word": "ledger",
+        "phonetic": "/ˈledʒə(r)/",
+        "definitions": ["分类账", "账簿"],
+        "options": ["分类账", "议程", "红利", "关税"],
+        "answer_index": 0,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "bec_lc_0003",
+      "type": "listening_choice",
+      "difficulty": 3,
+      "tags": ["payment", "noun"],
+      "payload": {
+        "word": "voucher",
+        "phonetic": "/ˈvaʊtʃə(r)/",
+        "definitions": ["凭证", "代金券"],
+        "options": ["凭证", "招标", "股东", "佣金"],
+        "answer_index": 0,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "bec_lc_0004",
+      "type": "listening_choice",
+      "difficulty": 4,
+      "tags": ["trade", "noun"],
+      "payload": {
+        "word": "quota",
+        "phonetic": "/ˈkwəʊtə/",
+        "definitions": ["配额", "限额"],
+        "options": ["配额", "汇率", "债券", "审计"],
+        "answer_index": 0,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "bec_tf_0001",
+      "type": "true_false",
+      "difficulty": 4,
+      "tags": ["finance", "concept"],
+      "payload": {
+        "statement": "Compound interest is calculated only on the original principal of an investment.",
+        "answer": false,
+        "explanation": "复利（compound interest）不仅对本金计息，还对累积利息计息；仅对本金计息的是单利（simple interest）。"
+      }
+    },
+    {
+      "id": "bec_tf_0002",
+      "type": "true_false",
+      "difficulty": 3,
+      "tags": ["accounting", "concept"],
+      "payload": {
+        "statement": "A balance sheet shows a company's assets, liabilities, and shareholders' equity at a specific point in time.",
+        "answer": true,
+        "explanation": "资产负债表（balance sheet）反映企业在某一时点的资产、负债和所有者权益，是基本财务报表之一。"
+      }
+    }
+  ]
+}

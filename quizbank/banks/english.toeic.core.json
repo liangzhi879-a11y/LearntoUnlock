@@ -1,0 +1,848 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "bank_id": "english.toeic.core",
+    "subject": "english",
+    "category": "toeic",
+    "name": "TOEIC 托业核心",
+    "name_en": "TOEIC Core Vocabulary",
+    "cefr_level": "B2",
+    "total_items": 60,
+    "source": "TOEIC 真题高频词汇整理",
+    "license": "CC-BY-SA 4.0",
+    "updated_at": "2026-07-05"
+  },
+  "items": [
+    {
+      "id": "toeic_wc_0001",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["office", "verb"],
+      "payload": {
+        "word": "accomplish",
+        "phonetic": "/əˈkʌmplɪʃ/",
+        "pos": "v.",
+        "definitions": ["完成", "实现"],
+        "options": ["完成", "放弃", "推迟", "取消"],
+        "answer_index": 0,
+        "example": "We accomplished our sales target ahead of schedule.",
+        "example_translation": "我们提前完成了销售目标。"
+      }
+    },
+    {
+      "id": "toeic_wc_0002",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["business", "verb"],
+      "payload": {
+        "word": "acquire",
+        "phonetic": "/əˈkwaɪə(r)/",
+        "pos": "v.",
+        "definitions": ["获得", "收购"],
+        "options": ["失去", "获得", "拒绝", "归还"],
+        "answer_index": 1,
+        "example": "The company plans to acquire a smaller competitor.",
+        "example_translation": "公司计划收购一家较小的竞争对手。"
+      }
+    },
+    {
+      "id": "toeic_wc_0003",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["general", "adj"],
+      "payload": {
+        "word": "additional",
+        "phonetic": "/əˈdɪʃənl/",
+        "pos": "adj.",
+        "definitions": ["额外的", "附加的"],
+        "options": ["基本的", "额外的", "减少的", "免费的"],
+        "answer_index": 1,
+        "example": "Additional information is available on our website.",
+        "example_translation": "更多信息可在我们的网站上查阅。"
+      }
+    },
+    {
+      "id": "toeic_wc_0004",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["office", "verb"],
+      "payload": {
+        "word": "adjust",
+        "phonetic": "/əˈdʒʌst/",
+        "pos": "v.",
+        "definitions": ["调整", "调节"],
+        "options": ["调整", "维持", "忽略", "确认"],
+        "answer_index": 0,
+        "example": "Please adjust the thermostat to a comfortable temperature.",
+        "example_translation": "请将恒温器调至舒适的温度。"
+      }
+    },
+    {
+      "id": "toeic_wc_0005",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["meeting", "noun"],
+      "payload": {
+        "word": "agenda",
+        "phonetic": "/əˈdʒendə/",
+        "pos": "n.",
+        "definitions": ["议程", "日程"],
+        "options": ["议程", "机票", "收据", "菜单"],
+        "answer_index": 0,
+        "example": "The first item on the agenda is the budget report.",
+        "example_translation": "议程的第一项是预算报告。"
+      }
+    },
+    {
+      "id": "toeic_wc_0006",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["management", "verb"],
+      "payload": {
+        "word": "allocate",
+        "phonetic": "/ˈæləkeɪt/",
+        "pos": "v.",
+        "definitions": ["分配", "拨给"],
+        "options": ["收集", "分配", "取消", "借用"],
+        "answer_index": 1,
+        "example": "The manager allocated tasks to each team member.",
+        "example_translation": "经理把任务分配给每位团队成员。"
+      }
+    },
+    {
+      "id": "toeic_wc_0007",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["business", "noun"],
+      "payload": {
+        "word": "alternative",
+        "phonetic": "/ɔːlˈtɜːnətɪv/",
+        "pos": "n./adj.",
+        "definitions": ["替代方案", "可供选择的"],
+        "options": ["唯一选择", "替代方案", "原方案", "最终决定"],
+        "answer_index": 1,
+        "example": "We need to find an alternative supplier.",
+        "example_translation": "我们需要寻找替代供应商。"
+      }
+    },
+    {
+      "id": "toeic_wc_0008",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["research", "verb"],
+      "payload": {
+        "word": "analyze",
+        "phonetic": "/ˈænəlaɪz/",
+        "pos": "v.",
+        "definitions": ["分析", "解析"],
+        "options": ["分析", "忽略", "打包", "邮寄"],
+        "answer_index": 0,
+        "example": "The team will analyze the survey results next week.",
+        "example_translation": "团队将在下周分析调查结果。"
+      }
+    },
+    {
+      "id": "toeic_wc_0009",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["planning", "verb"],
+      "payload": {
+        "word": "anticipate",
+        "phonetic": "/ænˈtɪsɪpeɪt/",
+        "pos": "v.",
+        "definitions": ["预期", "预料"],
+        "options": ["回忆", "预期", "忘记", "忽视"],
+        "answer_index": 1,
+        "example": "We anticipate an increase in demand this quarter.",
+        "example_translation": "我们预计本季度需求将有所增长。"
+      }
+    },
+    {
+      "id": "toeic_wc_0010",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["office", "verb"],
+      "payload": {
+        "word": "arrange",
+        "phonetic": "/əˈreɪndʒ/",
+        "pos": "v.",
+        "definitions": ["安排", "布置"],
+        "options": ["取消", "安排", "拒绝", "忘记"],
+        "answer_index": 1,
+        "example": "I'll arrange a meeting with the client for tomorrow.",
+        "example_translation": "我会安排明天与客户会面。"
+      }
+    },
+    {
+      "id": "toeic_wc_0011",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["evaluation", "verb"],
+      "payload": {
+        "word": "assess",
+        "phonetic": "/əˈses/",
+        "pos": "v.",
+        "definitions": ["评估", "评价"],
+        "options": ["评估", "增加", "忽略", "拆除"],
+        "answer_index": 0,
+        "example": "The inspector will assess the building's safety.",
+        "example_translation": "检查员将评估大楼的安全性。"
+      }
+    },
+    {
+      "id": "toeic_wc_0012",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["meeting", "verb"],
+      "payload": {
+        "word": "attend",
+        "phonetic": "/əˈtend/",
+        "pos": "v.",
+        "definitions": ["出席", "参加"],
+        "options": ["缺席", "出席", "取消", "推迟"],
+        "answer_index": 1,
+        "example": "All staff are required to attend the training session.",
+        "example_translation": "全体员工都必须参加培训课程。"
+      }
+    },
+    {
+      "id": "toeic_wc_0013",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["office", "verb"],
+      "payload": {
+        "word": "authorize",
+        "phonetic": "/ˈɔːθəraɪz/",
+        "pos": "v.",
+        "definitions": ["批准", "授权"],
+        "options": ["禁止", "批准", "拒绝", "撤销"],
+        "answer_index": 1,
+        "example": "Only the manager can authorize overtime payments.",
+        "example_translation": "只有经理才能批准加班费。"
+      }
+    },
+    {
+      "id": "toeic_wc_0014",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["shopping", "adj"],
+      "payload": {
+        "word": "available",
+        "phonetic": "/əˈveɪləbl/",
+        "pos": "adj.",
+        "definitions": ["可获得的", "有空的"],
+        "options": ["繁忙的", "可获得的", "关闭的", "过期的"],
+        "answer_index": 1,
+        "example": "The product is available in three colors.",
+        "example_translation": "该产品有三种颜色可供选择。"
+      }
+    },
+    {
+      "id": "toeic_wc_0015",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["shopping", "noun"],
+      "payload": {
+        "word": "bargain",
+        "phonetic": "/ˈbɑːɡən/",
+        "pos": "n./v.",
+        "definitions": ["讨价还价", "便宜货"],
+        "options": ["赠品", "讨价还价", "订单", "收据"],
+        "answer_index": 1,
+        "example": "She managed to bargain the price down by 20 percent.",
+        "example_translation": "她成功地把价格砍下了两成。"
+      }
+    },
+    {
+      "id": "toeic_wc_0016",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["hr", "noun"],
+      "payload": {
+        "word": "benefit",
+        "phonetic": "/ˈbenɪfɪt/",
+        "pos": "n./v.",
+        "definitions": ["利益", "福利"],
+        "options": ["损失", "福利", "费用", "风险"],
+        "answer_index": 1,
+        "example": "Employees receive several benefits, including health insurance.",
+        "example_translation": "员工享受多项福利，包括医疗保险。"
+      }
+    },
+    {
+      "id": "toeic_wc_0017",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["hr", "noun"],
+      "payload": {
+        "word": "candidate",
+        "phonetic": "/ˈkændɪdət/",
+        "pos": "n.",
+        "definitions": ["候选人", "应聘者"],
+        "options": ["客户", "候选人", "供应商", "游客"],
+        "answer_index": 1,
+        "example": "Three candidates were interviewed for the position.",
+        "example_translation": "三位候选人接受了该职位的面试。"
+      }
+    },
+    {
+      "id": "toeic_wc_0018",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["facility", "noun"],
+      "payload": {
+        "word": "capacity",
+        "phonetic": "/kəˈpæsəti/",
+        "pos": "n.",
+        "definitions": ["容量", "容纳能力"],
+        "options": ["容量", "折扣", "收据", "日程"],
+        "answer_index": 0,
+        "example": "The conference room has a capacity of 50 people.",
+        "example_translation": "会议室可容纳 50 人。"
+      }
+    },
+    {
+      "id": "toeic_wc_0019",
+      "type": "word_choice",
+      "difficulty": 3,
+      "tags": ["dining", "verb"],
+      "payload": {
+        "word": "cater",
+        "phonetic": "/ˈkeɪtə(r)/",
+        "pos": "v.",
+        "definitions": ["承办酒席", "提供餐饮"],
+        "options": ["取消", "承办酒席", "退房", "登机"],
+        "answer_index": 1,
+        "example": "They catered the company's anniversary party.",
+        "example_translation": "他们为公司周年庆典提供餐饮服务。"
+      }
+    },
+    {
+      "id": "toeic_wc_0020",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["document", "noun"],
+      "payload": {
+        "word": "certificate",
+        "phonetic": "/səˈtɪfɪkət/",
+        "pos": "n.",
+        "definitions": ["证书", "证明"],
+        "options": ["证书", "车票", "菜单", "发票"],
+        "answer_index": 0,
+        "example": "Please present your gift certificate at the checkout.",
+        "example_translation": "请在结账时出示礼券。"
+      }
+    },
+    {
+      "id": "toeic_wc_0021",
+      "type": "word_choice",
+      "difficulty": 2,
+      "tags": ["payment", "verb"],
+      "payload": {
+        "word": "charge",
+        "phonetic": "/tʃɑːdʒ/",
+        "pos": "v./n.",
+        "definitions": ["收费", "要价"],
+        "options": ["收费", "退款", "赠送", "免除"],
+        "answer_index": 0,
+        "example": "The hotel charges a fee for early check-out.",
+        "example_translation": "酒店对提前退房收取费用。"
+      }
+    },
+    {
+      "id": "toeic_sf_0001",
+      "type": "sentence_fill",
+      "difficulty": 2,
+      "tags": ["reservation", "verb"],
+      "payload": {
+        "sentence": "Please call to ___ your reservation 24 hours in advance.",
+        "answer": "confirm",
+        "options": ["confirm", "conform", "inform", "reform"],
+        "answer_index": 0,
+        "translation": "请提前 24 小时来电确认您的预订。"
+      }
+    },
+    {
+      "id": "toeic_sf_0002",
+      "type": "sentence_fill",
+      "difficulty": 2,
+      "tags": ["travel", "verb"],
+      "payload": {
+        "sentence": "The flight was ___ due to heavy rain.",
+        "answer": "delayed",
+        "options": ["delayed", "delivered", "deleted", "denied"],
+        "answer_index": 0,
+        "translation": "由于大雨，航班被延误。"
+      }
+    },
+    {
+      "id": "toeic_sf_0003",
+      "type": "sentence_fill",
+      "difficulty": 2,
+      "tags": ["shopping", "noun"],
+      "payload": {
+        "sentence": "We offer free ___ for orders over $50.",
+        "answer": "delivery",
+        "options": ["delivery", "discount", "deposit", "duty"],
+        "answer_index": 0,
+        "translation": "50 美元以上的订单我们提供免费送货。"
+      }
+    },
+    {
+      "id": "toeic_sf_0004",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": ["travel", "noun"],
+      "payload": {
+        "sentence": "A $200 ___ is required to rent the car.",
+        "answer": "deposit",
+        "options": ["deposit", "discount", "tip", "fare"],
+        "answer_index": 0,
+        "translation": "租车需要支付 200 美元押金。"
+      }
+    },
+    {
+      "id": "toeic_sf_0005",
+      "type": "sentence_fill",
+      "difficulty": 2,
+      "tags": ["shopping", "noun"],
+      "payload": {
+        "sentence": "Members receive a 15 percent ___ on all purchases.",
+        "answer": "discount",
+        "options": ["discount", "charge", "fee", "tax"],
+        "answer_index": 0,
+        "translation": "会员在所有购物中可享受 15% 的折扣。"
+      }
+    },
+    {
+      "id": "toeic_sf_0006",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": ["education", "verb"],
+      "payload": {
+        "sentence": "You can ___ for the course online until Friday.",
+        "answer": "enroll",
+        "options": ["enroll", "employ", "enjoy", "endure"],
+        "answer_index": 0,
+        "translation": "您可以在周五前在线注册该课程。"
+      }
+    },
+    {
+      "id": "toeic_sf_0007",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": ["membership", "verb"],
+      "payload": {
+        "sentence": "Your membership will ___ at the end of this month.",
+        "answer": "expire",
+        "options": ["expire", "expect", "expand", "explain"],
+        "answer_index": 0,
+        "translation": "您的会员资格将于本月底到期。"
+      }
+    },
+    {
+      "id": "toeic_sf_0008",
+      "type": "sentence_fill",
+      "difficulty": 2,
+      "tags": ["payment", "noun"],
+      "payload": {
+        "sentence": "Please submit the ___ to the accounting department for payment.",
+        "answer": "invoice",
+        "options": ["invoice", "notice", "agenda", "ticket"],
+        "answer_index": 0,
+        "translation": "请将发票提交至会计部门以办理付款。"
+      }
+    },
+    {
+      "id": "toeic_sf_0009",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": ["communication", "verb"],
+      "payload": {
+        "sentence": "We will ___ you as soon as your order has shipped.",
+        "answer": "notify",
+        "options": ["notify", "modify", "identify", "justify"],
+        "answer_index": 0,
+        "translation": "您的订单发货后我们会立即通知您。"
+      }
+    },
+    {
+      "id": "toeic_sf_0010",
+      "type": "sentence_fill",
+      "difficulty": 2,
+      "tags": ["shopping", "noun"],
+      "payload": {
+        "sentence": "Keep your receipt in case you need to return your ___.",
+        "answer": "purchase",
+        "options": ["purchase", "pursuit", "purpose", "pleasure"],
+        "answer_index": 0,
+        "translation": "请保留收据以备退换所购商品。"
+      }
+    },
+    {
+      "id": "toeic_sf_0011",
+      "type": "sentence_fill",
+      "difficulty": 2,
+      "tags": ["dining", "verb"],
+      "payload": {
+        "sentence": "I'd like to ___ a table for four at 7 p.m.",
+        "answer": "reserve",
+        "options": ["reserve", "preserve", "observe", "deserve"],
+        "answer_index": 0,
+        "translation": "我想预订一张晚上七点的四人桌。"
+      }
+    },
+    {
+      "id": "toeic_sf_0012",
+      "type": "sentence_fill",
+      "difficulty": 3,
+      "tags": ["office", "verb"],
+      "payload": {
+        "sentence": "All applications must be ___ by Friday.",
+        "answer": "submitted",
+        "options": ["submitted", "permitted", "admitted", "omitted"],
+        "answer_index": 0,
+        "translation": "所有申请必须在周五前提交。"
+      }
+    },
+    {
+      "id": "toeic_mc_0001",
+      "type": "multi_choice",
+      "difficulty": 2,
+      "tags": ["office", "dialogue"],
+      "payload": {
+        "question": "I'd like to make a(n) ___ with Dr. Kim for next Tuesday.",
+        "options": ["appointment", "agreement", "assignment", "arrangement"],
+        "answer_indices": [0],
+        "explanation": "make an appointment 为固定搭配，意为'预约'；agreement 协议，assignment 任务，arrangement 安排，均不符。"
+      }
+    },
+    {
+      "id": "toeic_mc_0002",
+      "type": "multi_choice",
+      "difficulty": 3,
+      "tags": ["office", "dialogue"],
+      "payload": {
+        "question": "Please hold while I ___ your call to the billing department.",
+        "options": ["transfer", "transform", "transit", "translate"],
+        "answer_indices": [0],
+        "explanation": "transfer a call 意为'转接电话'；transform 改变，transit 运输，translate 翻译，均不符合电话场景。"
+      }
+    },
+    {
+      "id": "toeic_mc_0003",
+      "type": "multi_choice",
+      "difficulty": 3,
+      "tags": ["office", "grammar"],
+      "payload": {
+        "question": "Due to the storm, the conference has been ___ until next week.",
+        "options": ["postponed", "advanced", "expired", "removed"],
+        "answer_indices": [0],
+        "explanation": "postpone 意为'推迟'，符合因暴风雨延期会议的语境；advanced 提前，expired 过期，removed 移除，均不合逻辑。"
+      }
+    },
+    {
+      "id": "toeic_mc_0004",
+      "type": "multi_choice",
+      "difficulty": 2,
+      "tags": ["dining", "dialogue"],
+      "payload": {
+        "question": "Could you ___ a reliable caterer for our annual party?",
+        "options": ["recommend", "complain", "reject", "cancel"],
+        "answer_indices": [0],
+        "explanation": "recommend 推荐，符合请求推荐餐饮承办商的语境；complain 抱怨，reject 拒绝，cancel 取消，均不符。"
+      }
+    },
+    {
+      "id": "toeic_mc_0005",
+      "type": "multi_choice",
+      "difficulty": 3,
+      "tags": ["shopping", "concept"],
+      "payload": {
+        "question": "If the product is defective, we will issue a full ___ within five business days.",
+        "options": ["refund", "charge", "fee", "fare"],
+        "answer_indices": [0],
+        "explanation": "refund 退款，产品有缺陷时商家退款；charge 收费，fee 费用，fare 票价，均不符语境。"
+      }
+    },
+    {
+      "id": "toeic_mc_0006",
+      "type": "multi_choice",
+      "difficulty": 3,
+      "tags": ["office", "phrase"],
+      "payload": {
+        "question": "The copier is ___; please use the one on the second floor.",
+        "options": ["out of order", "in order", "on order", "by order"],
+        "answer_indices": [0],
+        "explanation": "out of order 为固定短语，意为'出故障的'；in order 状态正常，on order 已订购未到货，by order 奉命，均不符。"
+      }
+    },
+    {
+      "id": "toeic_mc_0007",
+      "type": "multi_choice",
+      "difficulty": 3,
+      "tags": ["travel", "adj"],
+      "payload": {
+        "question": "All guests receive ___ breakfast during their stay at the hotel.",
+        "options": ["complimentary", "compulsory", "complementary", "complaining"],
+        "answer_indices": [0],
+        "explanation": "complimentary 免费的/赠送的，酒店免费早餐常用此词；compulsory 强制的，complementary 互补的，complaining 抱怨的，均不符。"
+      }
+    },
+    {
+      "id": "toeic_mc_0008",
+      "type": "multi_choice",
+      "difficulty": 3,
+      "tags": ["hr", "dialogue"],
+      "payload": {
+        "question": "I'm calling to ___ about the marketing position advertised on your website.",
+        "options": ["inquire", "require", "acquire", "acclaim"],
+        "answer_indices": [0],
+        "explanation": "inquire about 询问，符合求职咨询场景；require 需要，acquire 获得，acclaim 称赞，均不符。"
+      }
+    },
+    {
+      "id": "toeic_mc_0009",
+      "type": "multi_choice",
+      "difficulty": 3,
+      "tags": ["office", "grammar"],
+      "payload": {
+        "question": "Could you ___ the deadline by two days? I need more time to finish the report.",
+        "options": ["extend", "expand", "expend", "expense"],
+        "answer_indices": [0],
+        "explanation": "extend the deadline 延长截止日期；expand 扩展，expend 花费，expense 名词费用，均不符。"
+      }
+    },
+    {
+      "id": "toeic_mc_0010",
+      "type": "multi_choice",
+      "difficulty": 2,
+      "tags": ["office", "dialogue"],
+      "payload": {
+        "question": "Is the conference room ___ at 3 p.m. this afternoon?",
+        "options": ["available", "capable", "reliable", "applicable"],
+        "answer_indices": [0],
+        "explanation": "available 可使用的/有空的，询问会议室是否可用；capable 有能力的，reliable 可靠的，applicable 适用的，主语通常为人或物，不符语境。"
+      }
+    },
+    {
+      "id": "toeic_mc_0011",
+      "type": "multi_choice",
+      "difficulty": 3,
+      "tags": ["communication", "phrase"],
+      "payload": {
+        "question": "I'm calling on ___ of Ms. Tanaka, who is unavailable today.",
+        "options": ["behalf", "benefit", "account", "part"],
+        "answer_indices": [0],
+        "explanation": "on behalf of 为固定搭配，意为'代表'；on account of 由于；benefit、part 不能构成此搭配，均不符。"
+      }
+    },
+    {
+      "id": "toeic_mc_0012",
+      "type": "multi_choice",
+      "difficulty": 2,
+      "tags": ["office", "dialogue"],
+      "payload": {
+        "question": "Would it be ___ for you to meet at 10 a.m. instead of 9?",
+        "options": ["convenient", "comfortable", "complete", "common"],
+        "answer_indices": [0],
+        "explanation": "convenient 方便的，询问改时间是否方便；comfortable 舒适的，complete 完整的，common 普遍的，均不符。"
+      }
+    },
+    {
+      "id": "toeic_dc_0001",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": ["retail", "noun"],
+      "payload": {
+        "definition": "Goods bought and sold in business; products available for purchase.",
+        "phonetic_hint": "/ˈmɜːtʃəndaɪs/",
+        "options": ["merchandise", "mileage", "manual", "memo"],
+        "answer_index": 0,
+        "example": "The store displays its merchandise in the front window."
+      }
+    },
+    {
+      "id": "toeic_dc_0002",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": ["business", "noun"],
+      "payload": {
+        "definition": "A person or company that sells goods or services, especially one that supplies a business.",
+        "phonetic_hint": "/ˈvendə(r)/",
+        "options": ["vendor", "visitor", "voter", "vessel"],
+        "answer_index": 0,
+        "example": "We source our ingredients from a local vendor."
+      }
+    },
+    {
+      "id": "toeic_dc_0003",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": ["real-estate", "noun"],
+      "payload": {
+        "definition": "A legal contract allowing someone to use a property or vehicle for a specified time in return for payment.",
+        "phonetic_hint": "/liːs/",
+        "options": ["lease", "loan", "lien", "leave"],
+        "answer_index": 0,
+        "example": "The company signed a three-year lease on the office space."
+      }
+    },
+    {
+      "id": "toeic_dc_0004",
+      "type": "definition_choice",
+      "difficulty": 3,
+      "tags": ["travel", "noun"],
+      "payload": {
+        "definition": "A planned route or schedule of a journey, listing places to visit and times.",
+        "phonetic_hint": "/aɪˈtɪnərəri/",
+        "options": ["itinerary", "invoice", "inventory", "interview"],
+        "answer_index": 0,
+        "example": "Please review the itinerary before your business trip."
+      }
+    },
+    {
+      "id": "toeic_dc_0005",
+      "type": "definition_choice",
+      "difficulty": 2,
+      "tags": ["payment", "noun"],
+      "payload": {
+        "definition": "A piece of paper acknowledging that money or goods have been received.",
+        "phonetic_hint": "/rɪˈsiːt/",
+        "options": ["receipt", "recipe", "record", "report"],
+        "answer_index": 0,
+        "example": "Keep your receipt in case you need to return the item."
+      }
+    },
+    {
+      "id": "toeic_dc_0006",
+      "type": "definition_choice",
+      "difficulty": 2,
+      "tags": ["hr", "noun"],
+      "payload": {
+        "definition": "The people who are employed in an organization; the department dealing with employees.",
+        "phonetic_hint": "/ˌpɜːsəˈnel/",
+        "options": ["personnel", "personal", "panel", "partner"],
+        "answer_index": 0,
+        "example": "Please submit your application to the personnel department."
+      }
+    },
+    {
+      "id": "toeic_lc_0001",
+      "type": "listening_choice",
+      "difficulty": 2,
+      "tags": ["travel", "noun"],
+      "payload": {
+        "word": "departures",
+        "phonetic": "/dɪˈpɑːtʃəz/",
+        "definitions": ["出发", "出港"],
+        "options": ["出发", "到达", "登机", "中转"],
+        "answer_index": 0,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "toeic_lc_0002",
+      "type": "listening_choice",
+      "difficulty": 3,
+      "tags": ["travel", "noun"],
+      "payload": {
+        "word": "terminal",
+        "phonetic": "/ˈtɜːmɪnl/",
+        "definitions": ["航站楼", "候机楼"],
+        "options": ["航站楼", "登机口", "行李牌", "登机牌"],
+        "answer_index": 0,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "toeic_lc_0003",
+      "type": "listening_choice",
+      "difficulty": 3,
+      "tags": ["medical", "noun"],
+      "payload": {
+        "word": "prescription",
+        "phonetic": "/prɪˈskrɪpʃn/",
+        "definitions": ["处方", "药方"],
+        "options": ["处方", "收据", "发票", "凭单"],
+        "answer_index": 0,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "toeic_lc_0004",
+      "type": "listening_choice",
+      "difficulty": 3,
+      "tags": ["travel", "noun"],
+      "payload": {
+        "word": "aisle",
+        "phonetic": "/aɪl/",
+        "definitions": ["过道", "通道"],
+        "options": ["过道", "座位", "窗口", "舱位"],
+        "answer_index": 0,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "toeic_lc_0005",
+      "type": "listening_choice",
+      "difficulty": 2,
+      "tags": ["travel", "noun"],
+      "payload": {
+        "word": "fare",
+        "phonetic": "/feə(r)/",
+        "definitions": ["票价", "车费"],
+        "options": ["票价", "费用", "税金", "押金"],
+        "answer_index": 0,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "toeic_lc_0006",
+      "type": "listening_choice",
+      "difficulty": 2,
+      "tags": ["travel", "noun"],
+      "payload": {
+        "word": "baggage",
+        "phonetic": "/ˈbæɡɪdʒ/",
+        "definitions": ["行李", "随身物品"],
+        "options": ["行李", "护照", "签证", "登机牌"],
+        "answer_index": 0,
+        "use_tts": true
+      }
+    },
+    {
+      "id": "toeic_tf_0001",
+      "type": "true_false",
+      "difficulty": 2,
+      "tags": ["travel", "concept"],
+      "payload": {
+        "statement": "A boarding pass is a document that allows a passenger to board an aircraft.",
+        "answer": true,
+        "explanation": "登机牌（boarding pass）是允许旅客登机的凭证，通常在值机时发放。"
+      }
+    },
+    {
+      "id": "toeic_tf_0002",
+      "type": "true_false",
+      "difficulty": 3,
+      "tags": ["travel", "concept"],
+      "payload": {
+        "statement": "When a hotel is 'fully booked', it means rooms are still available for new guests.",
+        "answer": false,
+        "explanation": "fully booked 意为'客房已满、订满'，表示没有空房可供新客人入住，而非仍有空房。"
+      }
+    },
+    {
+      "id": "toeic_tf_0003",
+      "type": "true_false",
+      "difficulty": 2,
+      "tags": ["travel", "concept"],
+      "payload": {
+        "statement": "A layover is a stop between flights during a journey.",
+        "answer": true,
+        "explanation": "layover 意为'中途停留'，指旅程中转机时的短暂停留。"
+      }
+    }
+  ]
+}
